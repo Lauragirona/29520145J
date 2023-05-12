@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="fr">
+        <seg>Avis pour Ciprofloxacin Bayer et dénominations associées</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230314T215141Z" creationid="halimahamada" creationdate="20230314T215141Z">
+        <seg>Avis pour Ciprofloxacin Bayer et dénominations associées </seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

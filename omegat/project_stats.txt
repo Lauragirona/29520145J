@@ -1,0 +1,14 @@
+5/05/23 16:41
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	      685	   10691	                    95918	                   105230	        1	
+Pendientes:       	      681	   10642	                    95651	                   104912	        1	
+Únicos:           	      646	   10469	                    93694	                   102885	        1	
+Pendientes únicos:	      644	   10452	                    93597	                   102771	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo                                                                                                                   	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+Karl Lagerfeld _ quelles sont les marques qui ont aide╠ü le cre╠üateur a╠Ç cre╠üer son uniforme emble╠ümatique _ _ Vogue France.html	               685	                 681	             646	                        644	         10691	              10642	          10469	                     10452	                          95918	                               95651	                           93694	                                      93597	                         105230	                              104912	                          102885	                                     102771	
