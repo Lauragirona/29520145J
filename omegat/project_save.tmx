@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Microsoft Word 15 (filtered)</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230519T130509Z" creationid="USUARIO" creationdate="20230519T130509Z">
+        <seg>Word.Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Si ce texte est modifié ou traduit, il faut le préciser ici et le nom du traducteur (ou des traducteurs) doit être clairement indiqué.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230317T150840Z" creationid="halimahamada" creationdate="20230317T150840Z">
