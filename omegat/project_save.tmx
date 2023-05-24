@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -138,6 +138,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120052Z" creationid="USUARIO" creationdate="20230524T120052Z">
         <seg>POR CLAIRE BEGHIN barbie es joven, enlazado, la talla fina y las tetas conicas como las pin-up de los años 1950.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Barbie, c’est aussi six décennies de culture populaire, retracées dans de nombreuses expositions ou livres, dont &lt;i1&gt;Barbie : Sixty years of inspiration&lt;/i1&gt;, à paraître le mois prochain chez Assouline.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T184111Z" creationid="USUARIO" creationdate="20230524T184111Z">
+        <seg>64 años de cultura pop Barbie, es también seis décadas de cultura popular, remontadas en numerosas exposiciones o libros, entre ellos Barbie: Sixty years of inspiration, a aparecer el próximo mes en Assouline.</seg>
       </tuv>
     </tu>
     <tu>
