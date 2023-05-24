@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais pas médecin.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T115256Z" creationid="USUARIO" creationdate="20230524T115256Z">
+        <seg>Pero no médico.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
