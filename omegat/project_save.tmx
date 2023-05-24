@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Comment Barbie est devenue une icône pop</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T115936Z" creationid="USUARIO" creationdate="20230524T115936Z">
+        <seg>Como barbie  se ha vuelto un icono pop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Mais pas médecin.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115256Z" creationid="USUARIO" creationdate="20230524T115256Z">
         <seg>Pero no médico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Une icône de la pop culture, célébrée par Andy Warhol et par les plus grands créateurs de mode, qui à plus de 60 ans n’a toujours pas pris une ride.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120004Z" creationid="USUARIO" creationdate="20230524T120004Z">
+        <seg>Un icono de la cultura del pop, celebrado por Andy Warhol y por los grandes creadores de moda, que tiene más de 60 años nunca ha tenido ninguna arruga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Vogue revient sur l’histoire de la poupée la plus célèbre au monde, qui a révolutionné l’histoire du jouet et suscité l’admiration autant que la controverse.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T115942Z" creationid="USUARIO" creationdate="20230524T115942Z">
+        <seg>Vogue vuelve a ver la historia de la muñeca más famosa del mund, que a revolucionado la historia del juguete y suscitado la admiración al igual que la controversia.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
