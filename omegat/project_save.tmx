@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i0&gt;&lt;s1&gt;« J’aime mes enfants, mais je n’étais pas faite pour m’occuper d’un foyer. »&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt;explique Ruth Handler dans une interview de 1994.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120404Z" creationid="USUARIO" creationdate="20230524T120404Z">
+        <seg>Amo a mis hijos, pero no estaba hecha para cuidar un hogar , explica Ruth Handler en una entrevista de 1994.</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="fr">
         <seg>&lt;i10&gt;« Barbie était une rebelle.</seg>
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120052Z" creationid="USUARIO" creationdate="20230524T120052Z">
         <seg>POR CLAIRE BEGHIN barbie es joven, enlazado, la talla fina y las tetas conicas como las pin-up de los años 1950.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;sur &lt;b1&gt;France Info&lt;/b1&gt; &lt;b2&gt;Anne Monier&lt;/b2&gt;, conservatrice de l’exposition&lt;/s0&gt;&lt;a3&gt;&lt;s4&gt; &lt;/s4&gt;&lt;/a3&gt;&lt;a5&gt;&lt;s6&gt;Barbie&lt;/s6&gt;&lt;/a5&gt;&lt;s7&gt; qui s’est tenue en 2016 au&lt;/s7&gt;&lt;a8&gt;&lt;s9&gt; &lt;/s9&gt;&lt;/a8&gt;&lt;a10&gt;&lt;b11&gt;&lt;s12&gt;Musée des Arts &lt;/s12&gt;&lt;/b11&gt;&lt;/a10&gt;&lt;a13&gt;&lt;b14&gt;&lt;s15&gt;décoratifs&lt;/s15&gt;&lt;/b14&gt;&lt;/a13&gt;&lt;s16&gt; de Paris.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120542Z" creationid="USUARIO" creationdate="20230524T120542Z">
+        <seg>«Barbie nació a finales de los años 50, donde todavía estamos en el imaginario de las chicas con tallas muy finas y pechos muy cónicos», explicaba recientemente en France Info Anne Monier, conservadora de la exposición Barbie celebrada en 2016 en el Museo de Artes Decorativas de Paris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63,6 +79,30 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>A l’époque, il n’y avait pas de femmes médecins.»&lt;/i9&gt; justifie Ruth Handler.&lt;/s8&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120422Z" creationid="USUARIO" creationdate="20230524T120422Z">
+        <seg>En aquella época no había mujeres médicas.».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Avec une famille qui n’a cessé de grandir et des milliers de produits dérivés, la plus jeune des vieilles filles n’a pas pris une ride, et génère encore plus d’un milliard de dollars de profits par an.&lt;/s21&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120549Z" creationid="USUARIO" creationdate="20230524T120549Z">
+        <seg>Con una familia que no ha dejado de crecer y miles de productos derivados, la más joven de las solteronas no ha envejecido, y genera aún más de mil millones de dólares en beneficios al año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Barbie est hôtesse de l’air, professeure, chirurgienne, cosmonaute (elle pose le pied sur la lune en 1965, quatre ans avant&lt;/s2&gt;&lt;a3&gt;&lt;s4&gt; &lt;/s4&gt;&lt;/a3&gt;&lt;a5&gt;&lt;b6&gt;&lt;s7&gt;Neil Armstrong&lt;/s7&gt;&lt;/b6&gt;&lt;/a5&gt;&lt;s8&gt;), infirmière.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120411Z" creationid="USUARIO" creationdate="20230524T120411Z">
+        <seg>Barbie es azafata, profesora, cirujana, cosmonauta (puso el pie en la luna en 1965, cuatro años antes de Neil Armstrong), enfermera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Comment Barbie est devenue une icône pop</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115936Z" creationid="USUARIO" creationdate="20230524T115936Z">
@@ -71,10 +111,42 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Dans les années 1970, en pleine vague de revendications féministes, on lui reproche d’incarner un idéal physique inatteignable, une représentation dangereuse du corps de la femme pour les jeunes filles.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120446Z" creationid="USUARIO" creationdate="20230524T120446Z">
+        <seg>En los años 70, en plena ola de reivindicaciones feministas, se le reprocha encarnar un ideal físico inalcanzable, una representación peligrosa del cuerpo de la mujer para las jóvenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Elle a montré aux femmes la porte de sortie de la cuisine. »&lt;/i10&gt;&lt;/s9&gt;&lt;s11&gt; &lt;/s11&gt;&lt;s12&gt;expliquait l’auteure américaine M.G. Lord&lt;/s12&gt;&lt;s13&gt; &lt;/s13&gt;&lt;s14&gt;en 1994, lors de la sortie de son livre &lt;i15&gt;Forever Barbie&lt;/i15&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120110Z" creationid="USUARIO" creationdate="20230524T120110Z">
         <seg>Enseñó a las mujeres el salir de la cocina » explicaba la autora americana M.G. Lord en 1994, cuando salio su libro Forever de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elle divorce même en 2004, comme l’annonce un très sérieux communiqué de presse de &lt;b2&gt;Mattel&lt;/b2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120439Z" creationid="USUARIO" creationdate="20230524T120439Z">
+        <seg>Se divorcia incluso en 2004, como el anuncio de un muy serio comunicado de prensa de Mattel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elle imagine donc une poupée à son image, libre et carriériste, affranchie des devoirs supposés de la femme WASP américaine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120406Z" creationid="USUARIO" creationdate="20230524T120406Z">
+        <seg>Se imagina una muñeca a su imagen, libre y progresista, liberada de los deberes supuestos de la mujer WASP estadounidense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elle incarne une femme libre dans une société moderne, épouse toutes les carrières et s’amuse avec &lt;b1&gt;Ken&lt;/b1&gt;, élément discret de son univers édulcoré.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120437Z" creationid="USUARIO" creationdate="20230524T120437Z">
+        <seg>Encarna a una mujer libre en una sociedad moderna, abraza todas las carreras y se divierte con Ken, elemento discreto de su universo edulcorado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95,6 +167,22 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Et une icône est née.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120356Z" creationid="USUARIO" creationdate="20230524T120356Z">
+        <seg>Y un icono ha nacido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Féminisme et controverse</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120426Z" creationid="USUARIO" creationdate="20230524T120426Z">
+        <seg>Feminismo y controversia Allí está toda la paradoja de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Inspirée par Bild Lili, une poupée allemande, elle s’éloigne du modèle classique du poupon : Barbie est une femme, avec des seins, elle porte du maquillage et des talons hauts.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120351Z" creationid="USUARIO" creationdate="20230524T120351Z">
@@ -103,10 +191,42 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Je voulais le montrer tel qu’il était.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120419Z" creationid="USUARIO" creationdate="20230524T120419Z">
+        <seg>Quería mostrarle lo que era.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Là est tout le paradoxe de &lt;b0&gt;Barbie&lt;/b0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120431Z" creationid="USUARIO" creationdate="20230524T120431Z">
+        <seg>Feminismo y controversia Allí está toda la paradoja de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>L’histoire démarre en 1959, quand Ruth Handler, une Américaine originaire du Colorado, convainc son mari, le co-fondateur de Mattel, de lancer un nouveau prototype de poupée.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120118Z" creationid="USUARIO" creationdate="20230524T120118Z">
         <seg>La historia empieza en 1959, cuando Ruth Handler, una Americana de origen de Colorado, convence a su marido, el co fundador de Mattel, de lanzar un nuevo prototipo de la muñeca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais la poupée, fine, blanche et blonde, peine à se détacher des stéréotypes féminins jugés discriminatoires.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120443Z" creationid="USUARIO" creationdate="20230524T120443Z">
+        <seg>Pero la muñeca, delgada, blanca y rubia, apenas se aleja de los estereotipos femeninos considerados discriminatorios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais le pouvoir attractif de &lt;b22&gt;Barbie&lt;/b22&gt; est plus fort.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120546Z" creationid="USUARIO" creationdate="20230524T120546Z">
+        <seg>Pero el poder atractivo de Barbie es más fuerte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123,6 +243,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120102Z" creationid="USUARIO" creationdate="20230524T120102Z">
         <seg>Estamos a 9 de marzo 1959 en el salon del juego de Nueva York y de arriba de sus 28 cm, esta en el punto de conquistar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Si Barbie a un aussi long cou c'est aussi pour lui passer des vêtements, cette taille très fine ça permet de l'attraper, de bien la manier. » Si, dans les années 1960, la poupée adopte un style vestimentaire&lt;/s16&gt;&lt;a17&gt;&lt;s18&gt; &lt;/s18&gt;&lt;/a17&gt;&lt;a19&gt;&lt;s20&gt;hippie&lt;/s20&gt;&lt;/a19&gt;&lt;s21&gt;, embrasse des carrières sociales et s’intéresse à l’art, pour ses détracteurs, elle reste une incarnation de femme futile et oisive.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120516Z" creationid="USUARIO" creationdate="20230524T120516Z">
+        <seg>Si Barbie tiene un cuello tan largo es también para pasarle ropa, esta cintura muy fina le permite cogerla, manejarla bien. » Si, en los años 60, la muñeca adopta un estilo hippie, abraza carreras sociales y se interesa por el arte, para sus detractores sigue siendo una encarnación de mujer fútil y ociosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -147,6 +275,22 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115942Z" creationid="USUARIO" creationdate="20230524T115942Z">
         <seg>Vogue vuelve a ver la historia de la muñeca más famosa del mund, que a revolucionado la historia del juguete y suscitado la admiración al igual que la controversia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>« Barbie est née à la fin des années 50, où on est encore dans l'imaginaire des pin-up avec des tailles très fines et des seins très coniques »expliquait récemment</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120510Z" creationid="USUARIO" creationdate="20230524T120510Z">
+        <seg>«Barbie nació a finales de los años 50, donde todavía estamos en el imaginario de las chicas con tallas muy finas y pechos muy cónicos», explicaba recientemente en France Info Anne Monier, conservadora de la exposición Barbie celebrada en 2016 en el Museo de Artes Decorativas de Paris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>« Il y a aussi l'impératif du jouet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120520Z" creationid="USUARIO" creationdate="20230524T120520Z">
+        <seg>También está el imperativo del juguete.</seg>
       </tuv>
     </tu>
     <tu>
