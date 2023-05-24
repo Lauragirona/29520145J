@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,39 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120052Z" creationid="USUARIO" creationdate="20230524T120052Z">
         <seg>POR CLAIRE BEGHIN barbie es joven, enlazado, la talla fina y las tetas conicas como las pin-up de los años 1950.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;14 avril 2023&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230524T120448Z" creationid="halimahamada" creationdate="20230524T120448Z">
+        <seg>• 14 de abril del 2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Courtesy of Hulu.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230524T120453Z" creationid="halimahamada" creationdate="20230524T120453Z">
+        <seg>Cortesía de Hulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Dans une interview exclusive Kourtney Kardashian donne de nouveaux détails sur ses nombreux mariages avec Travis Barker pour la sortie de sa nouvelle émission.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230524T115326Z" creationid="halimahamada" creationdate="20230524T115326Z">
+        <seg>En una entrevista exclusiva Kourtney Kardashian da nuevos detalles sobre su boda con Travis Barker para el estreno de la nueva temporada de su serie. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Par &lt;/s3&gt;&lt;u4&gt;&lt;s5&gt;Elise Taylor&lt;/s5&gt;&lt;/u4&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230524T120442Z" creationid="halimahamada" creationdate="20230524T120442Z">
+        <seg>• Por Elise Taylor</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +123,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120102Z" creationid="USUARIO" creationdate="20230524T120102Z">
         <seg>Estamos a 9 de marzo 1959 en el salon del juego de Nueva York y de arriba de sus 28 cm, esta en el punto de conquistar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Une &lt;b14&gt;Kourtney&lt;/b14&gt; &lt;b15&gt;Kardashian&lt;/b15&gt; inquiète qui appelle sa fille Penelope alors qu'une foule de paparazzi les assaille à Portofino.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230524T120515Z" creationid="halimahamada" creationdate="20230524T120515Z">
+        <seg>Una Kourtney Kardashian preocupada que llama a su hija Penélope mientras una multitud de paparazzi los asalta en Portofino. </seg>
       </tuv>
     </tu>
     <tu>
