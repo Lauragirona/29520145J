@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="fr">
+        <seg>&lt;i9&gt;« Je n’ai jamais rêvé de changer le monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T115321Z" creationid="USUARIO" creationdate="20230524T115321Z">
+        <seg>Nunca soñé con cambiar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Mais pas médecin.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115256Z" creationid="USUARIO" creationdate="20230524T115256Z">
