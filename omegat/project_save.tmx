@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="fr">
+        <seg>&lt;i10&gt;« Barbie était une rebelle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120104Z" creationid="USUARIO" creationdate="20230524T120104Z">
+        <seg>« Barbie era una rebella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;i9&gt;« Je n’ai jamais rêvé de changer le monde.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115321Z" creationid="USUARIO" creationdate="20230524T115321Z">
         <seg>Nunca soñé con cambiar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Barbie est jeune, élancée, la taille fine et les seins coniques comme les pin-up des années 1950.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120052Z" creationid="USUARIO" creationdate="20230524T120052Z">
+        <seg>POR CLAIRE BEGHIN barbie es joven, enlazado, la talla fina y las tetas conicas como las pin-up de los años 1950.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +38,58 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Elle a montré aux femmes la porte de sortie de la cuisine. »&lt;/i10&gt;&lt;/s9&gt;&lt;s11&gt; &lt;/s11&gt;&lt;s12&gt;expliquait l’auteure américaine M.G. Lord&lt;/s12&gt;&lt;s13&gt; &lt;/s13&gt;&lt;s14&gt;en 1994, lors de la sortie de son livre &lt;i15&gt;Forever Barbie&lt;/i15&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120110Z" creationid="USUARIO" creationdate="20230524T120110Z">
+        <seg>Enseñó a las mujeres el salir de la cocina » explicaba la autora americana M.G. Lord en 1994, cuando salio su libro Forever de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elle ne se définissait pas par ses relations amoureuses ou ses responsabilités envers les hommes et sa famille.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120107Z" creationid="USUARIO" creationdate="20230524T120107Z">
+        <seg>Se la definia por sus relaciones amorosas o sus responsabilidad hacia los hombres o su familia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elle porte un maillot de bain rayé noir et blanc, une paire de mules à talons, et affiche un regard impassible, presque sévère, souligné d’un trait d’&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;eye-liner&lt;/s2&gt;&lt;/a1&gt;&lt;s3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120056Z" creationid="USUARIO" creationdate="20230524T120056Z">
+        <seg>Ella lleva un bañador de rayas blanco y negro, un par de mulas de tacón, y tiene una mirada impacible, casi severo, subrayado de una linea de eye-liner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Inspirée par Bild Lili, une poupée allemande, elle s’éloigne du modèle classique du poupon : Barbie est une femme, avec des seins, elle porte du maquillage et des talons hauts.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120351Z" creationid="USUARIO" creationdate="20230524T120351Z">
+        <seg>Inspirada por Bild Lili, una muñeca alemana, ella se aleja del modelo clasico del poupon: Barbie es una mujer, con tetas, lleva maquillaje y tacones altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>L’histoire démarre en 1959, quand Ruth Handler, une Américaine originaire du Colorado, convainc son mari, le co-fondateur de Mattel, de lancer un nouveau prototype de poupée.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120118Z" creationid="USUARIO" creationdate="20230524T120118Z">
+        <seg>La historia empieza en 1959, cuando Ruth Handler, una Americana de origen de Colorado, convence a su marido, el co fundador de Mattel, de lanzar un nuevo prototipo de la muñeca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Mais pas médecin.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115256Z" creationid="USUARIO" creationdate="20230524T115256Z">
         <seg>Pero no médico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous sommes le 9 mars 1959 au salon du jouet de&lt;/s3&gt;&lt;a4&gt;&lt;s5&gt; &lt;/s5&gt;&lt;/a4&gt;&lt;a6&gt;&lt;s7&gt;New York&lt;/s7&gt;&lt;/a6&gt;&lt;s8&gt; &lt;/s8&gt;&lt;s9&gt;et, du haut de ses 28 centimètres, elle est sur le point de conquérir le monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120102Z" creationid="USUARIO" creationdate="20230524T120102Z">
+        <seg>Estamos a 9 de marzo 1959 en el salon del juego de Nueva York y de arriba de sus 28 cm, esta en el punto de conquistar el mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +106,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115942Z" creationid="USUARIO" creationdate="20230524T115942Z">
         <seg>Vogue vuelve a ver la historia de la muñeca más famosa del mund, que a revolucionado la historia del juguete y suscitado la admiración al igual que la controversia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>À l’époque, plus d’un million de poupées était vendu chaque année à travers le monde, générant déjà plus d’un milliard de dollars de profits annuels.&lt;/s14&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230524T120114Z" creationid="USUARIO" creationdate="20230524T120114Z">
+        <seg>A la época, más de un millón de muñecas fueron vendidas cada año a través del mundo, generando más de un millón de dólares de ingresos anuales.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
