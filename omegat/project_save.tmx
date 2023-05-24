@@ -6,6 +6,110 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="fr">
+        <seg>"Cela allonge aussi le bras.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>" También alarga el brazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>"Dans l'ancien protocole, il est impoli de dire bonjour à quelqu'un qui porte des gants", a-t-il déclaré au magazine M en 2012.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>" En el antiguo protocolo, es descortés saludar a alguien que lleva guantes", dijo a la revista M en 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>"Je ne suis pas très doué pour les coiffures.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>" No soy muy bueno con los peinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>"Pour moi, les lunettes noires sont comme un fard à paupières.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>" Para mí, las gafas oscuras son como sombra de ojos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>(Nous avions bu trop de tequila et nous étions dans l'instant présent, ce qui était très amusant.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Durante esta odisea llena de espíritu y que tiene todo de un coming of age movie, el cineasta Mike Mills desdibuja incluso algunas recomendaciones de libros esenciales para el despertar feminista, entre los cuales la antología Sisterhood is Powerful(La sororidad, es el poder en francés) o el clásico Our Bodies, Ourselves(Nuestro cuerpo, nosotros mismos), que dirige tanto a su personaje como a su espectador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>(…) Mais je n’oublie pas que Barbie est un jouet, elle est là pour qu’on s’amuse et on ne devrait pas réfléchir plus loin que ça.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Una Kourtney Kardashian preocupada que llama a su hija Penélope mientras una multitud de paparazzi los asalta en Portofino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>25 avril 2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>LAURA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>27 avril 2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>3/96</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>5/96</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>64 ans de pop culture</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Apostaba por el denim doble con una chaqueta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>7 chaussures d’été que les femmes françaises ne quittent jamais</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es Les Plus Lus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>8/96</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;i0&gt;&lt;s1&gt;« J’aime mes enfants, mais je n’étais pas faite pour m’occuper d’un foyer. »&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt;explique Ruth Handler dans une interview de 1994.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120404Z" creationid="USUARIO" creationdate="20230524T120404Z">
@@ -34,6 +138,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120052Z" creationid="USUARIO" creationdate="20230524T120052Z">
         <seg>POR CLAIRE BEGHIN barbie es joven, enlazado, la talla fina y las tetas conicas como las pin-up de los años 1950.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Elliot Grainge&lt;/s0&gt; a demandé la main de &lt;s1&gt;&lt;a2&gt;Sofia Richie&lt;/a2&gt;&lt;/s1&gt; à Hawaï après un an de relation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230524T120617Z" creationid="laura" creationdate="20230524T120617Z">
+        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
@@ -87,10 +199,34 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Au début, nous avons cherché les églises de la ville.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Avec une famille qui n’a cessé de grandir et des milliers de produits dérivés, la plus jeune des vieilles filles n’a pas pris une ride, et génère encore plus d’un milliard de dollars de profits par an.&lt;/s21&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120549Z" creationid="USUARIO" creationdate="20230524T120549Z">
         <seg>Con una familia que no ha dejado de crecer y miles de productos derivados, la más joven de las solteronas no ha envejecido, y genera aún más de mil millones de dólares en beneficios al año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Avec, à chaque fois des looks pointus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Era un pequeño grupo íntimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Barbie au XXIè siècle</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
@@ -103,10 +239,154 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Beyoncé est la superstar de notre numéro d'avril.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Beyoncé, Super Star de Vogue France</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Bien que la société hétéronormée voudrait nous faire croire qu’elle vit seule en l'absence d’un mari, on se rend vite compte que le terme ne correspond pas au quotidien de notre protagoniste.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Todos eran imperfectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C'est la meilleure chose à faire car mes cheveux sont toujours propres".</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Es lo mejor que puedo hacer porque mi cabello siempre está limpio".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C'est parfait avec cette poudre blanche, parce que mes cheveux ne sont pas tout à fait blancs".</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Es perfecto con este polvo blanco, porque mi cabello no es del todo blanco".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C'est un véritable artiste.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C'était encore assez calme.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Causse</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ce film féministe repense la famille en dehors du cadre hétéronormé, et c'est inspirant</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No tenía damas de honor y quería que mis hermanas se impregnaran de lo que hacíamos y vivieran esta experiencia italiana. es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ce sont de sacrés organisateurs.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La perspectiva adulta ocupa demasiado espacio en todo esto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ce sont de vraies rockstars.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Son verdaderas estrellas de rock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Chanel, Chrome Hearts, Dior Homme… Tant de marques qui se cachent derrière l'uniforme bien connu de Karl Lagerfeld.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Siempre he soñado que me Maquillaría el día de mi boda", confiesa Sofía Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Chrome Hearts</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Comme notre mariage a eu lieu en Italie, nous avons dû nous marier en Californie pour qu'il soit légal aux États-Unis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Ella encarna a una mujer libre en una sociedad moderna, se casa con todas las carreras y se divierte con Ken, elemento discreto de su universo edulcorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Comment Barbie est devenue une icône pop</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115936Z" creationid="USUARIO" creationdate="20230524T115936Z">
         <seg>Como barbie  se ha vuelto un icono pop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Considérés comme des bijoux pour les mains, chaque gant nécessite plus d'une semaine de travail.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Considerados como joyas para las manos, cada guante requiere más de una semana de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C’est donc sans surprise que les jeunes tourtereaux ont été présentés par des amis communs.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Me propuso matrimonio en la hora dorada, fue un momento mágico".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C’est la muse parfaite pour un créateur : elle a eu tous les jobs imaginables, une tenue pour chaque occasion, jour ou nuit, composées avec beaucoup de style.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Vemos una Kourtney Kardashian y un Travis Baker ebrio en una capilla de Las Vegas iluminada por lámparas fluorescentes después de los premios Grammy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C’était si émouvant, j’ai tellement de chance d’avoir mes parents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Fue tan conmovedor, tengo tanta suerte de tener mis padres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119,10 +399,106 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Dans un article pour Harper's Bazaar en 2012, le créateur a raconté sa journée : "À 11 heures, je vais chez le coiffeur car je déteste avoir des cheveux dans le visage quand je fais un croquis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>En un artículo para Harper’s Bazaar en 2012, el creador contó su día: "A las 11:00, voy al peluquero porque odio tener el pelo en la cara cuando hago un boceto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>De conquérir les plus grands studios grâce à vos talents de songwriting ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>De faire résonner votre voix d’or dans les stades ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>De plus, personne ne savait ce qui se passait.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Descubra así The Art of es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Depuis 2016, l’entreprise propose quatre différents formats de corps, différentes couleurs de peau, d’yeux et de cheveux.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Diva soul aux quinze Grammys et artiste aux talents multiples, Alicia Keys révèle sa co-création avec Moncler : une collection sportswear qui rend hommage à l’atmosphère vibrante des rues new-yorkaises.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>• ¡Lo sé!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Donc c'était déjà une chose en cours depuis le début de la soirée.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Dripping in Chrome Hearts, Lagerfeld as featured in Chrome Hearts Magazine, Series 1 Volume 6 in 2013.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Las casas de moda que Karl Lagerfeld utilizó para crear su aspecto legendario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Découvrez un aperçu exclusif du mariage de la fille de Lionel Richie, Sofia Richie en robes de mariée Chanel et Elliot Grainge, des moments intimes avant la cérémonie à la danse lors de l'afterparty.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Boda: Sofia Richie y Elliot Grainge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>D’ailleurs, elle sent déjà le décalage avec la nouvelle génération qui grandit sous ses yeux.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Además, nadie sabía lo que estaba pasando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elle a 55 ans, lui en a 15.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Elle a montré aux femmes la porte de sortie de la cuisine. »&lt;/i10&gt;&lt;/s9&gt;&lt;s11&gt; &lt;/s11&gt;&lt;s12&gt;expliquait l’auteure américaine M.G. Lord&lt;/s12&gt;&lt;s13&gt; &lt;/s13&gt;&lt;s14&gt;en 1994, lors de la sortie de son livre &lt;i15&gt;Forever Barbie&lt;/i15&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120110Z" creationid="USUARIO" creationdate="20230524T120110Z">
         <seg>Enseñó a las mujeres el salir de la cocina » explicaba la autora americana M.G. Lord en 1994, cuando salio su libro Forever de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elle demande plutôt aux femmes qui l’entourent d'intervenir auprès de lui, afin qu’il cultive ses qualités et trouve sa place dans le monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
@@ -151,6 +527,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Elle ne promeut pas la dysmorphie du corps, c’est une poupée de 30 centimètres.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Así como una visión de la novia bajando una gran escalera, en un estado casi demasiado tranquilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Elle ne se définissait pas par ses relations amoureuses ou ses responsabilités envers les hommes et sa famille.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120107Z" creationid="USUARIO" creationdate="20230524T120107Z">
@@ -167,10 +551,98 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Elle réside dans une grande maison, vive et chaleureuse, qui accueille plusieurs pensionnaires.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elles m'ont surprise avec des ballons et avec mon petit-déjeuner préféré.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elliot Grainge a demandé Sofia Richie en fiançailles à Hawaï</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>En dessous, il y a écrit "famille, loyauté, respect".</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Mil caminos que recorrer entre la infinita red de calles de Manhattan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>En résulte un film intime et politique mené par un joyeux chœur de femmes qui s’affirment et prennent peu à peu conscience de leur puissance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La forma en que sucedió fue muy especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>En y repensant aujourd'hui, dites-moi quel est le mariage qui a suscité le plus d'émotions chez vous ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Ante una multitud de 10.000 personas, Alicia Keys encadenado sus hits en un conjunto metalizado futurista de su colección Genius, antes de unirse a escena por los artistas Little Simz y Cleo Sol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Enceinte et avec son fils dans les bras, Rihanna est plus mode que jamais.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Supongo que no es realmente sorprendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ensemble, ils redéfinissent ce concept collaboratif qui a bouleversé les codes de la communication et du partage entre différentes entités, pour prendre aujourd’hui une nouvelle ampleur en étendant ce principe de co-création à bien d’autres domaines.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Entre mon père et Good Charlotte, c'était incroyable.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Entre mi padre y Good Charlotte, fue increíble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Et puisque les super stars de ce magazine ce sont aussi les tendances (qu’on aime décrypter toutes les saisons), l’équipe de Vogue dévoile, en avant-première, ce qui fera le sel du printemps, entre allure intemporelle, beauté high-tech et pop attitude.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Et une icône est née.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120356Z" creationid="USUARIO" creationdate="20230524T120356Z">
         <seg>Y un icono ha nacido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Et vous savez ce que ça veut dire d'avoir un bras long ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Y saben lo que significa tener un brazo largo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -183,6 +655,86 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Il n'y avait pas grand monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>En los años 80, posee más de 10.000 Barbies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Il n'y avait personne à part deux canards.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Barbie y yo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Il n’en demeure pas moins entouré, sa mère veillant à ce rien n'entrave son apprentissage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>• ¿Ni siquiera tu velo atascado en los arbustos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Il s'agissait d'un petit groupe intime.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Barbie, 64 años, estratega bien en su tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Il savait ce que beaucoup de personnes au sommet de cette industrie savent qu'il est préférable d'avoir une signature inébranlable.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Él sabía lo que muchas personas en la parte superior de esta industria saben que es mejor tener una firma inquebrantable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Il y avait une croix au milieu.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>», explica Ruth Handler en una entrevista de 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ils nous ont dit que nous devions aller au tribunal, car il n'était pas possible d'officialiser la chose pour le moment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Estamos el 9 de marzo de 1959 en el salón del juguete de Nueva York y, de arriba de sus 28 centímetros, está a punto de conquistar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ils ont présenté l'idée de son tatouage sur les croquis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>todas las posibilidades que ofrece su ciudad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Images et interview exclusives autour du mariage de Sofia Richie et Elliot Grainge :</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Imágenes y entrevistas exclusivas sobre la boda de Sofia Richie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Incarnant trois générations différentes, elles deviennent chacune à leur manière des modèles pour le jeune garçon qui suit à leurs côtés une éducation sentimentale contemporaine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Inspirée par Bild Lili, une poupée allemande, elle s’éloigne du modèle classique du poupon : Barbie est une femme, avec des seins, elle porte du maquillage et des talons hauts.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120351Z" creationid="USUARIO" creationdate="20230524T120351Z">
@@ -191,10 +743,298 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>J'ai donc imaginé toute ma famille autour d'une longue table au milieu de la ville, en train de dîner à l'italienne, puis de se promener et d'aller chercher des glaces.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>» Inteligente, el artista lo toma literalmente, y Barbie se une al panteón de estrellas pop de Andy Warhol, junto a Elvis Presley, Marilyn Monroe y de Jackie Kennedy, bajo el nombre «Retrato de Billyboy» (en 2014, el cuadro se vende en una subasta por más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>J'ai ensuite envoyé des e-mails à mes sœurs avec tous les looks et j'ai laissé chacune choisir ce qui lui convenait le mieux.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>&lt;s0&gt;Moncler revela una colección muy neoyorquina en &lt;/s0&gt;&lt;s1&gt;co-creación con Alicia Keys&lt;o2&gt;&lt;/o2&gt;&lt;/s1&gt; es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>J'ai offert une récompense sur mon Instagram pour quiconque la retrouverait.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>J'ai pensé que c'était vraiment cool.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Todas las grandes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>J'avais des attentes très irréalistes quant à ce qu'allait être Portofino.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Convertido en un ídolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>J'avais envie d'un conte de fées.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>J'avais une vision très différente de la réalité.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es de 1 millón de dólares).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>J'étais très nerveuse avant de descendre l'allée, c’était comme si j’avais le trac tellement mon taux d'adrénaline avait grimpé.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Yo era muy nerviosa antes de bajar por el callejón, fue como si estuviera tan nerviosa por mi nivel de adrenalina había subido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je crois que la robe de mariée courte est faite pour moi." C'est ce qui me parlait - le sentiment de partir en Italie et de me marier dans une robe courte, c'est ce que je voulais.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es También en la primera fila del Salón de la Fama de Vogue, los nuevos súper modelos Precious Lee, Jill Kortleve y Paloma Elsesser posan curvas bajo el icónico objetivo de Inez &amp; Vinoodh que hace buen tiempo encontrar en nuestras páginas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je n'aime pas le gel et tous ces produits.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No me gusta el gel y todos estos productos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je ne pense pas que la ville était au courant.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>En 2014, Jeremy Scott va aún más lejos, y dedica su colección primavera verano 2015 al universo de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je pense que le fait de partager ce moment de vulnérabilité devant ces personnes l'a rendu encore plus spécial.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je sais que c'est une toute petite ville.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>somos muy parecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je suis sûr que les gens parlaient peut-être.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>», dijo al Guardian en marzo de 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je suppose que ce n'est pas vraiment surprenant.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>«La gente nos ve como personas clivantes, y nos prestan la promoción de ideas que no existen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Je voulais le montrer tel qu’il était.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120419Z" creationid="USUARIO" creationdate="20230524T120419Z">
         <seg>Quería mostrarle lo que era.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je voulais vraiment me marier avec nous et nos six enfants dans l'une des deux églises de la ville.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Para celebrar el 60 aniversario de su muñeca, Mattel ha lanzado una gran campaña de inclusión titulada Close The Dream Gap, con el hashtag #MoreRoleModels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je voulais vraiment que notre mariage donne l'impression que nous étions partis en Italie, que nous nous étions mariés et qu'il n'avait pas été planifié à l'avance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Desde 2016, la empresa ofrece cuatro formatos de cuerpo diferentes, diferentes colores de piel, ojos y pelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Karl Lagerfeld : l'histoire de son uniforme</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Chanel, Chrome Hearts, Dior Homme...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Karl Lagerfeld : quelles sont les marques qui ont aidé le créateur à créer son uniforme emblématique ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es makeup está firmado por la maquilladora de las estrellas Pati Dubroff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>La cinquième édition de Vogue Experience les 12 et 13 mai 2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No creo que la ciudad lo supiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>La cérémonie a commencé à 18 heures.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La ceremonia comenzó a las 6 pm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>La famille et les amis du couple ont séjourné à l'emblématique hôtel du Cap-Éden-Roc à Antibes pour le week-end de ce mariage éclair, qui a commencé par un dîner de répétition le vendredi soir.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>1/96 La familia y los amigos de la pareja se alojaron en el emblemático hotel de Cap-Éden-Roc en Antibes para el fin de semana de esta boda relámpago, que comenzó con una cena de ensayo el viernes por la noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>La mode est capricieuse, mais un uniforme est éternel.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La moda es caprichosa, pero un uniforme es eterno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>La puissante et charismatique diva est la co-créatrice d’une unique collection Balmain haute couture avec Olivier Rousteing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>• Tengo una hermana muy cercana a mí si después de un poco de tequila pronunciaran el nombre de mi hermana en el altar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>LargeChevron</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Microsoft Word 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Le fait de passer d'un sentiment d'anxiété et de peur à un moment de vulnérabilité devant les gens - c'était une grande préparation, et je suis sûre que beaucoup de mariées ressentent cette préparation - à un sentiment de sérénité.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Las palabras trazados en la parte posterior de las piezas de jersey - "Where Dreams are made of" - evocan por su parte "Empire State of Mind", el himno de la diva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Le mariage s'est déroulé dans la tradition juive</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Le matin, nous ne nous souvenions de rien.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Barbie era una rebelde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les Plus Lus</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Foto: Norman &amp; Blake es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les années 90 aussi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les demoiselles d'honneur de Sofia Richie étaient entièrement vêtues de noir</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Las damas de honor de Sofía Richie eran enteramente vestidas de negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les familles Richie et Grainge sont amies depuis plus de 20 ans, car &lt;s4&gt;Lionel Richie&lt;/s4&gt; collabore fréquemment avec le père d'&lt;s5&gt;Elliot Grainge&lt;/s5&gt;, président-directeur général d'Universal Music Group, &lt;s6&gt;Sir Lucian Grainge&lt;/s6&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230524T120530Z" creationid="laura" creationdate="20230524T120530Z">
+        <seg>"Elliot me había hecho la sorpresa al invitar a todos nuestros mejores amigos para una estancia en Hawaii en abril 2022", recuerda Sofía Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les invités ont dansé jusqu'à 3 heures du matin, avant que les jeunes mariés, ainsi que leurs demoiselles d'honneur et leurs garçons d'honneur, ne rejoignent la villa où tout avait commencé plus tôt dans la journée.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Los invitados bailaron hasta las 3 de la mañana, antes de que los recién casados, junto con sus damas de honor y sus padrinos, se unen a la villa donde todo había comenzado antes en la día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les maisons de mode auxquelles Karl Lagerfeld a fait appel pour créer son look légendaire</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230504T153718Z" creationid="halimahamada" creationdate="20230504T153718Z">
+        <seg>lLes maisons de mode auxquelles Karl Lagerfeld a fait appel pour créer son look légendaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les seules personnes qui sont venues avec nous sont ma grand-mère et son père, parce qu'ils n'avaient pas pu venir à notre mariage en Italie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>reivindicaciones feministas, se le reprocha encarnar un ideal físico inalcanzable, una representación peligrosa del cuerpo de la mujer para las niñas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les tourtereaux se sont retrouvés dans la chambre d'hôtel de la mère de la mariée pour signer la ketouba, un moment pour lequel les deux familles ont joué les témoins.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Los tortolitos se encontrados en la habitación de hotel de la madre de la novia para firmar la ketouba, un momento para el cual las dos familias actuaron como testigos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215,6 +1055,30 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Ma mère est venue le lendemain.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais cela m'a permis de faire une pause et de ne pas me précipiter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es ampliar este principio de co-creación a muchas otras áreas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais il utilise également des images volées - dont certaines sont même filmées à l'aide d'iPhones.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Más bien pide a las mujeres que lo rodean que intervengan ante él para que cultive sus cualidades y encuentre su lugar en el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Mais la poupée, fine, blanche et blonde, peine à se détacher des stéréotypes féminins jugés discriminatoires.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120443Z" creationid="USUARIO" creationdate="20230524T120443Z">
@@ -231,10 +1095,170 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Mais les églises catholiques italiennes sont très strictes et nous ne pouvions pas trouver tous les documents relatifs aux baptêmes et aux catéchismes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Barbie puede ser negra, mestiza, pequeña o redonda, tener pelo rojo o azul, estar en silla de ruedas, en pocas palabras, parecerse a cualquier persona, y no solo un estereotipo abultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais nous avons pu profiter de ces sept minutes pour discuter, et il m’a confié : ‘Tu es l’amour de ma vie et je suis si heureux pour toi’.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pero aprovechamos los siete minutos para hablar, y me dijo: el amor de mi vida y estoy tan feliz por ti'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais nous voulions faire quelque chose de vraiment spécial.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pero la muñeca, fina, blanca y rubia, apenas se eliminar estereotipos de género considerados discriminatorios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Mais pas médecin.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115256Z" creationid="USUARIO" creationdate="20230524T115256Z">
         <seg>Pero no médico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais pourquoi des gants ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Pero por qué guantes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mes cheveux ne sont pas vraiment blancs, ils sont plutôt grisonnants et je n'aime pas cette couleur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Mi cabello no es muy blanco, es bastante canoso y no me gusta este color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mon mariage a également eu lieu juste avant le début de la saison à Portofino.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Mientras Warhol insistía en pintar su retrato, él le habría contestado: Si realmente quieres hacer mi retrato, haz un retrato de Barbie, porque Barbie soy yo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mon père, le père d'Elliot et le meilleur ami d'Elliot, Jack, ont fait des discours géniaux.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>hemos recreado el vestido corsé de Claudia Schiffer de principios de los años 90", explica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Moncler dévoile une collection très new-yorkaise en co-création avec Alicia Keys</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nadine Rupp/Getty Images</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Non seulement c’est une bonne amie mais aussi une coiffeuse hors pair.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No solo es una buena amiga, sino también una peluquera fuera par.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous adorons Santa Barbara et nous nous y rendons aussi souvent que possible - nous nous sommes fiancés à Santa Barbara.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>En la década de 1970, en plena ola de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous aurions pu demander à quelqu'un de venir signer les papiers.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Se divorcia incluso en 2004, como el anuncio un muy serio comunicado de prensa de Mattel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous avons donc créé une version noire pour se changer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous avons dû demander cinq à dix fois ce qu'il fallait faire pour que ce soit légal.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Ella lleva un traje de baño de rayas blanco y negro, un par de mulas con tacones, y muestra una mirada impasible, casi severa, subrayado de un trazo del lápiz de ojos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous avons fini par les trouver plus tard, mais ce n'est pas grave.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Frida Khalo, la modelo Adwoa Aboah, la esgrimista Ibtihaj Muhammad y la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous nous sommes alors dit : “D'accord, c'est très bien.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No se definía por sus relaciones amorosas o sus responsabilidades hacia los hombres y su familia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous nous sommes assis dans la cour au milieu de la place de la ville, nous avons dîné et bu du vin au clair de lune pendant des heures.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>internacional desde sus primeros años, la muñeca inspira a artistas, creadores y escritores fascinados por su estatus icono, y llamativos coleccionistas, incluyendo Billyboy*, un diseñador de joyas suizo y uno de los musas de Andy Warhol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous nous sommes donc mariés sur la propriété.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous nous sommes donc rendus là-bas en voiture.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous pensions que ce serait toujours aussi calme.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
@@ -247,10 +1271,242 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Nous étions toutes en pyjama, c’était un super moment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Fotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Odyssée intime dans la Californie de la fin des années 70</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>On y découvre des pantalons en nylon argenté, fins et légers comme la plume, des doudounes courtes, des hoodies sans manches peints à la main, des ensembles coordonnés, des combinaisons, des coupe-vent ou encore des jeans blancs baggy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Las únicas personas que vinieron con nosotros fueron mi abuela y su padre, porque no pudieron venir a nuestra boda en Italia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Par Alexandra Macon</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Ver la galería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Par Héloïse Salessy</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es Moda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Par Marthe Mabille</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es • Mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Plus de Vogue France en vidéo :</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Pour moi, c'était vraiment notre mariage principal.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Usted se sentirá ya un poco estrella en las camisetas sin mangas y las camisetas con incrustaciones de cristales que ofrece la colección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Puis il a complètement restructuré cette robe sur moi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Y ya que las súper estrellas de esta revista son</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Quand j’ai entendu les paroles avec mon prénom, l’attention m’a beaucoup touchée.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>&lt;s0&gt;caminando por el pasillo, esta pieza se presentó como una evidencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Quant aux amis, nous ne voulions que des amis que nous connaissions tous les deux.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Después de haber abrazado más de 200 carreras, se dio cuenta de que hoy en día que paga es ser influyente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Quoi qu'il en soit, ils n'avaient pas donné de concert depuis cinq ans, et ils ont fait venir leur groupe de Nashville et de Los Angeles.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>&lt;s0&gt;Joel y Elliot son como hermanos. &lt;/s0&gt;&lt;s1&gt;De todos modos, no habían dado un concierto en cinco &lt;/s1&gt;&lt;s2&gt;años, y trajeron a su grupo desde Nashville y Los Ángeles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Rihanna confirme le retour de cette tendance longtemps considérée comme un fashion faux pas</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Estoy seguro de que la gente puede estar hablando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Rihanna multiplie les coups d'éclat mode à Paris</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Quería un cuento de hadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Rihanna ose le double denim</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Sa poudre de prédilection ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Su polvo favorito?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Samedi 22 avril 2023, &lt;s0&gt;Sofia Richie&lt;/s0&gt; et &lt;s1&gt;Elliot Grainge&lt;/s1&gt; ont échangé leurs vœux à l'&lt;a2&gt;hôtel du Cap-Eden-Roc&lt;/a2&gt; à Antibes, pour ce que certains appellent déjà le mariage mondain de l’année.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230524T115813Z" creationid="laura" creationdate="20230524T115813Z">
+        <seg>El sábado 22 de abril de 2023, Sofia Richie y Elliot Grainge intercambiaron sus votos en el hotel de Cap-edén-Roc en Antibes, por lo que algunos llaman ya la boda mundana del año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Santa Barbara était pour nous deux.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Allí está toda la paradoja de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Si Barbie a un aussi long cou c'est aussi pour lui passer des vêtements, cette taille très fine ça permet de l'attraper, de bien la manier. » Si, dans les années 1960, la poupée adopte un style vestimentaire&lt;/s16&gt;&lt;a17&gt;&lt;s18&gt; &lt;/s18&gt;&lt;/a17&gt;&lt;a19&gt;&lt;s20&gt;hippie&lt;/s20&gt;&lt;/a19&gt;&lt;s21&gt;, embrasse des carrières sociales et s’intéresse à l’art, pour ses détracteurs, elle reste une incarnation de femme futile et oisive.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120516Z" creationid="USUARIO" creationdate="20230524T120516Z">
         <seg>Si Barbie tiene un cuello tan largo es también para pasarle ropa, esta cintura muy fina le permite cogerla, manejarla bien. » Si, en los años 60, la muñeca adopta un estilo hippie, abraza carreras sociales y se interesa por el arte, para sus detractores sigue siendo una encarnación de mujer fútil y ociosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Sofia Richie a descendu l'allée au bras de son père</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Fue surrealista, este regalo de boda es tan considerado por parte de Elliot", continúa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Sofia Richie et Elliot Grainge se sont mariés dans le sud de la France</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>A partir de ahí comenzaron los preparativos para la boda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Sofia Richie et ses amies ont opté pour un look classique</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Son enfant appelle son père lors des grandes occasions, qu'il résume lui-même à ses anniversaires et Noël, mais ne le voit plus depuis longtemps.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Tous deux observent le feu embraser l’auto derrière la vitre du magasin, l’air de rien, et surtout pas catastrophé.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Presentaron la idea de su tatuaje en los bocetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Tous les trois ont fait l'objet d'un grand nombre d'articles.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>En efecto, Dorothea Fields está convencida de que no necesita un hombre para educar a su hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Tout ce tatouage a été brodé à la main sur le voile, d'une manière si magnifique.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Ya te has imaginado volar sobre Central Park y disfrutar de una vista única de toda la Gran Manzana, Brooklyn ¿Puente a la Estatua de la Libertad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Tout le reste vient après".</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Todo lo demás viene después".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Traduction par Léa Penneret</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Traduction par Sarah Mandois</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Un événement à l'ambiance survoltée pendant la Fashion Week de Londres avec Alicia Keys en guest star</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
@@ -263,6 +1519,22 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Une collection gender-fluid haute en couleurs</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pero queríamos hacer algo muy especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Une fois toutes coiffées et maquillées, les festivités pouvaient commencer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230504T150631Z" creationid="halimahamada" creationdate="20230504T150631Z">
+        <seg>nUne fois toutes coiffées et maquillées, les festivités pouvaient commencer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Une icône de la pop culture, célébrée par Andy Warhol et par les plus grands créateurs de mode, qui à plus de 60 ans n’a toujours pas pris une ride.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120004Z" creationid="USUARIO" creationdate="20230524T120004Z">
@@ -271,10 +1543,770 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Vogue Experience 2023 : participez à la cinquième édition dans une sublime galerie parisienne</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Así que pensé que quizás habría algunos paparazzi locales escondidos en alguna parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Vogue revient sur l’histoire de la poupée la plus célèbre au monde, qui a révolutionné l’histoire du jouet et suscité l’admiration autant que la controverse.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115942Z" creationid="USUARIO" creationdate="20230524T115942Z">
         <seg>Vogue vuelve a ver la historia de la muñeca más famosa del mund, que a revolucionado la historia del juguete y suscitado la admiración al igual que la controversia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Voir la galerie</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Vous rêvez de faire comme elle ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Esperaba que esto fuera tan grande?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Vous vous sentirez déjà un peu star dans les débardeurs et les tee-shirts incrustés de cristaux que propose la collection.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>• No lo hice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>http://www.moncler.com/link/page/genius.html?utm_source=Vogue&amp;utm_medium=dis&amp;utm_campaign=aliciakeysdropFR&amp;utm_term=&amp;utm_content=</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Así que me imaginé a toda mi familia alrededor de una larga mesa en medio de la ciudad, cenando a la italiana, luego caminando y buscando helado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.instagram.com/germanlarkin/?hl=en</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es • Foto: German Larkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.instagram.com/liatbaruch_/?hl=en</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.instagram.com/normanandblake/?hl=en</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>y Elliot Grainge: es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.instagram.com/stephensanchezofficial/?hl=en</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Soñaba con conocer a Stephen Sánchez y Le pedí varias veces a mi prometido que asistiera a uno de sus conciertos", explica Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.com/article/karl-lagerfelds-uniform-unpacked</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.com/slideshow/sofia-richie-and-elliot-grainge-wedding</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Traducción por Sarah Mandois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/#intcid=_vogue-fr-right-rail_d0311b1c-2df2-435b-802d-f8c1de865584_popular4-1</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Fuera los zapatos Dad, aquí está la tendencia sandalias que vamos a ver por todas partes esta primavera es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/beyonce-olivier-rousteing-interview-vogue-france-renaissance-couture</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Cuando estaba en los premios Grammy, varias personas me llamaron Khloé en la alfombra roja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/greta-gerwig-films</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/karl-lagerfeld-histoire-queue-de-cheval-emblematique</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Tantas marcas que se esconden detrás del conocido uniforme de Karl Lagerfeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/mariage-catalina-quintana-robe-mariee-carolina-herrera-upcycling</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/rihanna-bijou-porte-bonheur-cadeau-anniversaire-fevrier-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Dolce &amp; Gabbana también abrió sus archivos para mí, mis hermanas, mi madre y nuestros hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/rihanna-look-courreges-avril-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Recuerdo que Domenico sacaba, con sus dientes, los huesos del esqueleto de la muestra de vestido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/rihanna-photos-fils-avril-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Por qué tomó esa decisión?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/rihanna-puma-king-avanti-sneakers-mode</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/sofia-richie-tendance-riviera-chic</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Fue un largo trabajo &lt;/s0&gt;&lt;s1&gt;aliento pero nos divertimos mucho", explica la novia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/beaute/article/changement-coiffure-coupes-cheveux-stars</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es &lt;s0&gt;La película 20th Century Women, de Mike Mills, pasó un poco desapercibida cuando se estrenó en Francia en 2017, repleta de enseñanzas y poesías sobre el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/beaute/article/miranda-kerr-produit-cheveux-pharmacies</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Klorane es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/beaute/galerie/claudia-schiffer-90s</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Fue increíble", recuerda Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/chanel-haute-couture-et-parfums-de-luxe-la-franaise/20583</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Desde mis primeras pruebas en los salones Chanel en París, tuve una idea muy precisa de lo que quería: un hermoso vestido espalda descubierta bordado de encaje con una larga cola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/dior-gant-du-luxe/20590</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/fendi-une-griffe-romaine-chic-et-glamour/20595</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es Karl Lagerfeld: la historia de su uniforme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/saint-laurent-ou-la-rvolution-du-vestiaire-fminin/20646</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Adornaba casi cada dedo con un anillo de Chrome Hearts, y estaba probando las gafas de sol y los collares de Chrome Hearts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/versace-le-luxe-litalienne/20640</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La historia comienza en 1959, cuando Ruth Handler, una estadounidense de Colorado, convence a su marido, el co-fundador de Mattel, para lanzar un nuevo prototipo de muñeca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/articles/icone-barbie-arts-decoratifs-exposition-paris-poupee-mattel-2016/32454</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/articles/image-vintage-week-end-cher-bob-mackie-met-ball-1974/57508</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Ese viernes, aparecieron las primeras imágenes de su boda con Travis Barker en Portofino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/diaporama/andy-warhol-des-oeuvres-jamais-vues/53796</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/diaporama/anniversaire-marilyn-monroe-photos-rares-icone-new-york/43498</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Tendencia estrella de los 90’s, puesta al día en 2010, ha sido durante mucho tiempo considerada como un mal paso de la moda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/diaporama/cannes-2016-10-choses-a-savoir-sur-elle-fanning-the-neon-demon/34064</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Soy una persona muy tranquila la mayor parte del tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/diaporama/elvis-presley-anniversaire-style-rock-films-gifs-icone-the-king/39875</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>de las declaraciones de la temporada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/diaporama/jackie-kennedy-onassis-president-john-couple-ete-photos/44930</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/diaporama/lexposition-lasie-reevee-dyves-saint-laurent-musee-paris/51421</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es Halima - Kardashian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/story/pourquoi-le-film-first-man-avec-ryan-gosling-fait-autant-parler-de-lui-mostra-venise-damien-chazelle/3599</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La comunidad Vogue está invitada a vivir esta experiencia única, en el sublime lugar de la Galería Joseph, París 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/article/10-musees-incontournables-a-visiter-a-paris-en-2019</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Desde entonces, multiplica los happening notados, confirmando su estado de moda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/article/barbie-film-margot-robbie-greta-gerwig</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/article/beyonce-retour-nouvel-album-renaissance</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Por la mañana, no recordamos nada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/article/ita-obrien-interview-coordinatrice-intimite-cinema-series-sex-education-normal-people</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>• Yo diría que Italia es el matrimonio más conmovedor para mí, porque es el que más se ha preparado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/article/les-5-livres-feministes-quil-faut-avoir-lus-dans-sa-vie</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es • Esto es increíble."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/article/rihanna-documentaire-amazon-prime-video</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/galerie/cameron-diaz-jeune-photos-1990</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/galerie/les-images-de-lexposition-frida-kahlo-au-brooklyn-museum-de-new-york</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/portrait/diaporama/margot-robbie-dicaprio-jane-tarzan-suicide-squad-harley-quinn/34565</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es Rihanna vuelve a poner al día estas zapatillas firmadas Puma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/dossier/beyonce</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/dossier/eyeliner</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/dossier/vogue-experience</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/galerie/mariage-sofia-richie-elliott-grainge-coulisses-essayage-robes-mariee-chanel</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Para los otros dos looks, Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia Ducha para recorrer los desfiles de alta costura Chanel del pasado y seleccionar referencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/jay-z-fondation-louis-vuitton</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Al principio, buscamos las iglesias de la ciudad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/joaillerie/galerie/asap-rocky-bijoux-extraordinaires</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Así que nos casamos en la propiedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/joaillerie/galerie/collier-choker-tendance-nineties-fait-son-retour-pour-notre-plus-grand-bonheur</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>• Siempre me han atraído estas bodas en lencería inspiradas en los años 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/journaliste/claire-beghin</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿No lo dijo Alicia Keys mejor que nadie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/journaliste/eugenie-trochu</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/journaliste/jessica-scemama</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Creo que soñé que sería un momento tranquilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/journaliste/marie-leger</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/journaliste/marthe-mabille</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/lifestyle/article/destinations-peu-connues-a-decouvrir-en-italie</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Hacer resonar tu voz de oro en los estadios?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/lifestyle/article/lhotel-splendido-mare-a-portofino-vient-detre-renove-par-festen</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Cita el 12 y 13 de mayo de 2023 con las editoras de la revista Vogue France.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/lifestyle/article/londres-les-nouvelles-adresses-a-connaitre-en-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/lifestyle/article/milan-guide-express-de-nos-adresses-preferees</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>En la portada, la reina, el icono, la glamouroso Beyoncé para quien todas las cartas del mundo son unánimes: ella es la voz que justifica la existencia de la música.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/lifestyle/article/pourquoi-lhotel-du-cap-eden-roc-dantibes-nous-fascine-toujours-autant</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>están casados en el hotel mítico de CapEden-Roc en el sur de Francia... y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/lifestyle/voyages/story/nos-nouvelles-adresses-preferees-a-new-york/3677</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Vogue Experience 2023: participe en la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mariage/article/kourtney-kardashian-mini-robe-mariee-sexy-mariage-civil-travis-barker</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Aunque la sociedad hetero quisiera hacernos creer que vive sola en ausencia de un marido, pronto nos damos cuenta de que el término no corresponde a la vida cotidiana de nuestro protagonista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mariage/article/mariage-kourtney-kardashian-travis-barker-italie-images-instagram</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>POR MARIE LÉGER Para su quinta edición, Vogue Experience invita a toda la comunidad Vogue a dos días exclusivos que combinan masterclass y talleres en torno a grandes marcas de moda, belleza y estilo de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mariage/galerie/mariage-julia-haghjoo-angleterre-robes-mariee-kaviar-gauche-chanel</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>En Chanel y vestidos de novia Kaviar Gauche, Julia Haghjoo vivió la boda de sus soñadosen el Somerset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mariage/galerie/vrai-mariage-hannah-thomas-sud-france-robe-mariee-vivienne-westwood</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Encontrar también en Vogue.fr:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mariage/inspirations/story/ces-looks-de-stars-demoiselles-d-honneur-celebres-a-copier-rihanna-emily-ratajkowski-beyonce/2087</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es favorito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/chaussures-ete-femmes-francaises-mode-essentiels#intcid=_vogue-fr-right-rail_d0311b1c-2df2-435b-802d-f8c1de865584_popular4-1</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es vestido en el que quería casarme: un hermoso vestido espalda descubierta bordada de encaje con un larga cola", explica Sofía Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/dua-lipa-sac-ferragamo</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Dripping in Chrome Hearts, Lagerfeld as featured in Chrome Hearts Magazine, Series 1 Volumen 6 in 2013. es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/fetes-des-peres-cadeaux-les-16-pieces-les-plus-cools-a-offrir-selon-un-specialiste-de-la-mode-homme</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Foto: Courtesy of Hilditch &amp; Key Hilditch &amp; Key es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/kim-kardashian-dolce-gabbana-printemps-ete-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Era el Ford Galaxy de mi marido, dijo de repente una voz femenina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/marque-jean-patou-renait-interview-guillaume-henry</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/monica-bellucci-look-new-york-janvier-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La consigna del número de abril de 2023 de Vogue France.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/ralph-lauren-documentaire-very-ralph</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Estábamos todas en pijama, fue un gran momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/rihanna-asap-rocky-premieres-images-fils</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/rihanna-deuxieme-grossesse-super-bowl</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Quién mejor que Domenico y Stefano, que son obviamente italianos auténticos y cuya casa es?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/rihanna-robe-transparente</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Qué tipo de indicaciones les diste sobre lo que querías?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/stars-enceintes-baby-bump-rihanna</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>• Su boda fue organizada por Stefano Gabbana y Domenico Dolce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/tendance-sandales-fisherman-printemps-ete#intcid=_vogue-fr-right-rail_d0311b1c-2df2-435b-802d-f8c1de865584_popular4-1</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es 7 zapatos de verano que las mujeres francesas nunca dejan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/en-vogue/diaporama/la-saga-tom-ford-en-10-images/7682</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Me sorprendieron con globos y con mi desayuno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/galerie/paris-hilton-style-y2k-tendance</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>25 de abril de 2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/galerie/rihanna-en-28-looks-tapis-rouge-mode-tendance-inspirations</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pero las iglesias católicas italianas son muy estrictas y no podíamos encontrar todos los documentos relativos a los bautismos y a los catecismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/galerie/shopping-chemises-blanches</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Sketches sent by Karl Lagerfeld to Hilditch &amp; Key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/galerie/tendance-mode-gants-opera</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Causse es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/galerie/vogue-rend-hommage-a-la-carriere-exceptionnelle-de-karl-lagerfeld</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Todas las demás joyas de la novia estaban firmadas por Fred Leighton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/inspirations/diaporama/fwah16-barbie-mcdonalds-looney-toones-les-inspirations-pop-des-defiles-moschino-par-jeremy-scott/25957</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>(El interés frenético también fue impulsado por las propias Kardashian, que publicaron momentos elegidos a sus millones de seguidores en las redes sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/inspirations/diaporama/le-look-hippie-gypset-la-plage/21849</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>concierto de Jay-Z en la Fundación Louis Vuitton, hace unos días, Rihanna fue vista varias veces junto a A$AP Rocky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/inspirations/diaporama/pe2017-sofia-richie-lionel-yeezy-season-4-girlfriend-justin-bieber-new-york/36758</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La diseñadora y modelo de 24 años, que también es la hija menor de la leyenda del R&amp;B Lionel Richie se comprometió con Elliot Grainge, fundador de la discográfica 10K Projects, en abril de 2022.&lt;s0&gt;  &lt;/s0&gt;Las familias Richie y Grainge son amigas desde hace más de 20 años, ya que Lionel Richie colabora con frecuencia con el padre de Elliot Grainge, director general de Universal Music Group, Sir Lucian Grainge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/inspirations/diaporama/style-icone-coco-chanel-gabrielle-vintage-throwback-mode/45300</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Karl Lagerfeld se refiere aquí a su aspecto icónico, reconocible inmediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/rihanna-enceinte-baby-bump-paris</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pero solo al hablar y soñar con todo esto, nos sentimos verdaderamente auténticos: era perfecto para nosotros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/vogue-experience</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No había nadie más que dos patos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/vogue-hommes/galerie/elvis-presley-photos-vintage-style</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
@@ -299,6 +2331,46 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120114Z" creationid="USUARIO" creationdate="20230524T120114Z">
         <seg>A la época, más de un millón de muñecas fueron vendidas cada año a través del mundo, generando más de un millón de dólares de ingresos anuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>À partir de là ont commencé les préparatifs pour le mariage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>À travers elles, le monde est plus beau et tout le monde a l'air d'avoir 10 ans de moins", a-t-il déclaré au journal Le Monde en 2010.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>A través de ellas, el mundo es más hermoso y todo el mundo parece tener 10 años menos", dijo al periódico Le Monde en 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>À voir sans plus attendre.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ça a été l’une des meilleures soirées de ma vie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Fue una de las mejores noches de mi vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Évidemment, les paparazzis ont commencé en Italie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
