@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -154,6 +154,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120542Z" creationid="USUARIO" creationdate="20230524T120542Z">
         <seg>«Barbie nació a finales de los años 50, donde todavía estamos en el imaginario de las chicas con tallas muy finas y pechos muy cónicos», explicaba recientemente en France Info Anne Monier, conservadora de la exposición Barbie celebrada en 2016 en el Museo de Artes Decorativas de Paris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Kourtney Kardashian Barker:&lt;/s4&gt;&lt;/b3&gt;&lt;s5&gt; "Ils étaient tous très différents et très spéciaux pour nous.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230524T123732Z" creationid="halimahamada" creationdate="20230524T123732Z">
+        <seg>• Entrevista: Kourtney Kardashian Barker se entrega en Vogue sobre sus tres matrimonios con Travis Barker:</seg>
       </tuv>
     </tu>
     <tu>
