@@ -344,8 +344,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Pour les 60 ans de sa poupée, Mattel&lt;/s0&gt;&lt;s1&gt; &lt;/s1&gt;&lt;s2&gt;s’est lancé dans une grande campagne d’inclusivité intitulée &lt;i3&gt;Close The Dream Gap&lt;/i3&gt;, avec le hashtag &lt;i4&gt;#MoreRoleModels&lt;/i4&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;S0&gt;Por los 60 años de su muñeca, Mattel&lt;/S0&gt;&lt;s1&gt; &lt;/s1&gt;&lt;s2&gt;inició una gran campaña de inclusión titulada &lt;i3&gt;Close The Dream Gap&lt;/i3&gt;, con el hashtag &lt;I4&gt;#MoreRole&lt;&gt;Idel4&gt;.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T181813Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Por los 60 años de su muñeca, Mattel&lt;s1&gt; &lt;/s1&gt;&lt;s2&gt;inició una gran campaña de inclusión titulada &lt;i3&gt;Close The Dream Gap&lt;/i3&gt;, con el hashtag </seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;sur &lt;b1&gt;France Info&lt;/b1&gt; &lt;b2&gt;Anne Monier&lt;/b2&gt;, conservatrice de l’exposition&lt;/s0&gt;&lt;a3&gt;&lt;s4&gt; &lt;/s4&gt;&lt;/a3&gt;&lt;a5&gt;&lt;s6&gt;Barbie&lt;/s6&gt;&lt;/a5&gt;&lt;s7&gt; qui s’est tenue en 2016 au&lt;/s7&gt;&lt;a8&gt;&lt;s9&gt; &lt;/s9&gt;&lt;/a8&gt;&lt;a10&gt;&lt;b11&gt;&lt;s12&gt;Musée des Arts &lt;/s12&gt;&lt;/b11&gt;&lt;/a10&gt;&lt;a13&gt;&lt;b14&gt;&lt;s15&gt;décoratifs&lt;/s15&gt;&lt;/b14&gt;&lt;/a13&gt;&lt;s16&gt; de Paris.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230524T120542Z" creationid="USUARIO" creationdate="20230524T120542Z">
-        <seg>«Barbie nació a finales de los años 50, donde todavía estamos en el imaginario de las chicas con tallas muy finas y pechos muy cónicos», explicaba recientemente en France Info Anne Monier, conservadora de la exposición Barbie celebrada en 2016 en el Museo de Artes Decorativas de Paris.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T181737Z" creationid="USUARIO" creationdate="20230524T120542Z">
+        <seg>En france info. Anne Monier, conservadora de la exposición Barbie que fue en 2016 en el Museo de artes decorativos de Paris..</seg>
       </tuv>
     </tu>
     <tu>
@@ -876,8 +876,8 @@
       <tuv lang="fr">
         <seg>Barbie&lt;/s2&gt;&lt;s5&gt; &lt;/s5&gt;&lt;s6&gt;peut donc être noire, métisse, petite ou ronde, avoir les cheveux rouges ou bleus, être en fauteuil roulant, bref ressembler à n’importe qui, et plus seulement à un stéréotype galvaudé.&lt;/s6&gt;&lt;a7&gt;&lt;s8&gt; &lt;/s8&gt;&lt;/a7&gt;&lt;a9&gt;&lt;b10&gt;&lt;s11&gt;Frida Khalo&lt;/s11&gt;&lt;/b10&gt;&lt;/a9&gt;&lt;s12&gt;, le mannequin Adwoa Aboah, l’escrimeuse Ibtihaj Muhammad&lt;/s12&gt;&lt;s13&gt; &lt;/s13&gt;&lt;s14&gt;et la boxeuse Nicola Adams&lt;/s14&gt;&lt;s15&gt; &lt;/s15&gt;&lt;s16&gt;ont toutes une poupée à leur effigie.&lt;/s16&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T155608Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;Segmento 0602  &gt; Barbie&lt;/s2&gt;&lt;s5&gt; &lt;/s5&gt;, por lo tanto, puede ser negra, mestiza, pequeña o redonda, tener el pelo rojo o azul, estar en silla de ruedas, en pocas palabras parecerse a cualquier persona, y no solo a un estereotipo abultado. &lt;/a7&gt;Frida Khalo, el maniquí Adwoa Boxeah, el Gran profesional, Barbie sabe hablar con su comunidad.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T181830Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg> Barbie&lt;/s2&gt;&lt;s5&gt; &lt;/s5&gt;, por lo tanto, puede ser negra, mestiza, pequeña o redonda, tener el pelo rojo o azul, estar en silla de ruedas, en pocas palabras parecerse a cualquier persona, y no solo a un estereotipo abultado. &lt;/a7&gt;Frida Khalo, el maniquí Adwoa Boxeah, el Gran profesional, Barbie sabe hablar con su comunidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3597,8 +3597,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/culture/article/10-musees-incontournables-a-visiter-a-paris-en-2019</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Desde entonces, multiplica los happening notados, confirmando su estado de moda.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T181628Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3981,8 +3981,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/inspirations/diaporama/le-look-hippie-gypset-la-plage/21849</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>concierto de Jay-Z en la Fundación Louis Vuitton, hace unos días, Rihanna fue vista varias veces junto a A$AP Rocky.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T181636Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
