@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -154,6 +154,22 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>&lt;B0&gt;Alicia Keys&lt;/B0&gt; ¿no lo ha dicho mejor que nadie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;b4&gt;Travis&lt;/b4&gt; et moi étions allés à Portofino au mois d'août précédant notre mariage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153034Z" creationid="halimahamada" creationdate="20230525T153034Z">
+        <seg>Travis y yo fuimos a Portofino en agosto antes de casarnos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;b5&gt;Travis&lt;/b5&gt; et moi, fatigués par le décalage horaire, sommes descendus en ville à deux heures du matin.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153147Z" creationid="halimahamada" creationdate="20230525T153147Z">
+        <seg>Travis y yo, cansados por el jet lag, bajamos a la ciudad a las dos de la mañana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -391,10 +407,42 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Savez-vous comment tout le monde l'a su si vite ?&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153122Z" creationid="halimahamada" creationdate="20230525T153122Z">
+        <seg>¿Sabes lo rápido que todos lo supieron?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Sur le thème de l'Italie, la plupart des articles autour de votre mariage sont consacrés à celui de Portofino.&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152957Z" creationid="halimahamada" creationdate="20230525T152957Z">
+        <seg>Sobre el tema de Italia, la mayoría de los artículos en torno a su boda están dedicados al de Portofino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Une chose qui m'a marquée, c'est la présence de tous les paparazzis et le fait que vous ayez été inondés de caméras.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153010Z" creationid="halimahamada" creationdate="20230525T153010Z">
+        <seg>Una cosa que me ha marcado es la presencia de todos los paparazzi y el hecho de que ustedes hayan sido inundados de cámaras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Vogue : L'émission spéciale de Hulu se concentre sur vos trois mariages, Las Vegas, Santa Barbara et Portofino.&lt;/s4&gt;&lt;/b3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152200Z" creationid="halimahamada" creationdate="20230525T152200Z">
         <seg> Vogue: El especial de Hulu se centra en sus tres bodas: Las Vegas, Santa Bárbara y Portofino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Votre mariage a été organisé par Stefano Gabbana et Domenico Dolce.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153215Z" creationid="halimahamada" creationdate="20230525T153215Z">
+        <seg>Su boda fue organizada por Stefano Gabbana y Domenico Dolce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,10 +513,26 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Je ne l'ai pas fait.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153020Z" creationid="halimahamada" creationdate="20230525T153020Z">
+        <seg>Yo no lo hice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Je sais !</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152903Z" creationid="halimahamada" creationdate="20230525T152903Z">
         <seg>¡Se lo agradezco mucho!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;L'Italie était comme un conte de fées.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153002Z" creationid="halimahamada" creationdate="20230525T153002Z">
+        <seg>Italia era como un cuento de hadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -481,10 +545,26 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Moi, &lt;b4&gt;Travis&lt;/b4&gt; et tous nos enfants sommes arrivés quelques jours plus tôt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153129Z" creationid="halimahamada" creationdate="20230525T153129Z">
+        <seg>Yo, Travis y todos nuestros hijos llegamos unos días antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Nous ne l'étions pas !</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152430Z" creationid="halimahamada" creationdate="20230525T152430Z">
         <seg>¡Nosotros no lo éramos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Nous étions au mariage d'un ami et j'ai parlé à &lt;b4&gt;Domenico&lt;/b4&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153238Z" creationid="halimahamada" creationdate="20230525T153238Z">
+        <seg>Estábamos en la boda de un amigo y hablé con Domenico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -668,8 +748,16 @@
       <tuv lang="fr">
         <seg>C'était encore assez calme.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153136Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Todavía estaba bastante tranquilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C'était très intime, environ 40 personnes.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153006Z" creationid="halimahamada" creationdate="20230525T153006Z">
+        <seg>Fue muy íntimo, unas 40 personas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -708,8 +796,8 @@
       <tuv lang="fr">
         <seg>Ce sont de sacrés organisateurs.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>La perspectiva adulta ocupa demasiado espacio en todo esto.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153219Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Son unos malditos organizadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1188,16 +1276,16 @@
       <tuv lang="fr">
         <seg>Il n'y avait pas grand monde.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>En los años 80, posee más de 10.000 Barbies.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153048Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No había mucha gente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>Il n'y avait personne à part deux canards.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Barbie y yo</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153151Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No había nadie más que dos patos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1276,8 +1364,8 @@
       <tuv lang="fr">
         <seg>J'ai donc imaginé toute ma famille autour d'une longue table au milieu de la ville, en train de dîner à l'italienne, puis de se promener et d'aller chercher des glaces.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>» Inteligente, el artista lo toma literalmente, y Barbie se une al panteón de estrellas pop de Andy Warhol, junto a Elvis Presley, Marilyn Monroe y de Jackie Kennedy, bajo el nombre «Retrato de Billyboy» (en 2014, el cuadro se vende en una subasta por más</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153101Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Así que me imaginé a toda mi familia alrededor de una larga mesa en medio de la ciudad, cenando a la italiana, luego caminando y buscando helado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,26 +1394,34 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>J'ai toujours pensé à Portofino, un endroit qui a beaucoup d'importance pour moi.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153241Z" creationid="halimahamada" creationdate="20230525T153241Z">
+        <seg>Siempre he pensado en Portofino, un lugar que significa mucho para mí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>J'avais des attentes très irréalistes quant à ce qu'allait être Portofino.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Convertido en un ídolo</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153030Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Tenía expectativas muy poco realistas de lo que iba a ser Portofino.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>J'avais envie d'un conte de fées.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153247Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Quería un cuento de hadas.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>J'avais une vision très différente de la réalité.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es de 1 millón de dólares).</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153106Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Tenía una visión muy diferente de la realidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1372,8 +1468,8 @@
       <tuv lang="fr">
         <seg>Je ne pense pas que la ville était au courant.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>En 2014, Jeremy Scott va aún más lejos, y dedica su colección primavera verano 2015 al universo de Barbie.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153141Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No creo que la ciudad lo supiera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1478,22 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152253Z" creationid="halimahamada" creationdate="20230525T152253Z">
         <seg>¿No estoy del todo convencida de que Travis esté técnicamente casado con Khloé?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je pensais donc qu'il y aurait peut-être quelques paparazzis locaux cachés quelque part. Mais il y en avait vraiment beaucoup.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153112Z" creationid="halimahamada" creationdate="20230525T153112Z">
+        <seg>Así que pensé que quizás habría algunos paparazzi locales escondidos en alguna parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je pense juste que j'ai rêvé que ce serait un petit moment tranquille.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153211Z" creationid="halimahamada" creationdate="20230525T153211Z">
+        <seg>Creo que soñé que sería un momento tranquilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1396,8 +1508,8 @@
       <tuv lang="fr">
         <seg>Je sais que c'est une toute petite ville.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>somos muy parecidos.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153200Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Sé que es un pueblo muy pequeño.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1412,16 +1524,16 @@
       <tuv lang="fr">
         <seg>Je suis sûr que les gens parlaient peut-être.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>», dijo al Guardian en marzo de 2015.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153203Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Estoy seguro de que la gente estaba hablando.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>Je suppose que ce n'est pas vraiment surprenant.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>«La gente nos ve como personas clivantes, y nos prestan la promoción de ideas que no existen.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153208Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Supongo que no es tan sorprendente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1444,8 +1556,8 @@
       <tuv lang="fr">
         <seg>Je voulais vraiment que notre mariage donne l'impression que nous étions partis en Italie, que nous nous étions mariés et qu'il n'avait pas été planifié à l'avance.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Desde 2016, la empresa ofrece cuatro formatos de cuerpo diferentes, diferentes colores de piel, ojos y pelo.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153252Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Realmente quería que nuestro matrimonio pareciera que nos habíamos ido a Italia, que nos habíamos casado y que no estaba planeado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1574,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es makeup está firmado por la maquilladora de las estrellas Pati Dubroff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>LTR</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153229Z" creationid="halimahamada" creationdate="20230525T153229Z">
+        <seg>Pero realmente había muchos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1700,8 +1820,8 @@
       <tuv lang="fr">
         <seg>Ma mère est venue le lendemain.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153133Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Mi madre vino al día siguiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1788,8 +1908,8 @@
       <tuv lang="fr">
         <seg>Mon mariage a également eu lieu juste avant le début de la saison à Portofino.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Mientras Warhol insistía en pintar su retrato, él le habría contestado: Si realmente quieres hacer mi retrato, haz un retrato de Barbie, porque Barbie soy yo.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153056Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Mi boda también tuvo lugar justo antes del comienzo de la temporada en Portofino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1876,8 +1996,8 @@
       <tuv lang="fr">
         <seg>Nous nous sommes assis dans la cour au milieu de la place de la ville, nous avons dîné et bu du vin au clair de lune pendant des heures.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>internacional desde sus primeros años, la muñeca inspira a artistas, creadores y escritores fascinados por su estatus icono, y llamativos coleccionistas, incluyendo Billyboy*, un diseñador de joyas suizo y uno de los musas de Andy Warhol.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153040Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Nos sentamos en el patio en medio de la plaza de la ciudad, cenamos y bebimos vino a la luz de la luna durante horas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1900,8 +2020,8 @@
       <tuv lang="fr">
         <seg>Nous pensions que ce serait toujours aussi calme.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153156Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pensamos que siempre sería tan tranquilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +2094,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es • Mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Parlez-moi de cette décision.&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153223Z" creationid="halimahamada" creationdate="20230525T153223Z">
+        <seg>Háblame de esa decisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2438,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Vous attendiez-vous à ce que cela prenne autant d'ampleur ?&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T153016Z" creationid="halimahamada" creationdate="20230525T153016Z">
+        <seg>¿Esperaba que esto fuera tan grande?</seg>
       </tuv>
     </tu>
     <tu>
