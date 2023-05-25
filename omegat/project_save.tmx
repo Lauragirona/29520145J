@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -314,6 +314,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230524T120448Z" creationid="halimahamada" creationdate="20230524T120448Z">
         <seg>• 14 de abril del 2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Alors que la nouvelle émission spéciale du couple sur &lt;i4&gt;Hulu&lt;/i4&gt;, &lt;i5&gt;“Til Death Do Us Part Kourtney &amp; Travis”&lt;/i5&gt;, sera diffusée pour la première fois le 13 avril 2023, beaucoup pourraient penser qu'ils ont déjà vu tout ce qu'ils avaient besoin de voir.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151504Z" creationid="halimahamada" creationdate="20230525T151504Z">
+        <seg>Mientras que el nuevo especial de la pareja en Hulu, "Til Death Do Us Part Kourtney &amp; Travis", se emitirá por primera vez el 13 de abril de 2023, muchos podrían pensar que ya han visto todo lo que necesitaban ver. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,6 +1336,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Le documentaire suit chronologiquement chacun des moments clés entourant leurs noces, de leur mariage à Las Vegas à leur cérémonie civile à &lt;/s3&gt;&lt;a6&gt;&lt;s7&gt;Santa &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;s9&gt;Barbara&lt;/s9&gt;&lt;/a8&gt;&lt;s10&gt;, en passant par leur grand mariage familial à Portofino.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151959Z" creationid="halimahamada" creationdate="20230525T151959Z">
+        <seg>El documental sigue cronológicamente cada uno de los momentos clave que rodean sus bodas, desde su boda en Las Vegas hasta su ceremonia civil en Santa Bárbara, pasando por su gran boda familiar en Portofino. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Le fait de passer d'un sentiment d'anxiété et de peur à un moment de vulnérabilité devant les gens - c'était une grande préparation, et je suis sûre que beaucoup de mariées ressentent cette préparation - à un sentiment de sérénité.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1668,6 +1684,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120102Z" creationid="USUARIO" creationdate="20230524T120102Z">
         <seg>Estamos a 9 de marzo 1959 en el salon del juego de Nueva York y de arriba de sus 28 cm, esta en el punto de conquistar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous voyons une &lt;b11&gt;Kourtney&lt;/b11&gt; &lt;b12&gt;Kardashian&lt;/b12&gt; et un &lt;b13&gt;Travis Baker&lt;/b13&gt; en état d'ébriété dans une chapelle de Las Vegas éclairée par des lampes fluorescentes après les Grammy Awards.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152041Z" creationid="halimahamada" creationdate="20230525T152041Z">
+        <seg>Vemos una Kourtney Kardashian y un Travis Baker ebrio en una capilla de Las Vegas iluminada por lámparas fluorescentes después de los premios Grammy. </seg>
       </tuv>
     </tu>
     <tu>
