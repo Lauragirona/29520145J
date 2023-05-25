@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -828,8 +828,8 @@
       <tuv lang="fr">
         <seg>Barbie&lt;/s2&gt;&lt;s5&gt; &lt;/s5&gt;&lt;s6&gt;peut donc être noire, métisse, petite ou ronde, avoir les cheveux rouges ou bleus, être en fauteuil roulant, bref ressembler à n’importe qui, et plus seulement à un stéréotype galvaudé.&lt;/s6&gt;&lt;a7&gt;&lt;s8&gt; &lt;/s8&gt;&lt;/a7&gt;&lt;a9&gt;&lt;b10&gt;&lt;s11&gt;Frida Khalo&lt;/s11&gt;&lt;/b10&gt;&lt;/a9&gt;&lt;s12&gt;, le mannequin Adwoa Aboah, l’escrimeuse Ibtihaj Muhammad&lt;/s12&gt;&lt;s13&gt; &lt;/s13&gt;&lt;s14&gt;et la boxeuse Nicola Adams&lt;/s14&gt;&lt;s15&gt; &lt;/s15&gt;&lt;s16&gt;ont toutes une poupée à leur effigie.&lt;/s16&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;Segmento 0602  &gt; Barbie&lt;/s2&gt;&lt;s5&gt; &lt;/s5&gt;&lt;S6&gt;, por lo tanto, puede ser negra, mestiza, pequeña o redonda, tener el pelo rojo o azul, estar en silla de ruedas, en pocas palabras parecerse a cualquier persona, y no solo a un estereotipo abultado. &lt;/S6&gt;&lt;a7&gt;&lt;SS8&gt; &lt;/S8&gt;&lt;/a7&gt;&lt;A9&gt;&lt;B10&gt;&lt;SS11&gt;Frida Khalo&lt;/S11&gt;&lt;/B10&gt;&lt;/A9&gt;&lt;SA12&gt;, el maniquí Adwoa Boxeah, el&lt;&lt;&lt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;14&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;14&gt;&gt;&gt;&gt;&gt;&gt;&gt;14&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;14&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;14&gt;Ad&gt;Ad&gt;Ad 14&gt;Ad 14&gt;Ad&gt;Ad 14&gt;Ad&gt;Ad&gt;Ad&gt; &lt;/S16&gt; Gran profesional, Barbie sabe hablar con su comunidad.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T155608Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>&lt;Segmento 0602  &gt; Barbie&lt;/s2&gt;&lt;s5&gt; &lt;/s5&gt;, por lo tanto, puede ser negra, mestiza, pequeña o redonda, tener el pelo rojo o azul, estar en silla de ruedas, en pocas palabras parecerse a cualquier persona, y no solo a un estereotipo abultado. &lt;/a7&gt;Frida Khalo, el maniquí Adwoa Boxeah, el Gran profesional, Barbie sabe hablar con su comunidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1110,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>¿Mil caminos para recorrer entre la infinita red de calles de Manhattan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Des pièces fidèles à l’esprit d’aventure et d’évasion de la ville &lt;i0&gt;where dreams are made of&lt;/i0&gt;, tiré de son hit “Empire State of Mind”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153911Z" creationid="USUARIO" creationdate="20230525T153911Z">
+        <seg>&lt;/s2&gt;Piezas fieles al espíritu de aventura y evasión de la ciudad &lt;I0&gt;where Dreams are made of&lt;/I0&gt;, tomadas de su éxito "Empire State of Mind".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1518,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Imágenes y entrevistas exclusivas sobre la boda de Sofia Richie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Imbattable en imagination et numéro 1 en dimension épique, le designer, bouleversé par “&lt;/s27&gt;&lt;a28&gt;&lt;s29&gt;Renaissance&lt;/s29&gt;&lt;/a28&gt;&lt;s30&gt;”, le dernier album de &lt;b31&gt;Beyoncé&lt;/b31&gt;, a réalisé avec la star 16 tenues couture dédiées aux 16 titres qui le compose, créant un concept unique, &lt;b32&gt;Renaissance Couture&lt;/b32&gt;, le premier album à porter !&lt;/s30&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153926Z" creationid="USUARIO" creationdate="20230525T153926Z">
+        <seg>Imbatible en imaginación y número 1 en dimensión épica, el diseñador, conmovido por "&lt;/S27&gt;&lt;A28&gt;&lt;S29&gt;Renaissance&lt;/S29&gt;&lt;/A28&gt;&lt;S30&gt;", el último álbum de &lt;B31&gt;Beyoncé&lt;/B31&gt;, realizó con la estrella 16 trajes de costura dedicados a los títulos que componen el concepto único, &lt;B32&gt;Renaissance Couture&lt;/B32&gt;, el primer álbum a llevar! &lt;/S30&gt;También en la primera fila del Salón de la Fama Vogue, los nuevos súper modelos &lt;B0&gt;Precious Lee, Jill &lt;/B0&gt;</seg>
       </tuv>
     </tu>
     <tu>
