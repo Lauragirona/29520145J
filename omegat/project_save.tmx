@@ -328,8 +328,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;On connait&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;la signification du nouveau bijou porte-bonheur de Rihanna&lt;/s4&gt;&lt;/a3&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;S0&gt;Se conoce&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;S4&gt;el significado de la nueva joya de la suerte de Rihanna&lt;/S4&gt;&lt;/a3&gt;&gt;</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180016Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Se conoce&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;el significado de la nueva joya de la suerte de Rihanna&lt;/a3&gt;&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;À Las Vegas,&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;Rihanna challenge le chic à la française&lt;/s4&gt;&lt;/a3&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T152936Z" creationid="USUARIO" creationdate="20230525T152936Z">
-        <seg>Más moda en Vogue.es En Las Vegas, &lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;Rihanna challenge le chic a la francesa&lt;/a3&gt;</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175930Z" creationid="USUARIO" creationdate="20230525T152936Z">
+        <seg> En Las Vegas, &lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;Rihanna challenge le chic a la francesa&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -980,8 +980,8 @@
       <tuv lang="fr">
         <seg>Ce film féministe repense la famille en dehors du cadre hétéronormé, et c'est inspirant</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>No tenía damas de honor y quería que mis hermanas se impregnaran de lo que hacíamos y vivieran esta experiencia italiana. es</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180100Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Esta pelicula feminista reposa en la familia fuera del cuadro heteronormativo, y es inspirador</seg>
       </tuv>
     </tu>
     <tu>
@@ -1516,8 +1516,8 @@
       <tuv lang="fr">
         <seg>Exit les vêtements de maternité trop larges, la chanteuse originaire de la Barbade, assume pleinement son ventre rond et ose les looks sexy.&lt;/s11&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T152408Z" creationid="USUARIO" creationdate="20230525T152408Z">
-        <seg>&lt;/S11&gt; &lt;S0&gt;En febrero pasado, para sorpresa de todos, reveló&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;S4&gt;estar embarazada&lt;/S4&gt;&lt;/a3&gt;&lt;&gt;&lt;s5&gt; de su segundo hijo en el escenario del Super Bowl 3.Desde entonces, multiplica los happening notados, confirmando su estado de modo.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180218Z" creationid="USUARIO" creationdate="20230525T152408Z">
+        <seg>Fuera la ropa de maternidad largas, la cantante originaria de Barbade, asume plenamente su tripa redonda y se ve sexy..</seg>
       </tuv>
     </tu>
     <tu>
@@ -3083,18 +3083,10 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/article/rihanna-bijou-porte-bonheur-cadeau-anniversaire-fevrier-2023</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Dolce &amp; Gabbana también abrió sus archivos para mí, mis hermanas, mi madre y nuestros hijos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/article/rihanna-look-courreges-avril-2023</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Recuerdo que Domenico sacaba, con sus dientes, los huesos del esqueleto de la muestra de vestido.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175922Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
