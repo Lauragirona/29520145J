@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Ma dernière question avant de vous laisser retourner à votre famille et à votre vie en général : comment se passe la vie de couple ?&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155502Z" creationid="halimahamada" creationdate="20230525T155502Z">
+        <seg>Mi última pregunta antes de dejarte volver a tu familia y a tu vida en general: ¿cómo va la vida de pareja?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Maintenant que vous avez presque un an de recul, y a-t-il quelque chose que vous changeriez à propos de l'un ou l'autre de vos mariages ?&lt;/s4&gt;&lt;/b3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T155211Z" creationid="halimahamada" creationdate="20230525T155211Z">
@@ -1834,6 +1842,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>La façon dont cela s'est passé était tout à fait spéciale.&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155434Z" creationid="halimahamada" creationdate="20230525T155434Z">
+        <seg>La forma en que sucedió fue muy especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>La mode est capricieuse, mais un uniforme est éternel.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1900,8 +1916,8 @@
       <tuv lang="fr">
         <seg>Le fait de passer d'un sentiment d'anxiété et de peur à un moment de vulnérabilité devant les gens - c'était une grande préparation, et je suis sûre que beaucoup de mariées ressentent cette préparation - à un sentiment de sérénité.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Las palabras trazados en la parte posterior de las piezas de jersey - "Where Dreams are made of" - evocan por su parte "Empire State of Mind", el himno de la diva.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155428Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pasar de una sensación de ansiedad y miedo a un momento de vulnerabilidad ante la gente - fue una gran preparación, y estoy segura de que muchas novias sienten esa preparación - a una sensación de serenidad.</seg>
       </tuv>
     </tu>
     <tu>
