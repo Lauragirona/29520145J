@@ -174,6 +174,22 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;b17&gt;Dolce &amp; Gabbana&lt;/b17&gt; a également ouvert ses archives pour moi, mes sœurs, ma mère et nos enfants.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155008Z" creationid="halimahamada" creationdate="20230525T155008Z">
+        <seg>Dolce &amp; Gabbana también abrió sus archivos para mí, mis hermanas, mi madre y nuestros hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;b4&gt;Travis&lt;/b4&gt; a la Vierge Marie tatouée sur la tête.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155059Z" creationid="halimahamada" creationdate="20230525T155059Z">
+        <seg>Travis tiene la Virgen María tatuada en la cabeza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;b4&gt;Travis&lt;/b4&gt; et moi étions allés à Portofino au mois d'août précédant notre mariage.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153034Z" creationid="halimahamada" creationdate="20230525T153034Z">
@@ -451,6 +467,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152957Z" creationid="halimahamada" creationdate="20230525T152957Z">
         <seg>Sobre el tema de Italia, la mayoría de los artículos en torno a su boda están dedicados al de Portofino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Sur votre voile de mariée, vous aviez une broderie d'un des tatouages de Travis Barker.&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155048Z" creationid="halimahamada" creationdate="20230525T155048Z">
+        <seg>En su velo de novia, tenía un bordado de uno de los tatuajes de Travis Barker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1252,8 +1276,8 @@
       <tuv lang="fr">
         <seg>En dessous, il y a écrit "famille, loyauté, respect".</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>¿Mil caminos que recorrer entre la infinita red de calles de Manhattan?</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155126Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Debajo dice "familia, lealtad, respeto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1468,8 +1492,8 @@
       <tuv lang="fr">
         <seg>J'ai ensuite envoyé des e-mails à mes sœurs avec tous les looks et j'ai laissé chacune choisir ce qui lui convenait le mieux.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>&lt;s0&gt;Moncler revela una colección muy neoyorquina en &lt;/s0&gt;&lt;s1&gt;co-creación con Alicia Keys&lt;o2&gt;&lt;/o2&gt;&lt;/s1&gt; es</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155033Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Luego envié correos electrónicos a mis hermanas con todos los looks y dejé que cada una eligiera lo que más le convenía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1590,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>No me gusta el gel y todos estos productos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je n'avais pas de demoiselles d'honneur et je voulais vraiment que mes sœurs s'imprègnent de ce que nous faisions et qu'elles vivent cette expérience italienne.&lt;/s14&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155037Z" creationid="halimahamada" creationdate="20230525T155037Z">
+        <seg>No tenía damas de honor y quería que mis hermanas se impregnaran de lo que hacíamos y vivieran esta experiencia italiana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,6 +1975,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153133Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Mi madre vino al día siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ma styliste &lt;b18&gt;Danni&lt;/b18&gt; et moi avons passé deux jours supplémentaires à fouiller dans les archives et à en tirer des tonnes de looks pour tout le monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155017Z" creationid="halimahamada" creationdate="20230525T155017Z">
+        <seg>Mi estilista Danni y yo pasamos dos días más hurgando en los archivos y sacando un montón de looks para todos.</seg>
       </tuv>
     </tu>
     <tu>
