@@ -126,10 +126,34 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;/s14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;e16&gt;&lt;s17&gt;&lt;f18&gt;&lt;f19&gt;&lt;f20&gt;&lt;s21&gt;&lt;s22&gt;&lt;s23&gt;À Las Vegas, &lt;/s23&gt;&lt;/s22&gt;&lt;/s21&gt;&lt;/f20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/s17&gt;&lt;/e16&gt;&lt;e24&gt;&lt;a25&gt;&lt;s26&gt;&lt;f27&gt;&lt;f28&gt;&lt;f29&gt;&lt;s30&gt;&lt;s31&gt;&lt;s32&gt;&lt;s33&gt;Rihanna challenge le chic à la française&lt;/s33&gt;&lt;/s32&gt;&lt;/s31&gt;&lt;/s30&gt;&lt;/f29&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;/s26&gt;&lt;/a25&gt;&lt;/e24&gt;&lt;s34&gt;&lt;f35&gt;&lt;f36&gt;&lt;f37&gt;&lt;s38&gt;&lt;s39&gt;&lt;s40&gt;&lt;br41/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185536Z" creationid="laura" creationdate="20230525T185536Z">
+        <seg> En Las Vegas, &lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;Rihanna challenge le chic a la francesa&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;/s3&gt;&lt;a4&gt;&lt;b5&gt;&lt;s6&gt;Monica Bellucci&lt;/s6&gt;&lt;/b5&gt;&lt;/a4&gt;&lt;s7&gt; a été une grande source d'inspiration.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153451Z" creationid="halimahamada" creationdate="20230525T153451Z">
         <seg>Cuando Travis y yo celebramos mi cumpleaños en Utah, vimos todos los videos musicales de los 90.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;/s40&gt;&lt;/s39&gt;&lt;/s38&gt;&lt;/f37&gt;&lt;/f36&gt;&lt;/f35&gt;&lt;/s34&gt;&lt;e42&gt;&lt;a43&gt;&lt;s44&gt;&lt;f45&gt;&lt;f46&gt;&lt;f47&gt;&lt;s48&gt;&lt;s49&gt;&lt;s50&gt;&lt;s51&gt;Rihanna remet au goût du jour ces sneakers signées Puma&lt;/s51&gt;&lt;/s50&gt;&lt;/s49&gt;&lt;/s48&gt;&lt;/f47&gt;&lt;/f46&gt;&lt;/f45&gt;&lt;/s44&gt;&lt;/a43&gt;&lt;/e42&gt;&lt;s52&gt;&lt;f53&gt;&lt;f54&gt;&lt;f55&gt;&lt;s56&gt;&lt;s57&gt;&lt;s58&gt;&lt;br59/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185537Z" creationid="laura" creationdate="20230525T185537Z">
+        <seg>Rihanna vuelve a poner al día estas zapatillas firmadas Puma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;/s58&gt;&lt;/s57&gt;&lt;/s56&gt;&lt;/f55&gt;&lt;/f54&gt;&lt;/f53&gt;&lt;/s52&gt;&lt;e60&gt;&lt;s61&gt;&lt;f62&gt;&lt;f63&gt;&lt;f64&gt;&lt;s65&gt;&lt;s66&gt;&lt;s67&gt;On connait &lt;/s67&gt;&lt;/s66&gt;&lt;/s65&gt;&lt;/f64&gt;&lt;/f63&gt;&lt;/f62&gt;&lt;/s61&gt;&lt;/e60&gt;&lt;e68&gt;&lt;a69&gt;&lt;s70&gt;&lt;f71&gt;&lt;f72&gt;&lt;f73&gt;&lt;s74&gt;&lt;s75&gt;&lt;s76&gt;&lt;s77&gt;la signification du nouveau bijou porte-bonheur de Rihanna&lt;/s77&gt;&lt;/s76&gt;&lt;/s75&gt;&lt;/s74&gt;&lt;/f73&gt;&lt;/f72&gt;&lt;/f71&gt;&lt;/s70&gt;&lt;/a69&gt;&lt;/e68&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185545Z" creationid="laura" creationdate="20230525T185545Z">
+        <seg>Se conoce&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;el significado de la nueva joya de la suerte de Rihanna&lt;/a3&gt;&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +246,70 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;e0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;20th Century Women&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/e0&gt;&lt;s6&gt;&lt;f7&gt;&lt;s8&gt; &lt;/s8&gt;&lt;/f7&gt;&lt;/s6&gt;&lt;s9&gt;&lt;f10&gt;&lt;f11&gt;&lt;f12&gt;&lt;s13&gt;&lt;s14&gt;&lt;s15&gt;s’ouvre sur le plan d’une voiture en train de brûler depuis le parking d’un supermarché où elle est garée. &lt;/s15&gt;&lt;/s14&gt;&lt;/s13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/s9&gt;&lt;e16&gt;&lt;f17&gt;&lt;s18&gt;“&lt;/s18&gt;&lt;/f17&gt;&lt;/e16&gt;&lt;e19&gt;&lt;f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;s23&gt;&lt;s24&gt;C’était la Ford Galaxy de mon mari&lt;/s24&gt;&lt;/s23&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;/e19&gt;&lt;s25&gt;&lt;f26&gt;&lt;f27&gt;&lt;f28&gt;&lt;s29&gt;&lt;s30&gt;&lt;s31&gt;, dit soudain une voix féminine. &lt;/s31&gt;&lt;/s30&gt;&lt;/s29&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;/s25&gt;&lt;e32&gt;&lt;f33&gt;&lt;f34&gt;&lt;f35&gt;&lt;s36&gt;&lt;s37&gt;C’était dans cette voiture qu’on avait ramené Jamie de l'hôpital.”&lt;/s37&gt;&lt;/s36&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;/f33&gt;&lt;/e32&gt;&lt;s38&gt;&lt;f39&gt;&lt;s40&gt; &lt;/s40&gt;&lt;/f39&gt;&lt;/s38&gt;&lt;s41&gt;&lt;f42&gt;&lt;f43&gt;&lt;f44&gt;&lt;s45&gt;&lt;s46&gt;&lt;s47&gt;Le silence tranquille de la scène détonne avec l’incident qui se produit sous les yeux de ceux qui le regardent, c’est-à-dire nous, spectateurs, mais aussi les personnages de &lt;/s47&gt;&lt;/s46&gt;&lt;/s45&gt;&lt;/f44&gt;&lt;/f43&gt;&lt;/f42&gt;&lt;/s41&gt;&lt;s48&gt;&lt;s49&gt;&lt;f50&gt;&lt;f51&gt;&lt;f52&gt;&lt;s53&gt;&lt;s54&gt;&lt;s55&gt;Dorothea Fields&lt;/s55&gt;&lt;/s54&gt;&lt;/s53&gt;&lt;/f52&gt;&lt;/f51&gt;&lt;/f50&gt;&lt;/s49&gt;&lt;/s48&gt;&lt;s56&gt;&lt;f57&gt;&lt;s58&gt; &lt;/s58&gt;&lt;/f57&gt;&lt;/s56&gt;&lt;s59&gt;&lt;f60&gt;&lt;f61&gt;&lt;f62&gt;&lt;s63&gt;&lt;s64&gt;&lt;s65&gt;et de son fils, &lt;/s65&gt;&lt;/s64&gt;&lt;/s63&gt;&lt;/f62&gt;&lt;/f61&gt;&lt;/f60&gt;&lt;/s59&gt;&lt;s66&gt;&lt;s67&gt;&lt;f68&gt;&lt;f69&gt;&lt;f70&gt;&lt;s71&gt;&lt;s72&gt;&lt;s73&gt;Jamie&lt;/s73&gt;&lt;/s72&gt;&lt;/s71&gt;&lt;/f70&gt;&lt;/f69&gt;&lt;/f68&gt;&lt;/s67&gt;&lt;/s66&gt;&lt;s74&gt;&lt;f75&gt;&lt;f76&gt;&lt;f77&gt;&lt;s78&gt;&lt;s79&gt;&lt;s80&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185530Z" creationid="laura" creationdate="20230525T185530Z">
+        <seg>Fue en este coche en el que trajimos a Jamie a casa desde el hospital". El tranquilo silencio de la escena contrasta con el incidente que está teniendo lugar ante los ojos de quienes la contemplan, es decir, nosotros, los espectadores, pero también los personajes de Dorothea Fields y su hijo, Jamie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e10&gt;“C’était tellement spécial de porter sa création lors du moment le plus important de ma vie”&lt;/e10&gt;, affirme &lt;s11&gt;Sofia Richie&lt;/s11&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185418Z" creationid="laura" creationdate="20230525T185418Z">
+        <seg>"Quería que mis damas de honor se sintieran a gusto, mi única exigencia era que vistieran de negro", explica Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e2&gt;“Lors de la réception, je portais des boucles d'oreilles en diamants de Kwiat, la société mère de Fred Leighton, et pour la fête, mes boucles d'oreilles chandelier Fred Leighton en aigue-marine ont ajouté une touche de bleu bienvenue.”&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185430Z" creationid="laura" creationdate="20230525T185430Z">
+        <seg>"A la mañana siguiente me desperté con todas mis damas de honor y mi hermana, y fuimos al ensayo de las 8:00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e4&gt;“Travailler avec Chanel n'était pas seulement un honneur, mais aussi un rêve devenu réalité”&lt;/e4&gt;, confie &lt;s5&gt;Sofia Richie&lt;/s5&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185327Z" creationid="laura" creationdate="20230525T185327Z">
+        <seg>"Trabajar con Chanel no fue solo un honor, sino también un sueño hecho realidad", confiesa Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e5&gt;“Dès mes premiers essayages dans les salons Chanel à Paris, j’ai eu une idée très précise de ce que je voulais : une magnifique robe dos nu brodée de dentelle avec une longue traîne.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185406Z" creationid="laura" creationdate="20230525T185406Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e5&gt;“Toutes les perles ont été ajoutées à la main”&lt;/e5&gt;, explique &lt;s6&gt;Sofia Richie&lt;/s6&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185415Z" creationid="laura" creationdate="20230525T185415Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e6&gt;“Avoir la chance de créer cette robe et de travailler si étroitement avec Olivia Douchez, première d’atelier Haute Couture, les observer à l’œuvre et voir l’attention accordée aux détails a été une expérience unique au monde.”&lt;/e6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185342Z" creationid="laura" creationdate="20230525T185342Z">
+        <seg>&lt;s0&gt;único para su vela: trabajó con el equipo Chanel para imaginar una habitación brillante, adornada &lt;/s0&gt;&lt;s1&gt;gotas de resina de agua que brillaban cuando caminaba.&lt;o2&gt;&lt;/o2&gt;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e7&gt;“Pour moi, c’est l’incarnation de l'élégance classique et de la féminité qui ont fait le génie de &lt;a8&gt;Karl Lagerfeld.&lt;/a8&gt;”&lt;/e7&gt; &lt;s9&gt;Nicole Richie&lt;/s9&gt;, la sœur de la mariée, a conçu une paire de boucles d'oreilles en diamant pour compléter la tenue.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185416Z" creationid="laura" creationdate="20230525T185416Z">
+        <seg>"Para mí, fue la encarnación de la elegancia clásica y la feminidad lo que hizo el genio de Karl Lagerfeld."Nicole Richie, la hermana de la novia, diseñó un par de pendientes de diamante para completar el atuendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;i0&gt;&lt;s1&gt;« J’aime mes enfants, mais je n’étais pas faite pour m’occuper d’un foyer. »&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt;explique Ruth Handler dans une interview de 1994.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120404Z" creationid="USUARIO" creationdate="20230524T120404Z">
@@ -258,6 +346,54 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115321Z" creationid="USUARIO" creationdate="20230524T115321Z">
         <seg>Nunca soñé con cambiar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;Ce 21 avril, c'est avec son &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;a7&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;s14&gt;&lt;s15&gt;fils&lt;/s15&gt;&lt;/s14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;/a7&gt;&lt;s16&gt;&lt;f17&gt;&lt;f18&gt;&lt;f19&gt;&lt;s20&gt;&lt;s21&gt;&lt;s22&gt; dans les bras qu'elle est apparue sur l'avenue Wagram.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185556Z" creationid="laura" creationdate="20230525T185556Z">
+        <seg>Este 21 de abril, con su&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;hijo&lt;/a3&gt;&lt;s5&gt; apareció en los brazos de la avenida Wagram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;Cette voix entendue en introduction de &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;e7&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;s14&gt;20th Century Women&lt;/s14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;/e7&gt;&lt;s15&gt;&lt;f16&gt;&lt;f17&gt;&lt;f18&gt;&lt;s19&gt;&lt;s20&gt;&lt;s21&gt;, c’est celle de &lt;/s21&gt;&lt;/s20&gt;&lt;/s19&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;/s15&gt;&lt;s22&gt;&lt;s23&gt;&lt;f24&gt;&lt;f25&gt;&lt;f26&gt;&lt;s27&gt;&lt;s28&gt;&lt;b29&gt;Dorothea Fields&lt;/b29&gt;&lt;/s28&gt;&lt;/s27&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;/s23&gt;&lt;/s22&gt;&lt;s30&gt;&lt;f31&gt;&lt;f32&gt;&lt;f33&gt;&lt;s34&gt;&lt;s35&gt;&lt;s36&gt;, jouée par la merveilleuse &lt;/s36&gt;&lt;/s35&gt;&lt;/s34&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;/f31&gt;&lt;/s30&gt;&lt;s37&gt;&lt;s38&gt;&lt;f39&gt;&lt;f40&gt;&lt;f41&gt;&lt;s42&gt;&lt;s43&gt;&lt;b44&gt;Annette Bening&lt;/b44&gt;&lt;/s43&gt;&lt;/s42&gt;&lt;/f41&gt;&lt;/f40&gt;&lt;/f39&gt;&lt;/s38&gt;&lt;/s37&gt;&lt;s45&gt;&lt;f46&gt;&lt;f47&gt;&lt;f48&gt;&lt;s49&gt;&lt;s50&gt;&lt;s51&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185523Z" creationid="laura" creationdate="20230525T185523Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;Comme lors de &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;a7&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;s14&gt;&lt;s15&gt;sa précédente grossesse&lt;/s15&gt;&lt;/s14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;/a7&gt;&lt;s16&gt;&lt;f17&gt;&lt;f18&gt;&lt;f19&gt;&lt;s20&gt;&lt;s21&gt;&lt;s22&gt; en 2022, &lt;/s22&gt;&lt;/s21&gt;&lt;/s20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;/s16&gt;&lt;s23&gt;&lt;a24&gt;&lt;s25&gt;&lt;f26&gt;&lt;f27&gt;&lt;f28&gt;&lt;s29&gt;&lt;s30&gt;&lt;b31&gt;&lt;s32&gt;Rihanna&lt;/s32&gt;&lt;/b31&gt;&lt;/s30&gt;&lt;/s29&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;/s25&gt;&lt;/a24&gt;&lt;/s23&gt;&lt;s33&gt;&lt;f34&gt;&lt;f35&gt;&lt;f36&gt;&lt;s37&gt;&lt;s38&gt;&lt;s39&gt; sublime son &lt;/s39&gt;&lt;/s38&gt;&lt;/s37&gt;&lt;/f36&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;/s33&gt;&lt;e40&gt;&lt;s41&gt;&lt;f42&gt;&lt;f43&gt;&lt;f44&gt;&lt;s45&gt;&lt;s46&gt;&lt;s47&gt;baby bump&lt;/s47&gt;&lt;/s46&gt;&lt;/s45&gt;&lt;/f44&gt;&lt;/f43&gt;&lt;/f42&gt;&lt;/s41&gt;&lt;/e40&gt;&lt;s48&gt;&lt;f49&gt;&lt;f50&gt;&lt;f51&gt;&lt;s52&gt;&lt;s53&gt;&lt;s54&gt; comme personne !</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185635Z" creationid="laura" creationdate="20230525T185635Z">
+        <seg>Como en su antiguo embarazo en 2022, &lt;a1&gt;&lt;s2&gt; Rihanna sublime su baby bump como persona!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;En février dernier, elle révélait, à la surprise générale, &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;a7&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;s14&gt;&lt;s15&gt;être enceinte&lt;/s15&gt;&lt;/s14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;/a7&gt;&lt;s16&gt;&lt;f17&gt;&lt;f18&gt;&lt;f19&gt;&lt;s20&gt;&lt;s21&gt;&lt;s22&gt; de son deuxième enfant sur la scène du Super Bowl 2023.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185603Z" creationid="laura" creationdate="20230525T185603Z">
+        <seg>En febrero pasado, para sorpresa de todos, reveló&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;estar embarazada&lt;/a3&gt;&lt;s5&gt; de su segundo hijo en el escenario del Super Bowl 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5&gt;&lt;s6&gt;&lt;s7&gt;En effet, Dorothea Fields est convaincue qu’elle n’a pas besoin d’un homme pour éduquer son fils.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185519Z" creationid="laura" creationdate="20230525T185519Z">
+        <seg>Dorothea Fields estaba convencida de que no necesitaba a un hombre para criar a su hijo..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5&gt;&lt;s6&gt;&lt;s7&gt;Sûre d’elle et malgré tout déstabilisée par le monde, à commencer par les jeux insensés de son fils, Dorothea fait ainsi appel à Julie, sa voisine de 17 ans incarnée par la captivante &lt;/s7&gt;&lt;/s6&gt;&lt;/s5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/s1&gt;&lt;/s0&gt;&lt;s8&gt;&lt;a9&gt;&lt;s10&gt;&lt;f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;s14&gt;&lt;s15&gt;&lt;b16&gt;&lt;s17&gt;Elle Fanning&lt;/s17&gt;&lt;/b16&gt;&lt;/s15&gt;&lt;/s14&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;/s10&gt;&lt;/a9&gt;&lt;/s8&gt;&lt;s18&gt;&lt;s19&gt;&lt;f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;s23&gt;&lt;s24&gt;&lt;s25&gt;, et &lt;/s25&gt;&lt;/s24&gt;&lt;/s23&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;/s19&gt;&lt;/s18&gt;&lt;s26&gt;&lt;a27&gt;&lt;s28&gt;&lt;f29&gt;&lt;f30&gt;&lt;f31&gt;&lt;s32&gt;&lt;s33&gt;&lt;b34&gt;&lt;s35&gt;Greta Gerwig&lt;/s35&gt;&lt;/b34&gt;&lt;/s33&gt;&lt;/s32&gt;&lt;/f31&gt;&lt;/f30&gt;&lt;/f29&gt;&lt;/s28&gt;&lt;/a27&gt;&lt;/s26&gt;&lt;s36&gt;&lt;s37&gt;&lt;f38&gt;&lt;f39&gt;&lt;f40&gt;&lt;s41&gt;&lt;s42&gt;&lt;s43&gt; dans le rôle d'Abbie, une trentenaire à fleur de peau qui vit avec eux, pour influencer Jamie de manière positive et l'aider à s'ouvrir à d’autres regards sur le monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185507Z" creationid="laura" creationdate="20230525T185507Z">
+        <seg>Dorothea, segura de sí misma pero desconcertada por el mundo, empezando por los alocados juegos de su hijo, consigue la ayuda de Julie, su vecina de 17 años interpretada por la cautivadora Elle Fanning, y de Greta Gerwig como Abbie, una treintañera nerviosa que vive con ellos, para influir positivamente en Jamie y ayudarle a abrirse a otras formas de ver el mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -785,6 +921,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Alors qu'elle était habillée d'un crop top gris et d'un pantalon cargo associé à un manteau patchwork vintage signé &lt;/s103&gt;&lt;/s102&gt;&lt;/s101&gt;&lt;/f100&gt;&lt;/f99&gt;&lt;/f98&gt;&lt;/s97&gt;&lt;s104&gt;&lt;s105&gt;&lt;f106&gt;&lt;f107&gt;&lt;f108&gt;&lt;s109&gt;&lt;s110&gt;&lt;b111&gt;Fendi&lt;/b111&gt;&lt;/s110&gt;&lt;/s109&gt;&lt;/f108&gt;&lt;/f107&gt;&lt;/f106&gt;&lt;/s105&gt;&lt;/s104&gt;&lt;s112&gt;&lt;f113&gt;&lt;f114&gt;&lt;f115&gt;&lt;s116&gt;&lt;s117&gt;&lt;s118&gt; par &lt;/s118&gt;&lt;/s117&gt;&lt;/s116&gt;&lt;/f115&gt;&lt;/f114&gt;&lt;/f113&gt;&lt;/s112&gt;&lt;s119&gt;&lt;s120&gt;&lt;f121&gt;&lt;f122&gt;&lt;f123&gt;&lt;s124&gt;&lt;s125&gt;&lt;b126&gt;Karl Lagerfeld&lt;/b126&gt;&lt;/s125&gt;&lt;/s124&gt;&lt;/f123&gt;&lt;/f122&gt;&lt;/f121&gt;&lt;/s120&gt;&lt;/s119&gt;&lt;s127&gt;&lt;f128&gt;&lt;f129&gt;&lt;f130&gt;&lt;s131&gt;&lt;s132&gt;&lt;s133&gt; datant de 1999 lors d'un dîner au César, elle arborait &lt;/s133&gt;&lt;/s132&gt;&lt;/s131&gt;&lt;/f130&gt;&lt;/f129&gt;&lt;/f128&gt;&lt;/s127&gt;&lt;a134&gt;&lt;s135&gt;&lt;f136&gt;&lt;f137&gt;&lt;f138&gt;&lt;s139&gt;&lt;s140&gt;&lt;s141&gt;&lt;s142&gt;une tenue&lt;/s142&gt;&lt;/s141&gt;&lt;/s140&gt;&lt;/s139&gt;&lt;/f138&gt;&lt;/f137&gt;&lt;/f136&gt;&lt;/s135&gt;&lt;/a134&gt;&lt;s143&gt;&lt;f144&gt;&lt;f145&gt;&lt;f146&gt;&lt;s147&gt;&lt;s148&gt;&lt;s149&gt; &lt;/s149&gt;&lt;/s148&gt;&lt;/s147&gt;&lt;/f146&gt;&lt;/f145&gt;&lt;/f144&gt;&lt;/s143&gt;&lt;s150&gt;&lt;a151&gt;&lt;s152&gt;&lt;f153&gt;&lt;f154&gt;&lt;f155&gt;&lt;s156&gt;&lt;s157&gt;&lt;b158&gt;&lt;s159&gt;JW Anderson&lt;/s159&gt;&lt;/b158&gt;&lt;/s157&gt;&lt;/s156&gt;&lt;/f155&gt;&lt;/f154&gt;&lt;/f153&gt;&lt;/s152&gt;&lt;/a151&gt;&lt;/s150&gt;&lt;s160&gt;&lt;f161&gt;&lt;f162&gt;&lt;f163&gt;&lt;s164&gt;&lt;s165&gt;&lt;s166&gt; rehaussée de pièces vintage : un manteau &lt;/s166&gt;&lt;/s165&gt;&lt;/s164&gt;&lt;/f163&gt;&lt;/f162&gt;&lt;/f161&gt;&lt;/s160&gt;&lt;s167&gt;&lt;s168&gt;&lt;f169&gt;&lt;f170&gt;&lt;f171&gt;&lt;s172&gt;&lt;s173&gt;&lt;b174&gt;John Galliano&lt;/b174&gt;&lt;/s173&gt;&lt;/s172&gt;&lt;/f171&gt;&lt;/f170&gt;&lt;/f169&gt;&lt;/s168&gt;&lt;/s167&gt;&lt;s175&gt;&lt;f176&gt;&lt;f177&gt;&lt;f178&gt;&lt;s179&gt;&lt;s180&gt;&lt;s181&gt; et d'un sac à main &lt;/s181&gt;&lt;/s180&gt;&lt;/s179&gt;&lt;/f178&gt;&lt;/f177&gt;&lt;/f176&gt;&lt;/s175&gt;&lt;s182&gt;&lt;s183&gt;&lt;f184&gt;&lt;f185&gt;&lt;f186&gt;&lt;s187&gt;&lt;s188&gt;&lt;b189&gt;Louis Vuitton&lt;/b189&gt;&lt;/s188&gt;&lt;/s187&gt;&lt;/f186&gt;&lt;/f185&gt;&lt;/f184&gt;&lt;/s183&gt;&lt;/s182&gt;&lt;s190&gt;&lt;f191&gt;&lt;f192&gt;&lt;f193&gt;&lt;s194&gt;&lt;s195&gt;&lt;s196&gt; à la sortie de l'hôtel &lt;/s196&gt;&lt;/s195&gt;&lt;/s194&gt;&lt;/f193&gt;&lt;/f192&gt;&lt;/f191&gt;&lt;/s190&gt;&lt;s197&gt;&lt;s198&gt;&lt;f199&gt;&lt;f200&gt;&lt;f201&gt;&lt;s202&gt;&lt;s203&gt;&lt;b204&gt;Bulgari&lt;/b204&gt;&lt;/s203&gt;&lt;/s202&gt;&lt;/f201&gt;&lt;/f200&gt;&lt;/f199&gt;&lt;/s198&gt;&lt;/s197&gt;&lt;s205&gt;&lt;f206&gt;&lt;f207&gt;&lt;f208&gt;&lt;s209&gt;&lt;s210&gt;&lt;s211&gt; dès le lendemain.&lt;/s211&gt;&lt;/s210&gt;&lt;/s209&gt;&lt;/f208&gt;&lt;/f207&gt;&lt;/f206&gt;&lt;/s205&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185558Z" creationid="laura" creationdate="20230525T185558Z">
+        <seg>Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Fendi por Karl Lagerfeld que data de 1999 durante una cena en el César, En ella se exhibe  un abrigo John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Alors que toute sa célèbre famille s'est rendue dans la petite ville côtière italienne, il s'avère que les paparazzis du monde entier en ont fait tout autant.&lt;/s9&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T151117Z" creationid="halimahamada" creationdate="20230525T151117Z">
@@ -1130,6 +1274,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Consciente toutefois de ne pas correspondre au modèle des femmes de son âge, préférant un bon livre à une relation amoureuse, elle use de sa douceur et de sa drôlerie pour trouver des alternatives aux normes familiales et faire en sorte que son fils ne manque de rien, et surtout pas d’amour.&lt;/s81&gt;&lt;/s80&gt;&lt;/s79&gt;&lt;/f78&gt;&lt;/f77&gt;&lt;/f76&gt;&lt;/s75&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185516Z" creationid="laura" creationdate="20230525T185516Z">
+        <seg>Consciente, sin embargo, de que no encaja en el molde de las mujeres de su edad, que prefieren un buen libro a una relación romántica, utiliza su dulzura e ingenio para encontrar alternativas a las normas familiares y asegurarse de que a su hijo no le falte de nada, especialmente amor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Considérés comme des bijoux pour les mains, chaque gant nécessite plus d'une semaine de travail.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1261,6 +1413,14 @@
         <seg>Depuis, elle multiplie les happening remarqués, confirmant son statut mode.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T152530Z" creationid="USUARIO" creationdate="20230525T152530Z">
+        <seg>Desde entonces, multiplica los happening notados, confirmando su estado modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Depuis, elle multiplie les &lt;/s22&gt;&lt;/s21&gt;&lt;/s20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;/s16&gt;&lt;e23&gt;&lt;s24&gt;&lt;f25&gt;&lt;f26&gt;&lt;f27&gt;&lt;s28&gt;&lt;s29&gt;&lt;s30&gt;happening&lt;/s30&gt;&lt;/s29&gt;&lt;/s28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;/s24&gt;&lt;/e23&gt;&lt;s31&gt;&lt;f32&gt;&lt;f33&gt;&lt;f34&gt;&lt;s35&gt;&lt;s36&gt;&lt;s37&gt; remarqués, confirmant son statut mode.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185602Z" creationid="laura" creationdate="20230525T185602Z">
         <seg>Desde entonces, multiplica los happening notados, confirmando su estado modo.</seg>
       </tuv>
     </tu>
@@ -1434,6 +1594,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Elle a vécu la Grande Dépression, un temps où fumer était perçu comme plus élégant que dangereux, lui s’aventure à tâtons dans la genèse d’une crise, frappée par la colère, la mélancolie et les mouvements libertaires.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185512Z" creationid="laura" creationdate="20230525T185512Z">
+        <seg>Ella vivió la Gran Depresión, una época en la que fumar se consideraba más elegante que peligroso, mientras que él atraviesa a tientas la génesis de una crisis, golpeado por la ira, la melancolía y los movimientos libertarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Elle demande plutôt aux femmes qui l’entourent d'intervenir auprès de lui, afin qu’il cultive ses qualités et trouve sa place dans le monde.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T165145Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1469,6 +1637,14 @@
         <seg>Elle misait sur le double denim avec une veste courte &lt;b14&gt;Alaïa&lt;/b14&gt; qu'elle portait sous une autre veste &lt;b15&gt;Gucci&lt;/b15&gt; aux lignes oversized avec une minijupe&lt;/s10&gt;&lt;a16&gt;&lt;s17&gt; &lt;/s17&gt;&lt;/a16&gt;&lt;a18&gt;&lt;b19&gt;&lt;s20&gt;Courrèges&lt;/s20&gt;&lt;/b19&gt;&lt;/a18&gt;&lt;s21&gt;issue &lt;/s21&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T182000Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Apostaba por el denim doble con una chaqueta corta Alaya que llevaba bajo otra chaqueta Gucci en las líneas oversized con minifalda Corta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Elle misait sur le double denim avec une veste courte &lt;/s83&gt;&lt;/s82&gt;&lt;/s81&gt;&lt;/f80&gt;&lt;/f79&gt;&lt;/f78&gt;&lt;/s77&gt;&lt;s84&gt;&lt;s85&gt;&lt;f86&gt;&lt;f87&gt;&lt;f88&gt;&lt;s89&gt;&lt;s90&gt;&lt;b91&gt;Alaïa&lt;/b91&gt;&lt;/s90&gt;&lt;/s89&gt;&lt;/f88&gt;&lt;/f87&gt;&lt;/f86&gt;&lt;/s85&gt;&lt;/s84&gt;&lt;s92&gt;&lt;f93&gt;&lt;f94&gt;&lt;f95&gt;&lt;s96&gt;&lt;s97&gt;&lt;s98&gt; qu'elle portait sous une autre veste &lt;/s98&gt;&lt;/s97&gt;&lt;/s96&gt;&lt;/f95&gt;&lt;/f94&gt;&lt;/f93&gt;&lt;/s92&gt;&lt;s99&gt;&lt;s100&gt;&lt;f101&gt;&lt;f102&gt;&lt;f103&gt;&lt;s104&gt;&lt;s105&gt;&lt;b106&gt;Gucci&lt;/b106&gt;&lt;/s105&gt;&lt;/s104&gt;&lt;/f103&gt;&lt;/f102&gt;&lt;/f101&gt;&lt;/s100&gt;&lt;/s99&gt;&lt;s107&gt;&lt;f108&gt;&lt;f109&gt;&lt;f110&gt;&lt;s111&gt;&lt;s112&gt;&lt;s113&gt; aux lignes &lt;/s113&gt;&lt;/s112&gt;&lt;/s111&gt;&lt;/f110&gt;&lt;/f109&gt;&lt;/f108&gt;&lt;/s107&gt;&lt;e114&gt;&lt;s115&gt;&lt;f116&gt;&lt;f117&gt;&lt;f118&gt;&lt;s119&gt;&lt;s120&gt;&lt;s121&gt;oversized&lt;/s121&gt;&lt;/s120&gt;&lt;/s119&gt;&lt;/f118&gt;&lt;/f117&gt;&lt;/f116&gt;&lt;/s115&gt;&lt;/e114&gt;&lt;s122&gt;&lt;f123&gt;&lt;f124&gt;&lt;f125&gt;&lt;s126&gt;&lt;s127&gt;&lt;s128&gt; avec une minijupe &lt;/s128&gt;&lt;/s127&gt;&lt;/s126&gt;&lt;/f125&gt;&lt;/f124&gt;&lt;/f123&gt;&lt;/s122&gt;&lt;s129&gt;&lt;a130&gt;&lt;s131&gt;&lt;f132&gt;&lt;f133&gt;&lt;f134&gt;&lt;s135&gt;&lt;s136&gt;&lt;b137&gt;&lt;s138&gt;Courrèges&lt;/s138&gt;&lt;/b137&gt;&lt;/s136&gt;&lt;/s135&gt;&lt;/f134&gt;&lt;/f133&gt;&lt;/f132&gt;&lt;/s131&gt;&lt;/a130&gt;&lt;/s129&gt;&lt;s139&gt;&lt;f140&gt;&lt;f141&gt;&lt;f142&gt;&lt;s143&gt;&lt;s144&gt;&lt;s145&gt;issue de la collection resort 2023.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185552Z" creationid="laura" creationdate="20230525T185552Z">
         <seg>Apostaba por el denim doble con una chaqueta corta Alaya que llevaba bajo otra chaqueta Gucci en las líneas oversized con minifalda Corta</seg>
       </tuv>
     </tu>
@@ -1562,6 +1738,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>En guise d'accessoires, &lt;/s160&gt;&lt;/s159&gt;&lt;/s158&gt;&lt;/f157&gt;&lt;/f156&gt;&lt;/f155&gt;&lt;/s154&gt;&lt;s161&gt;&lt;a162&gt;&lt;s163&gt;&lt;f164&gt;&lt;f165&gt;&lt;f166&gt;&lt;s167&gt;&lt;s168&gt;&lt;b169&gt;&lt;s170&gt;Rihanna&lt;/s170&gt;&lt;/b169&gt;&lt;/s168&gt;&lt;/s167&gt;&lt;/f166&gt;&lt;/f165&gt;&lt;/f164&gt;&lt;/s163&gt;&lt;/a162&gt;&lt;/s161&gt;&lt;s171&gt;&lt;f172&gt;&lt;f173&gt;&lt;f174&gt;&lt;s175&gt;&lt;s176&gt;&lt;s177&gt; ajoutait un sac &lt;/s177&gt;&lt;/s176&gt;&lt;/s175&gt;&lt;/f174&gt;&lt;/f173&gt;&lt;/f172&gt;&lt;/s171&gt;&lt;e178&gt;&lt;s179&gt;&lt;f180&gt;&lt;f181&gt;&lt;f182&gt;&lt;s183&gt;&lt;s184&gt;&lt;s185&gt;Saddle&lt;/s185&gt;&lt;/s184&gt;&lt;/s183&gt;&lt;/f182&gt;&lt;/f181&gt;&lt;/f180&gt;&lt;/s179&gt;&lt;/e178&gt;&lt;s186&gt;&lt;f187&gt;&lt;f188&gt;&lt;f189&gt;&lt;s190&gt;&lt;s191&gt;&lt;s192&gt; &lt;/s192&gt;&lt;/s191&gt;&lt;/s190&gt;&lt;/f189&gt;&lt;/f188&gt;&lt;/f187&gt;&lt;/s186&gt;&lt;s193&gt;&lt;s194&gt;&lt;f195&gt;&lt;f196&gt;&lt;f197&gt;&lt;s198&gt;&lt;s199&gt;&lt;b200&gt;Dior&lt;/b200&gt;&lt;/s199&gt;&lt;/s198&gt;&lt;/f197&gt;&lt;/f196&gt;&lt;/f195&gt;&lt;/s194&gt;&lt;/s193&gt;&lt;s201&gt;&lt;f202&gt;&lt;f203&gt;&lt;f204&gt;&lt;s205&gt;&lt;s206&gt;&lt;s207&gt; tie-dye bleu des années 2000 et des bijoux &lt;/s207&gt;&lt;/s206&gt;&lt;/s205&gt;&lt;/f204&gt;&lt;/f203&gt;&lt;/f202&gt;&lt;/s201&gt;&lt;s208&gt;&lt;s209&gt;&lt;f210&gt;&lt;f211&gt;&lt;f212&gt;&lt;s213&gt;&lt;s214&gt;&lt;b215&gt;Messika&lt;/b215&gt;&lt;/s214&gt;&lt;/s213&gt;&lt;/f212&gt;&lt;/f211&gt;&lt;/f210&gt;&lt;/s209&gt;&lt;/s208&gt;&lt;s216&gt;&lt;f217&gt;&lt;f218&gt;&lt;f219&gt;&lt;s220&gt;&lt;s221&gt;&lt;s222&gt; en or blanc et en diamants, dont le choker &lt;/s222&gt;&lt;/s221&gt;&lt;/s220&gt;&lt;/f219&gt;&lt;/f218&gt;&lt;/f217&gt;&lt;/s216&gt;&lt;e223&gt;&lt;s224&gt;&lt;f225&gt;&lt;f226&gt;&lt;f227&gt;&lt;s228&gt;&lt;s229&gt;&lt;s230&gt;Magic Spell&lt;/s230&gt;&lt;/s229&gt;&lt;/s228&gt;&lt;/f227&gt;&lt;/f226&gt;&lt;/f225&gt;&lt;/s224&gt;&lt;/e223&gt;&lt;s231&gt;&lt;f232&gt;&lt;f233&gt;&lt;f234&gt;&lt;s235&gt;&lt;s236&gt;&lt;s237&gt;mélangé au collier &lt;/s237&gt;&lt;/s236&gt;&lt;/s235&gt;&lt;/f234&gt;&lt;/f233&gt;&lt;/f232&gt;&lt;/s231&gt;&lt;e238&gt;&lt;s239&gt;&lt;f240&gt;&lt;f241&gt;&lt;f242&gt;&lt;s243&gt;&lt;s244&gt;&lt;s245&gt;Cascade&lt;/s245&gt;&lt;/s244&gt;&lt;/s243&gt;&lt;/f242&gt;&lt;/f241&gt;&lt;/f240&gt;&lt;/s239&gt;&lt;/e238&gt;&lt;s246&gt;&lt;f247&gt;&lt;f248&gt;&lt;f249&gt;&lt;s250&gt;&lt;s251&gt;&lt;s252&gt; confirmant, une fois de plus, &lt;/s252&gt;&lt;/s251&gt;&lt;/s250&gt;&lt;/f249&gt;&lt;/f248&gt;&lt;/f247&gt;&lt;/s246&gt;&lt;a253&gt;&lt;s254&gt;&lt;f255&gt;&lt;f256&gt;&lt;f257&gt;&lt;s258&gt;&lt;s259&gt;&lt;s260&gt;&lt;s261&gt;son retour&lt;/s261&gt;&lt;/s260&gt;&lt;/s259&gt;&lt;/s258&gt;&lt;/f257&gt;&lt;/f256&gt;&lt;/f255&gt;&lt;/s254&gt;&lt;/a253&gt;&lt;s262&gt;&lt;f263&gt;&lt;f264&gt;&lt;f265&gt;&lt;s266&gt;&lt;s267&gt;&lt;s268&gt;.&lt;/s268&gt;&lt;/s267&gt;&lt;/s266&gt;&lt;/f265&gt;&lt;/f264&gt;&lt;/f263&gt;&lt;/s262&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185549Z" creationid="laura" creationdate="20230525T185549Z">
+        <seg>A modo de accesorios,&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s5&gt;Rihanna&lt;/s5&gt;&lt;/a3&gt; añadía una bolsa Saddle Dior  una vez más, su regreso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>En résulte un film intime et politique mené par un joyeux chœur de femmes qui s’affirment et prennent peu à peu conscience de leur puissance.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T165354Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1642,9 +1826,25 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Et, si &lt;/s22&gt;&lt;/s21&gt;&lt;/s20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;/s16&gt;&lt;a23&gt;&lt;s24&gt;&lt;f25&gt;&lt;f26&gt;&lt;f27&gt;&lt;s28&gt;&lt;s29&gt;&lt;s30&gt;&lt;s31&gt;le petit garçon&lt;/s31&gt;&lt;/s30&gt;&lt;/s29&gt;&lt;/s28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;/s24&gt;&lt;/a23&gt;&lt;s32&gt;&lt;f33&gt;&lt;f34&gt;&lt;f35&gt;&lt;s36&gt;&lt;s37&gt;&lt;s38&gt; de 10 mois était adorable habillé d'un bomber &lt;/s38&gt;&lt;/s37&gt;&lt;/s36&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;/f33&gt;&lt;/s32&gt;&lt;s39&gt;&lt;s40&gt;&lt;f41&gt;&lt;f42&gt;&lt;f43&gt;&lt;s44&gt;&lt;s45&gt;&lt;b46&gt;Fendi&lt;/b46&gt;&lt;/s45&gt;&lt;/s44&gt;&lt;/f43&gt;&lt;/f42&gt;&lt;/f41&gt;&lt;/s40&gt;&lt;/s39&gt;&lt;s47&gt;&lt;f48&gt;&lt;f49&gt;&lt;f50&gt;&lt;s51&gt;&lt;s52&gt;&lt;s53&gt; personnalisé par &lt;/s53&gt;&lt;/s52&gt;&lt;/s51&gt;&lt;/f50&gt;&lt;/f49&gt;&lt;/f48&gt;&lt;/s47&gt;&lt;s54&gt;&lt;s55&gt;&lt;f56&gt;&lt;f57&gt;&lt;f58&gt;&lt;s59&gt;&lt;s60&gt;&lt;b61&gt;Dapper Dan&lt;/b61&gt;&lt;/s60&gt;&lt;/s59&gt;&lt;/f58&gt;&lt;/f57&gt;&lt;/f56&gt;&lt;/s55&gt;&lt;/s54&gt;&lt;s62&gt;&lt;f63&gt;&lt;f64&gt;&lt;f65&gt;&lt;s66&gt;&lt;s67&gt;&lt;s68&gt;, d'un jean et de bottines &lt;/s68&gt;&lt;/s67&gt;&lt;/s66&gt;&lt;/f65&gt;&lt;/f64&gt;&lt;/f63&gt;&lt;/s62&gt;&lt;s69&gt;&lt;s70&gt;&lt;f71&gt;&lt;f72&gt;&lt;f73&gt;&lt;s74&gt;&lt;s75&gt;&lt;b76&gt;Gucci&lt;/b76&gt;&lt;/s75&gt;&lt;/s74&gt;&lt;/f73&gt;&lt;/f72&gt;&lt;/f71&gt;&lt;/s70&gt;&lt;/s69&gt;&lt;s77&gt;&lt;f78&gt;&lt;f79&gt;&lt;f80&gt;&lt;s81&gt;&lt;s82&gt;&lt;s83&gt;, c'est le look de la jeune maman qui nous a tapés dans l'œil.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185554Z" creationid="laura" creationdate="20230525T185554Z">
+        <seg>Y, si&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;el niño de 10 meses era adorable vestido con un bomber Fendi personalizado Dapper Bot, que es el de 12.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Exit les vêtements de maternité trop larges, la chanteuse originaire de la Barbade, assume pleinement son ventre rond et ose les looks sexy.&lt;/s11&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T180218Z" creationid="USUARIO" creationdate="20230525T152408Z">
+        <seg>Fuera la ropa de maternidad largas, la cantante originaria de Barbade, asume plenamente su tripa redonda y se ve sexy..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Exit les vêtements de maternité trop larges, la chanteuse originaire de la Barbade, assume pleinement son ventre rond et ose les looks sexy.&lt;/s54&gt;&lt;/s53&gt;&lt;/s52&gt;&lt;/f51&gt;&lt;/f50&gt;&lt;/f49&gt;&lt;/s48&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185605Z" creationid="laura" creationdate="20230525T185605Z">
         <seg>Fuera la ropa de maternidad largas, la cantante originaria de Barbade, asume plenamente su tripa redonda y se ve sexy..</seg>
       </tuv>
     </tu>
@@ -2210,6 +2410,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>La robe est pleine de détails subtils, comme un cœur brodé représentant notre amour avec Elliot, ainsi que les lettres S &amp; E brodées en bleu à l'intérieur de la robe, au-dessus de mon cœur.”&lt;/e5&gt; &lt;s6&gt;Sofia Richie&lt;/s6&gt; voulait quelque chose d'unique pour son voile : elle a travaillé avec l'équipe Chanel pour imaginer une pièce scintillante, ornée de gouttes d'eau en résine qui scintillaient lorsqu'elle marchait.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185408Z" creationid="laura" creationdate="20230525T185408Z">
+        <seg>El vestido está lleno de detalles sutiles, como un corazón bordado que representa nuestro amor con Elliot, así como las letras S &amp; E bordadas en azul dentro del vestido, por encima de mi corazón." Sofia Richie quería algo único para su vela: trabajó con el equipo Chanel para imaginar una pieza brillante, adornada con gotas de agua de resina que brillaban cuando caminaba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>LargeChevron</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2499,6 +2707,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Mais qu’est-ce qu’être un homme bon en 1979 ? Dorothea sait qu’elle ne peut pas détenir la réponse à elle-seule.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185514Z" creationid="laura" creationdate="20230525T185514Z">
+        <seg>Dorothea sabe que ella sola no puede dar la respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Mais rien qu'en discutant et en rêvant de tout cela, nous nous sommes sentis vraiment authentiques : c'était parfait pour nous.&lt;/s3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153325Z" creationid="halimahamada" creationdate="20230525T153325Z">
@@ -2542,6 +2758,14 @@
         <seg>Mère à quarante ans et célibataire depuis son divorce, elle habite Santa Barbara, une ville côtière située au nord de Los Angeles, avec son fils Jamie (Lucas Jade Zumann).</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T180710Z" creationid="Nerea" creationdate="20230525T180710Z">
+        <seg>Madre a los cuarenta y soltera desde su divorcio, vive en Santa Bárbara, una ciudad costera al norte de Los Ángeles, con su hijo Jamie (Lucas Jade Zumann)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mère à quarante ans et célibataire depuis son divorce, elle habite Santa Barbara, une ville côtière située au nord de Los Angeles, avec son fils &lt;/s51&gt;&lt;/s50&gt;&lt;/s49&gt;&lt;/f48&gt;&lt;/f47&gt;&lt;/f46&gt;&lt;/s45&gt;&lt;s52&gt;&lt;s53&gt;&lt;f54&gt;&lt;f55&gt;&lt;f56&gt;&lt;s57&gt;&lt;s58&gt;&lt;b59&gt;Jamie&lt;/b59&gt;&lt;/s58&gt;&lt;/s57&gt;&lt;/f56&gt;&lt;/f55&gt;&lt;/f54&gt;&lt;/s53&gt;&lt;/s52&gt;&lt;s60&gt;&lt;f61&gt;&lt;f62&gt;&lt;f63&gt;&lt;s64&gt;&lt;s65&gt;&lt;s66&gt; (&lt;/s66&gt;&lt;/s65&gt;&lt;/s64&gt;&lt;/f63&gt;&lt;/f62&gt;&lt;/f61&gt;&lt;/s60&gt;&lt;s67&gt;&lt;s68&gt;&lt;f69&gt;&lt;f70&gt;&lt;f71&gt;&lt;s72&gt;&lt;s73&gt;&lt;b74&gt;Lucas Jade Zumann&lt;/b74&gt;&lt;/s73&gt;&lt;/s72&gt;&lt;/f71&gt;&lt;/f70&gt;&lt;/f69&gt;&lt;/s68&gt;&lt;/s67&gt;&lt;s75&gt;&lt;f76&gt;&lt;f77&gt;&lt;f78&gt;&lt;s79&gt;&lt;s80&gt;&lt;s81&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185521Z" creationid="laura" creationdate="20230525T185521Z">
         <seg>Madre a los cuarenta y soltera desde su divorcio, vive en Santa Bárbara, una ciudad costera al norte de Los Ángeles, con su hijo Jamie (Lucas Jade Zumann)..</seg>
       </tuv>
     </tu>
@@ -2739,6 +2963,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>PAR &lt;a0&gt;&lt;s1&gt;MARTHE MABILLE&lt;/s1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185532Z" creationid="laura" creationdate="20230525T185532Z">
+        <seg>es • Mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Par Alexandra Macon</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2775,6 +3007,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153223Z" creationid="halimahamada" creationdate="20230525T153223Z">
         <seg>Háblame de esa decisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Passé quelque peu inaperçu à sa sortie en France en 2017, le film &lt;e0&gt;20th Century Women&lt;/e0&gt; de Mike Mills regorge d'enseignements autant que de poésies nous éclairant sur le monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185534Z" creationid="laura" creationdate="20230525T185534Z">
+        <seg>es • En su velo de novia, tenía un bordado de uno de los tatuajes de Travis Barker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2831,6 +3071,22 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174101Z" creationid="USUARIO" creationdate="20230525T150852Z">
         <seg>Más adelante, la bombesca Irina Shayk juega los ejercicios de estilo monomaníacos en Nueva York, las alfombras rojas británicas hacen sus shows y Emrata, En cuanto a ella, hace estragos en todos los frentes encarnando el aspecto práctico que encontramos en los podios que cuentan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Pour le look du dîner de répétition, l'équipe s'est efforcée de recréer une robe portée par &lt;s4&gt;Stella Tennant&lt;/s4&gt; lors du défilé Chanel automne 1997.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185413Z" creationid="laura" creationdate="20230525T185413Z">
+        <seg>es Sofia Richie llevaba tres vestidos de novia hechos por Chanel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Pour les deux autres looks, &lt;s0&gt;Sofia Richie&lt;/s0&gt; a collaboré étroitement avec sa styliste, &lt;s1&gt;Liat Baruch&lt;/s1&gt;, et &lt;s2&gt;Olivia Douchez&lt;/s2&gt; pour parcourir les défilés haute couture &lt;s3&gt;Chanel&lt;/s3&gt; du passé et sélectionner des références.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185411Z" creationid="laura" creationdate="20230525T185411Z">
+        <seg>"Era tan especial llevar su creación en el momento más importante de mi vida", afirma Sofía Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2907,6 +3163,22 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Quand Abbie, atteinte d’un cancer du col de l’utérus, attend les retours de son opération, c’est lui qui l’accompagne à l’hôpital, qui patiente avec elle et qui repart à ses côtés après qu’elle ait appris qu’elle ne pourra probablement jamais avoir d’enfant car son corps a été trop endommagé.&lt;/s61&gt;&lt;/s60&gt;&lt;/s59&gt;&lt;/f58&gt;&lt;/f57&gt;&lt;/f56&gt;&lt;/s55&gt;&lt;/s54&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185501Z" creationid="laura" creationdate="20230525T185501Z">
+        <seg>Cuando Abbie, enferma de cáncer de cuello de útero, espera los resultados de su operación, él la acompaña al hospital, espera con ella y luego se va de su lado cuando se entera de que probablemente nunca podrá tener hijos porque su cuerpo está demasiado dañado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Quand Julie lui parle à cœur ouvert de ses règles, du &lt;/s43&gt;&lt;/s42&gt;&lt;/s41&gt;&lt;/f40&gt;&lt;/f39&gt;&lt;/f38&gt;&lt;/s37&gt;&lt;/s36&gt;&lt;s44&gt;&lt;a45&gt;&lt;s46&gt;&lt;f47&gt;&lt;f48&gt;&lt;f49&gt;&lt;s50&gt;&lt;s51&gt;&lt;s52&gt;&lt;s53&gt;consentement&lt;/s53&gt;&lt;/s52&gt;&lt;/s51&gt;&lt;/s50&gt;&lt;/f49&gt;&lt;/f48&gt;&lt;/f47&gt;&lt;/s46&gt;&lt;/a45&gt;&lt;/s44&gt;&lt;s54&gt;&lt;s55&gt;&lt;f56&gt;&lt;f57&gt;&lt;f58&gt;&lt;s59&gt;&lt;s60&gt;&lt;s61&gt; et des expériences de sa liberté sexuelle, Jamie se retrouve à l’écouter et en vient naturellement à l’épauler.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185504Z" creationid="laura" creationdate="20230525T185504Z">
+        <seg>Cuando Julie le habla abiertamente de su menstruación, su consentimiento y sus experiencias de libertad sexual, Jamie se encuentra escuchándola y, naturalmente, se acerca para apoyarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Quant aux amis, nous ne voulions que des amis que nous connaissions tous les deux.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153345Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2919,6 +3191,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153428Z" creationid="halimahamada" creationdate="20230525T153428Z">
         <seg>¿Qué tipo de indicaciones les diste sobre lo que querías?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Quelques semaines avant le mariage (et avant de dévoiler son nouveau nom de famille sur TikTok), la mariée s'est rendue dans les salons Haute Couture de &lt;s0&gt;&lt;a1&gt;Chanel&lt;/a1&gt;&lt;/s0&gt; à Paris, accompagnée de sa belle-mère, &lt;s2&gt;Lady Caroline Grainge&lt;/s2&gt;, et de sa meilleure amie, &lt;s3&gt;Ali Meller&lt;/s3&gt;, pour les derniers essayages de sa robe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185323Z" creationid="laura" creationdate="20230525T185323Z">
+        <seg>El vestido está lleno de detalles sutiles, como un corazón bordado que representa nuestro amor con Elliot, así como las letras S &amp; S E bordadas en azul dentro del vestido, sobre mi corazón." Sofía Richie quería algo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3043,6 +3323,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Six ans - et l’avènement de #MeToo - plus tard, on le savoure avec le même enthousiasme que si l’on le découvrait dans une salle obscure.&lt;/s104&gt;&lt;/s103&gt;&lt;/s102&gt;&lt;/f101&gt;&lt;/f100&gt;&lt;/f99&gt;&lt;/s98&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185525Z" creationid="laura" creationdate="20230525T185525Z">
+        <seg>Seis años -y la llegada del #MeToo- después, la saboreamos con el mismo entusiasmo que si la descubriéramos en una sala oscura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Sketches sent by Karl Lagerfeld to Hilditch &amp; Key.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -3079,6 +3367,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Sofia Richie portait trois robes de mariée confectionnées par Chanel</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185421Z" creationid="laura" creationdate="20230525T185421Z">
+        <seg>Sofia Richie llevaba tres vestidos de novia hechos por Chanel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3123,6 +3419,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Symbole un peu extrême des tumultes de l’époque dans laquelle ils vivent, celle de la fin des années 1970, l’événement engage l’atmosphère déphasée et poétique du long-métrage de &lt;/s80&gt;&lt;/s79&gt;&lt;/s78&gt;&lt;/f77&gt;&lt;/f76&gt;&lt;/f75&gt;&lt;/s74&gt;&lt;s81&gt;&lt;s82&gt;&lt;f83&gt;&lt;f84&gt;&lt;f85&gt;&lt;s86&gt;&lt;s87&gt;&lt;s88&gt;Mike Mills&lt;/s88&gt;&lt;/s87&gt;&lt;/s86&gt;&lt;/f85&gt;&lt;/f84&gt;&lt;/f83&gt;&lt;/s82&gt;&lt;/s81&gt;&lt;e89&gt;&lt;f90&gt;&lt;f91&gt;&lt;f92&gt;&lt;s93&gt;&lt;s94&gt;.&lt;/s94&gt;&lt;/s93&gt;&lt;/f92&gt;&lt;/f91&gt;&lt;/f90&gt;&lt;/e89&gt;&lt;s95&gt;&lt;f96&gt;&lt;s97&gt; &lt;/s97&gt;&lt;/f96&gt;&lt;/s95&gt;&lt;s98&gt;&lt;f99&gt;&lt;f100&gt;&lt;f101&gt;&lt;s102&gt;&lt;s103&gt;&lt;s104&gt;Passée quelque peu inaperçu à sa sortie en France, en 2017, le film a pourtant de quoi plaire.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185526Z" creationid="laura" creationdate="20230525T185526Z">
+        <seg>Símbolo un tanto extremo del tumulto de la época en la que viven, la de finales de los setenta, el suceso engancha con la atmósfera desfasada y poética del largometraje de Mike Mills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Sûre d’elle et malgré tout déstabilisée par le monde, à commencer par les jeux insensés de son fils, Dorothea fait ainsi appel à Julie, sa voisine de 17 ans incarnée par la captivante Elle Fanning, et Greta Gerwig dans le rôle d'Abbie, une trentenaire à fleur de peau qui vit avec eux, pour influencer Jamie de manière positive et l'aider à s'ouvrir à d’autres regards sur le monde.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T180804Z" creationid="Nerea" creationdate="20230525T180804Z">
@@ -3143,6 +3447,14 @@
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T165522Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Los dos observan el fuego que envuelve el coche desde detrás del escaparate, aparentemente despreocupados y, sobre todo, imperturbables..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Tous les autres bijoux de la mariée étaient signés &lt;s0&gt;Fred Leighton&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185422Z" creationid="laura" creationdate="20230525T185422Z">
+        <seg>Todas las demás joyas de la novia estaban firmadas Fred Leighton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3203,6 +3515,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Un &lt;a0&gt;trio de robes&lt;/a0&gt; de mariée a été confectionné par &lt;s1&gt;Chanel&lt;/s1&gt; pour les trois temps forts du week-end de mariage :  le dîner de répétition, qui a eu lieu le vendredi soir dans un domaine privé, la cérémonie et &lt;e2&gt;l’after-party&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185357Z" creationid="laura" creationdate="20230525T185357Z">
+        <seg>Para el aspecto de la cena de ensayo, el equipo se esforzó por recrear un vestido usado por Stella Tennant durante el desfile Chanel otoño 1997.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Un événement à l'ambiance survoltée pendant la Fashion Week de Londres avec Alicia Keys en guest star</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -3230,6 +3550,14 @@
         <seg>Une compilation des tubes punk de cette époque où les jeunes dansaient sur du Talking Heads et où le président Jimmy Carter annonçait une “érosion de notre confiance en l’avenir” vient d'ailleurs cristalliser ce hiatus.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
+        <seg>Una recopilación de éxitos punk de la época en que los jóvenes bailaban al ritmo de Talking Heads y el Presidente Jimmy Carter anunciaba una "erosión de nuestra confianza en el futuro" cristaliza este paréntesis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Une compilation des tubes punk de cette époque où les jeunes dansaient sur du &lt;/s7&gt;&lt;/s6&gt;&lt;/s5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/s1&gt;&lt;/s0&gt;&lt;s8&gt;&lt;e9&gt;&lt;s10&gt;&lt;f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;s14&gt;&lt;s15&gt;Talking Heads&lt;/s15&gt;&lt;/s14&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;/s10&gt;&lt;/e9&gt;&lt;/s8&gt;&lt;s16&gt;&lt;s17&gt;&lt;f18&gt;&lt;f19&gt;&lt;f20&gt;&lt;s21&gt;&lt;s22&gt;&lt;s23&gt; et où le président Jimmy Carter annonçait une “érosion de notre confiance en l’avenir” vient d'ailleurs cristalliser ce hiatus.&lt;/s23&gt;&lt;/s22&gt;&lt;/s21&gt;&lt;/f20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/s17&gt;&lt;/s16&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185509Z" creationid="laura" creationdate="20230525T185509Z">
         <seg>Una recopilación de éxitos punk de la época en que los jóvenes bailaban al ritmo de Talking Heads y el Presidente Jimmy Carter anunciaba una "erosión de nuestra confianza en el futuro" cristaliza este paréntesis.</seg>
       </tuv>
     </tu>
@@ -3358,6 +3686,14 @@
         <seg>Vu, à la sortie des défilés, le jean porté en total look est à l'unanimité l'un des statement de la saison.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Visto, a la salida de los desfiles, los vaqueros usados en total look es por unanimidad uno de los estados de la temporada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Vu, à la sortie des défilés, le jean porté en total look est à l'unanimité l'un des &lt;/s145&gt;&lt;/s144&gt;&lt;/s143&gt;&lt;/f142&gt;&lt;/f141&gt;&lt;/f140&gt;&lt;/s139&gt;&lt;e146&gt;&lt;s147&gt;&lt;f148&gt;&lt;f149&gt;&lt;f150&gt;&lt;s151&gt;&lt;s152&gt;&lt;s153&gt;statement&lt;/s153&gt;&lt;/s152&gt;&lt;/s151&gt;&lt;/f150&gt;&lt;/f149&gt;&lt;/f148&gt;&lt;/s147&gt;&lt;/e146&gt;&lt;s154&gt;&lt;f155&gt;&lt;f156&gt;&lt;f157&gt;&lt;s158&gt;&lt;s159&gt;&lt;s160&gt; de la saison.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185551Z" creationid="laura" creationdate="20230525T185551Z">
         <seg>Visto, a la salida de los desfiles, los vaqueros usados en total look es por unanimidad uno de los estados de la temporada.</seg>
       </tuv>
     </tu>
@@ -4051,10 +4387,34 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>no-referrer-when-downgrade</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185452Z" creationid="laura" creationdate="20230525T185452Z">
+        <seg>no referrer-when-downgrade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>vogue digital, actualités, karl lagerfeld, met gala</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T152825Z" creationid="laura" creationdate="20230525T152825Z">
         <seg>vogue digital, actualités, karl lagerfeld, met gala8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>vogue digital,actualités,karl lagerfeld,met gala</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185444Z" creationid="laura" creationdate="20230525T185444Z">
+        <seg>moda digital,noticias,karl Lagerfeld,met gala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>{"description":"Chanel, Chrome Hearts, Dior Homme… Tant de marques qui se cachent derrière l'uniforme bien connu de Karl Lagerfeld.","image-16-9":"https://media.vogue.fr/photos/644a464a48e9361769c7ef42/16:9/w_1000,c_limit/GettyImages-179506341.jpg","image-1-1":"https://media.vogue.fr/photos/644a464a48e9361769c7ef42/1:1/w_1000,c_limit/GettyImages-179506341.jpg"}</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185448Z" creationid="laura" creationdate="20230525T185448Z">
+        <seg>"descripción":"Chanel, Chrome Hearts, Dior Hombre... Tantas marcas que se esconden detrás del conocido uniforme de Karl Lagerfeld.","image-16-9","image-1-1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4078,6 +4438,14 @@
         <seg>À Paris, pour assister au concert de&lt;/s5&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Jay-Z&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt; à la Fondation &lt;b12&gt;Louis Vuitton&lt;/b12&gt;, il y a quelques jours,&lt;/s11&gt;&lt;a13&gt;&lt;s14&gt; &lt;/s14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;b16&gt;&lt;s17&gt;Rihanna&lt;/s17&gt;&lt;/b16&gt;&lt;/a15&gt;&lt;s18&gt; a été aperçue à plusieurs reprises aux côtés d'&lt;/s18&gt;&lt;a19&gt;&lt;b20&gt;&lt;s21&gt;A$AP Rocky&lt;/s21&gt;&lt;/b20&gt;&lt;/a19&gt;&lt;s22&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T175636Z" creationid="USUARIO" creationdate="20230525T152538Z">
+        <seg>En París, para asistir al concierto de&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;Jay-Z a la Fundación Louis Vuitton, 12, Rihanna. Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Karl Lagerfeld que data de 1999 durante una cena en el César, En ella se exhibe un abrigo John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>À Paris, pour assister au concert de &lt;/s37&gt;&lt;/s36&gt;&lt;/s35&gt;&lt;/f34&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;/s31&gt;&lt;s38&gt;&lt;a39&gt;&lt;s40&gt;&lt;f41&gt;&lt;f42&gt;&lt;f43&gt;&lt;s44&gt;&lt;s45&gt;&lt;b46&gt;&lt;s47&gt;Jay-Z&lt;/s47&gt;&lt;/b46&gt;&lt;/s45&gt;&lt;/s44&gt;&lt;/f43&gt;&lt;/f42&gt;&lt;/f41&gt;&lt;/s40&gt;&lt;/a39&gt;&lt;/s38&gt;&lt;s48&gt;&lt;f49&gt;&lt;f50&gt;&lt;f51&gt;&lt;s52&gt;&lt;s53&gt;&lt;s54&gt; à la Fondation &lt;/s54&gt;&lt;/s53&gt;&lt;/s52&gt;&lt;/f51&gt;&lt;/f50&gt;&lt;/f49&gt;&lt;/s48&gt;&lt;s55&gt;&lt;s56&gt;&lt;f57&gt;&lt;f58&gt;&lt;f59&gt;&lt;s60&gt;&lt;s61&gt;&lt;b62&gt;Louis Vuitton&lt;/b62&gt;&lt;/s61&gt;&lt;/s60&gt;&lt;/f59&gt;&lt;/f58&gt;&lt;/f57&gt;&lt;/s56&gt;&lt;/s55&gt;&lt;s63&gt;&lt;f64&gt;&lt;f65&gt;&lt;f66&gt;&lt;s67&gt;&lt;s68&gt;&lt;s69&gt;, il y a quelques jours, &lt;/s69&gt;&lt;/s68&gt;&lt;/s67&gt;&lt;/f66&gt;&lt;/f65&gt;&lt;/f64&gt;&lt;/s63&gt;&lt;s70&gt;&lt;a71&gt;&lt;s72&gt;&lt;f73&gt;&lt;f74&gt;&lt;f75&gt;&lt;s76&gt;&lt;s77&gt;&lt;b78&gt;&lt;s79&gt;Rihanna&lt;/s79&gt;&lt;/b78&gt;&lt;/s77&gt;&lt;/s76&gt;&lt;/f75&gt;&lt;/f74&gt;&lt;/f73&gt;&lt;/s72&gt;&lt;/a71&gt;&lt;/s70&gt;&lt;s80&gt;&lt;f81&gt;&lt;f82&gt;&lt;f83&gt;&lt;s84&gt;&lt;s85&gt;&lt;s86&gt; a été aperçue à plusieurs reprises aux côtés d'&lt;/s86&gt;&lt;/s85&gt;&lt;/s84&gt;&lt;/f83&gt;&lt;/f82&gt;&lt;/f81&gt;&lt;/s80&gt;&lt;s87&gt;&lt;a88&gt;&lt;s89&gt;&lt;f90&gt;&lt;f91&gt;&lt;f92&gt;&lt;s93&gt;&lt;s94&gt;&lt;b95&gt;&lt;s96&gt;A$AP Rocky&lt;/s96&gt;&lt;/b95&gt;&lt;/s94&gt;&lt;/s93&gt;&lt;/f92&gt;&lt;/f91&gt;&lt;/f90&gt;&lt;/s89&gt;&lt;/a88&gt;&lt;/s87&gt;&lt;s97&gt;&lt;f98&gt;&lt;f99&gt;&lt;f100&gt;&lt;s101&gt;&lt;s102&gt;&lt;s103&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185600Z" creationid="laura" creationdate="20230525T185600Z">
         <seg>En París, para asistir al concierto de&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;Jay-Z a la Fundación Louis Vuitton, 12, Rihanna. Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Karl Lagerfeld que data de 1999 durante una cena en el César, En ella se exhibe un abrigo John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
       </tuv>
     </tu>
@@ -4151,6 +4519,22 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;e1&gt;J’ai toujours adoré ses créations atemporelles”&lt;/e1&gt;, confie la jeune femme.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185424Z" creationid="laura" creationdate="20230525T185424Z">
+        <seg>"Nosotros nos reímos toda la noche", confiesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;e3&gt;J’ai toujours rêvé d’avoir une robe de mariée dessinée par Chanel”&lt;/e3&gt;, affirme &lt;s4&gt;Sofia Richie&lt;/s4&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230525T185403Z" creationid="laura" creationdate="20230525T185403Z">
+        <seg>"Todas las perlas se han añadido a mano", explica Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
