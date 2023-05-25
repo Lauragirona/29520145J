@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;Alors que Warhol insistait pour peindre son portrait, il lui aurait répondu « &lt;i1&gt;Si tu veux vraiment faire mon portrait, fais un portrait de Barbie, parce que Barbie, c’est moi. »&lt;/i1&gt; Malin, l’artiste le prend au mot, et Barbie rejoint le panthéon des pop stars d’Andy Warhol, aux côtés d’&lt;/s0&gt;&lt;a2&gt;&lt;b3&gt;&lt;s4&gt;Elvis Presley&lt;/s4&gt;&lt;/b3&gt;&lt;/a2&gt;&lt;s5&gt;, de&lt;/s5&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Marilyn Monroe&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt; et de&lt;/s11&gt;&lt;a12&gt;&lt;s13&gt; &lt;/s13&gt;&lt;/a12&gt;&lt;a14&gt;&lt;b15&gt;&lt;s16&gt;Jackie Kennedy&lt;/s16&gt;&lt;/b15&gt;&lt;/a14&gt;&lt;s17&gt;, sous le nom &lt;i18&gt;« Portrait de BillyBoy »&lt;/i18&gt; (en 2014, la toile est vendue aux enchères pour plus d’un million de dollars).&lt;/s17&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T155632Z" creationid="USUARIO" creationdate="20230525T155632Z">
+        <seg>» &lt;/i1&gt; Malin, el artista lo toma a la palabra, y Barbie se une al panteón de las estrellas pop de Andy Warhol, junto a&lt;/S0&gt;&lt;a2&gt;&lt;b3&gt;&lt;S4&gt;Elvis Presley&lt;/S4&gt;&lt;/b3&gt;&lt;&lt;/a2&gt;&lt;&lt;&gt;&lt;&gt;&lt;&gt;&gt;&lt; de&lt;/s5&gt;&lt;a6&gt;&lt;S7&gt; &lt;/S7&gt;&lt;/a6&gt;&lt;A8&gt;&lt;B9&gt;&lt;S10&gt;Marilyn Monroe&lt;/S10&gt;&lt;/B9&gt;&lt;/A8&gt;&lt;&lt;&lt;S11&gt; y&lt;/SS11&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&lt;&gt;&lt;&lt;&gt;14&gt;&gt;&lt;&gt;16&gt;&gt;&gt;&lt;&gt;&lt;&gt;&gt;&gt;&lt;&gt;16&gt;&gt;&gt;&gt;&lt;&gt;&gt; (en 2014, el lienzo se subasta por más de un millón de dólares).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;Barbie est jeune, élancée, la taille fine et les seins coniques comme les pin-up des années 1950.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120052Z" creationid="USUARIO" creationdate="20230524T120052Z">
@@ -1126,6 +1134,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>Ante una muchedumbre de 10.000 personas, &lt;b2&gt;Alicia Keys&lt;/b2&gt; encadenó sus éxitos en un conjunto metalizado futurista procedente de su colección Genius, antes de unirse en el escenario por los artistas &lt;b3&gt;Little Simz&lt;/b3&gt; y &lt;B4&gt;Cleo Sol&gt;&gt;&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Devenue une idole internationale dès ses premières années, la poupée inspire artistes, créateurs et écrivains fascinés par son statut d’icône, et tape dans l’œil des collectionneurs, notamment BillyBoy*, un créateur de bijoux suisse et l'une des muses d’&lt;/s0&gt;&lt;a2&gt;&lt;b3&gt;&lt;s4&gt;Andy Warhol&lt;/s4&gt;&lt;/b3&gt;&lt;/a2&gt;&lt;s5&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T155638Z" creationid="USUARIO" creationdate="20230525T155638Z">
+        <seg>Convertida en un ídolo internacional desde sus primeros años, la muñeca inspira a artistas, creadores y escritores fascinados por su estatus de icono, y llama la atención de los coleccionistas, especialmente Billyboy*, un creador de joyas suizo y una de las musas de&lt;/S0&gt;&lt;a2&gt;&lt;b3&gt;&lt;S4&gt;Andy Warhol&lt;/S4&gt;&lt;/b3&gt;&lt;/a2&gt;&lt;s5&gt;Convertida en un ídolo internacional desde sus primeros años, la muñeca inspira a artistas, creadores y escritores por su estatus de icono, y llama la atención de los coleccionistas, especialmente Billyboy*, un diseñador de joyas s&lt;S0&gt;Mientras Warhol insistía en pintar su retrato, le habría contestado «&lt;i1&gt;Si realmente quieres hacer mi retrato, haz un retrato de Barbie, porque Barbie soy yo.</seg>
       </tuv>
     </tu>
     <tu>
