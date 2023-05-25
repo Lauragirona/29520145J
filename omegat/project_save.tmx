@@ -1010,6 +1010,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Cette transformation a d'ailleurs fait l’objet d’un documentaire paru au mois d’avril dernier : &lt;i2&gt;Tiny shoulders : rethinking Barbie.&lt;/i2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T173459Z" creationid="USUARIO" creationdate="20230525T173459Z">
+        <seg>Esta transformación ha sido objeto de un documental publicado el pasado mes de abril : &lt;i2&gt;Tiny shoulders : rethinking Barbie.&lt;/i2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Chanel, Chrome Hearts, Dior Homme… Tant de marques qui se cachent derrière l'uniforme bien connu de Karl Lagerfeld.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T113610Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1510,6 +1518,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120426Z" creationid="USUARIO" creationdate="20230524T120426Z">
         <seg>Feminismo y controversia Allí está toda la paradoja de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Grande professionnelle, Barbie sait parler à sa communauté.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T173231Z" creationid="USUARIO" creationdate="20230525T173231Z">
+        <seg>Grande profesional, Barbie habla sabe hablar a su comunidad.</seg>
       </tuv>
     </tu>
     <tu>
