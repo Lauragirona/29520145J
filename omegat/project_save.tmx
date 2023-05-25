@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T151029Z" creationid="USUARIO" creationdate="20230525T151029Z">
         <seg>Descubra así The Art of Terrain by &lt;b1&gt;Pharrell Williams&lt;/b1&gt;, The Art of Imagination by &lt;b2&gt;Mercedes-Benz&lt;/b2&gt;, The Art of Lightness by &lt;b3&gt;Palm &lt;/b3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;b0&gt;&lt;s1&gt;Kardashian&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; leur ont donné beaucoup à faire : &lt;/s2&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Kourtney&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Kardashian&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt;, ses sœurs et leurs enfants portaient tous des vêtements d'archives ou sur-mesure &lt;/s11&gt;&lt;a12&gt;&lt;b13&gt;&lt;s14&gt;Dolce &amp; Gabbana&lt;/s14&gt;&lt;/b13&gt;&lt;/a12&gt;&lt;s15&gt;, ce qui a soulevé des questions sur l'implication exacte de la maison de couture italienne dans cette affaire.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151322Z" creationid="halimahamada" creationdate="20230525T151322Z">
+        <seg>Kourtney Kardashian, sus hermanas e hijos han llevado toda ropa de archivos de Dolce &amp; Gabbana, cosa que ha suscitado preguntas sobre la implicación de esta casa de cultura italiana en este asunto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1744,6 +1752,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Puis, le dimanche, &lt;i16&gt;Vogue&lt;/i16&gt; a publié un premier aperçu de la robe de mariée de &lt;b17&gt;Kourtney&lt;/b17&gt; &lt;b18&gt;Kardashian&lt;/b18&gt; : une mini robe corset en dentelle et satin &lt;b19&gt;Dolce &amp; Gabbana&lt;/b19&gt; Alta Moda, unique en son genre, inspirée de la lingerie italienne des années 1960, accompagnée d'un voile ample.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151328Z" creationid="halimahamada" creationdate="20230525T151328Z">
+        <seg>Encima, el domingo, Vogue publicó en portada el vestido de bodas de  Kourtney Kardashian : un mini vestido en encorsetado, y satinado de Dolce &amp; Gabbana Alta Moda, exclusivo, inspirado en la lencería italiana de los años 60, acompañado de un velo largo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Quand j’ai entendu les paroles avec mon prénom, l’attention m’a beaucoup touchée.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2192,14 +2208,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/beaute/article/changement-coiffure-coupes-cheveux-stars</seg>
-      </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T151200Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/beaute/article/miranda-kerr-produit-cheveux-pharmacies</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2544,14 +2552,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/mariage/article/kourtney-kardashian-mini-robe-mariee-sexy-mariage-civil-travis-barker</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Aunque la sociedad hetero quisiera hacernos creer que vive sola en ausencia de un marido, pronto nos damos cuenta de que el término no corresponde a la vida cotidiana de nuestro protagonista.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/mariage/article/mariage-kourtney-kardashian-travis-barker-italie-images-instagram</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2610,8 +2610,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/article/kim-kardashian-dolce-gabbana-printemps-ete-2023</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>"Era el Ford Galaxy de mi marido, dijo de repente una voz femenina.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151222Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
