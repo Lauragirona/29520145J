@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -272,8 +272,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Pour sa cinquième édition,&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;Vogue Experience&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; convie toute la communauté Vogue à deux journées exclusives mêlant masterclass et ateliers autour de grandes marques de mode, beauté et lifestyle.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T151221Z" creationid="USUARIO" creationdate="20230525T151221Z">
-        <seg>&lt;S0&gt;POR&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;S4&gt;MARIE LÉGER&lt;/S4&gt;&lt;/a3&gt;&lt;S0&gt;Para su quinta edición,&lt;/S0&gt;&lt;a1&gt;&lt;s&lt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;a3&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;a3&gt;&lt;&gt;&lt;&gt;4&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;4. belleza y estilo de vida.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153243Z" creationid="USUARIO" creationdate="20230525T151221Z">
+        <seg>POR&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;MARIE LÉGER&lt;/a3&gt;Para su quinta edición, belleza y estilo de vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +314,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120542Z" creationid="USUARIO" creationdate="20230524T120542Z">
         <seg>«Barbie nació a finales de los años 50, donde todavía estamos en el imaginario de las chicas con tallas muy finas y pechos muy cónicos», explicaba recientemente en France Info Anne Monier, conservadora de la exposición Barbie celebrada en 2016 en el Museo de Artes Decorativas de Paris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;À Las Vegas,&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;Rihanna challenge le chic à la française&lt;/s4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T152936Z" creationid="USUARIO" creationdate="20230525T152936Z">
+        <seg>Más moda en Vogue.es En Las Vegas, &lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;Rihanna challenge le chic a la francesa&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1068,8 +1076,8 @@
       <tuv lang="fr">
         <seg>En guise d'accessoires,&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Rihanna&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt; ajoutait un sac Saddle &lt;b7&gt;Dior&lt;/b7&gt; tie-dye bleu des années 2000 et des bijoux &lt;b8&gt;Messika&lt;/b8&gt; en or blanc et en diamants, dont le choker Magic Spellmélangé au collier Cascade confirmant, une fois de plus,&lt;/s6&gt;&lt;a9&gt;&lt;s10&gt; &lt;/s10&gt;&lt;/a9&gt;&lt;a11&gt;&lt;s12&gt;son retour&lt;/s12&gt;&lt;/a11&gt;&lt;s13&gt;.&lt;/s13&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>A modo de accesorios, &lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;B4&gt;&lt;s5&gt;Rihanna&lt;/s5&gt;&lt;/B4&gt;&lt;/a3&gt;&lt;&lt;&lt;S6&gt; añadía una bolsa Saddle &lt;B7&gt;&lt;&lt;&lt;&gt;Dior&gt;&gt;7/7&gt;&gt;8 Magic 8.6&gt; una vez más, &lt;/S6&gt;&lt;A9&gt;&lt;S10&gt; &lt;/S10&gt;&lt;/A9&gt;&lt;A11&gt;&lt;S12&gt;su regreso&lt;/S12&gt;&lt;/A11&gt;&lt;S13&gt;. &lt;/S13&gt;</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153101Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>A modo de accesorios,&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s5&gt;Rihanna&lt;/s5&gt;&lt;/a3&gt; añadía una bolsa Saddle Dior  una vez más, su regreso.</seg>
       </tuv>
     </tu>
     <tu>
