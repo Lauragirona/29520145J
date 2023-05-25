@@ -232,8 +232,8 @@
       <tuv lang="fr">
         <seg>&lt;i8&gt;« Barbie et moi sommes très similaires. »&lt;/i8&gt;&lt;/s7&gt;&lt;s9&gt; &lt;/s9&gt;&lt;s10&gt;confiait-il au &lt;i11&gt;Guardian&lt;/i11&gt;&lt;/s10&gt;&lt;s12&gt; &lt;/s12&gt;&lt;s13&gt;en mars 2015.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;i8&gt;«Barbie y yo somos muy similares. » &lt;/i8&gt;&lt;/S7&gt;&lt;S9&gt; &lt;/S9&gt;&lt;S10&gt;&gt;confiaba al &lt;I11&gt;Guardian&lt;/I11&gt;&lt;/S10&gt;&lt;S12&gt; &lt;/S12&gt;&lt;S13&gt;&gt;en marzo de 2015.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T173534Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>&lt;i8&gt;«Barbie y yo somos muy similares. » &lt;/i8&gt;confiaba al Guardian en marzo de 2015.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Alors que Warhol insistait pour peindre son portrait, il lui aurait répondu « &lt;i1&gt;Si tu veux vraiment faire mon portrait, fais un portrait de Barbie, parce que Barbie, c’est moi. »&lt;/i1&gt; Malin, l’artiste le prend au mot, et Barbie rejoint le panthéon des pop stars d’Andy Warhol, aux côtés d’&lt;/s0&gt;&lt;a2&gt;&lt;b3&gt;&lt;s4&gt;Elvis Presley&lt;/s4&gt;&lt;/b3&gt;&lt;/a2&gt;&lt;s5&gt;, de&lt;/s5&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Marilyn Monroe&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt; et de&lt;/s11&gt;&lt;a12&gt;&lt;s13&gt; &lt;/s13&gt;&lt;/a12&gt;&lt;a14&gt;&lt;b15&gt;&lt;s16&gt;Jackie Kennedy&lt;/s16&gt;&lt;/b15&gt;&lt;/a14&gt;&lt;s17&gt;, sous le nom &lt;i18&gt;« Portrait de BillyBoy »&lt;/i18&gt; (en 2014, la toile est vendue aux enchères pour plus d’un million de dollars).&lt;/s17&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T155632Z" creationid="USUARIO" creationdate="20230525T155632Z">
-        <seg>» &lt;/i1&gt; Malin, el artista lo toma a la palabra, y Barbie se une al panteón de las estrellas pop de Andy Warhol, junto a&lt;/S0&gt;&lt;a2&gt;&lt;b3&gt;&lt;S4&gt;Elvis Presley&lt;/S4&gt;&lt;/b3&gt;&lt;&lt;/a2&gt;&lt;&lt;&gt;&lt;&gt;&lt;&gt;&gt;&lt; de&lt;/s5&gt;&lt;a6&gt;&lt;S7&gt; &lt;/S7&gt;&lt;/a6&gt;&lt;A8&gt;&lt;B9&gt;&lt;S10&gt;Marilyn Monroe&lt;/S10&gt;&lt;/B9&gt;&lt;/A8&gt;&lt;&lt;&lt;S11&gt; y&lt;/SS11&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&lt;&gt;&lt;&lt;&gt;14&gt;&gt;&lt;&gt;16&gt;&gt;&gt;&lt;&gt;&lt;&gt;&gt;&gt;&lt;&gt;16&gt;&gt;&gt;&gt;&lt;&gt;&gt; (en 2014, el lienzo se subasta por más de un millón de dólares).</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T173718Z" creationid="USUARIO" creationdate="20230525T155632Z">
+        <seg>» &lt;/i1&gt; Malin, el artista lo toma a la palabra, y Barbie se une al panteón de las estrellas pop de Andy Warhol, junto a&lt;a2&gt;&lt;b3&gt;Elvis Presley&lt;/b3&gt;&lt;&lt;/a2&gt; de&lt;/s5&gt;&lt;a6&gt; Marilyn Monroe (en 2014, el lienzo se subasta por más de un millón de dólares).</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +290,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230524T120617Z" creationid="laura" creationdate="20230524T120617Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;En 2014,&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Jeremy Scott&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt; &lt;/s6&gt;&lt;s7&gt;va encore plus loin, et dédie sa collection printemps été 2015 à l’univers de Barbie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T173837Z" creationid="USUARIO" creationdate="20230525T173837Z">
+        <seg>&lt;s0&gt;En 2014,&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Jeremy Scott&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt; &lt;/s6&gt;&lt;s7&gt;va aún más lejos, y dedica su colección primavera verano 2015 al universo de Barbie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1196,8 +1204,8 @@
       <tuv lang="fr">
         <seg>Devenue une idole internationale dès ses premières années, la poupée inspire artistes, créateurs et écrivains fascinés par son statut d’icône, et tape dans l’œil des collectionneurs, notamment BillyBoy*, un créateur de bijoux suisse et l'une des muses d’&lt;/s0&gt;&lt;a2&gt;&lt;b3&gt;&lt;s4&gt;Andy Warhol&lt;/s4&gt;&lt;/b3&gt;&lt;/a2&gt;&lt;s5&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T155638Z" creationid="USUARIO" creationdate="20230525T155638Z">
-        <seg>Convertida en un ídolo internacional desde sus primeros años, la muñeca inspira a artistas, creadores y escritores fascinados por su estatus de icono, y llama la atención de los coleccionistas, especialmente Billyboy*, un creador de joyas suizo y una de las musas de&lt;/S0&gt;&lt;a2&gt;&lt;b3&gt;&lt;S4&gt;Andy Warhol&lt;/S4&gt;&lt;/b3&gt;&lt;/a2&gt;&lt;s5&gt;Convertida en un ídolo internacional desde sus primeros años, la muñeca inspira a artistas, creadores y escritores por su estatus de icono, y llama la atención de los coleccionistas, especialmente Billyboy*, un diseñador de joyas s&lt;S0&gt;Mientras Warhol insistía en pintar su retrato, le habría contestado «&lt;i1&gt;Si realmente quieres hacer mi retrato, haz un retrato de Barbie, porque Barbie soy yo.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T173755Z" creationid="USUARIO" creationdate="20230525T155638Z">
+        <seg>Convertida en un ídolo internacional desde sus primeros años, la muñeca inspira a artistas, creadores y escritores fascinados por su estatus de icono, y llama la atención de los coleccionistas, especialmente Billyboy*, un creador de joyas suizo y una de las musas de&lt;a2&gt;&lt;b3&gt;Andy Warhol&lt;/b3&gt;&lt;/a2&gt;&lt;s5&gt;Convertida en un ídolo internacional desde sus primeros años, la muñeca inspira a artistas, creadores y escritores por su estatus de icono, y llama la atención de los coleccionistas, especialmente Billyboy*, un diseñador de joyas Mientras Warhol insistía en pintar su retrato, le habría contestado. Si realmente quieres hacer mi retrato, haz un retrato de Barbie, porque Barbie soy yo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1236,8 +1244,8 @@
       <tuv lang="fr">
         <seg>Dès les années 1980,&lt;/s14&gt;&lt;a15&gt;&lt;s16&gt; &lt;/s16&gt;&lt;/a15&gt;&lt;a17&gt;&lt;b18&gt;&lt;s19&gt;Yves Saint Laurent&lt;/s19&gt;&lt;/b18&gt;&lt;/a17&gt;&lt;s20&gt;, &lt;b21&gt;Christian Dior&lt;/b21&gt;, &lt;b22&gt;Kenzo&lt;/b22&gt;, &lt;b23&gt;Oscar de la Renta&lt;/b23&gt; et le créateur américain &lt;b24&gt;Bob Mackie&lt;/b24&gt;, costumier de longue date de&lt;/s20&gt;&lt;a25&gt;&lt;s26&gt; &lt;/s26&gt;&lt;/a25&gt;&lt;a27&gt;&lt;b28&gt;&lt;s29&gt;Cher&lt;/s29&gt;&lt;/b28&gt;&lt;/a27&gt;&lt;s30&gt;, ont tous habillé la poupée, devenue l’une des rares privilégiées à avoir sa propre robe &lt;b31&gt;Mondrian&lt;/b31&gt;, taillée sur mesure.&lt;/s30&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T153727Z" creationid="USUARIO" creationdate="20230525T153727Z">
-        <seg>Desde la década de 1980,&lt;/S14&gt;&lt;A15&gt;&lt;S16&gt; &lt;/S16&gt;&lt;/A15&gt;&lt;A17&gt;&lt;B18&gt;&lt;S19&gt;Yves Saint Laurent&lt;/S19&gt;&lt;/B18&gt;&lt;/A17&gt; El vestuario de larga data de Estimado, todos han vestido a la muñeca, que se ha convertido en una de las pocas privilegiadas a tener su propio vestido sobre el 31. &lt;/S30&gt;&lt;S0&gt;En 2014,&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;B4&gt;&lt;s5&gt;Jeremy Scott&lt;/s5&gt;&lt;/&lt;/B4&gt;&lt;/a3&gt;&lt;&gt;&lt;S6&gt;La colección de primavera de Barbie.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T173632Z" creationid="USUARIO" creationdate="20230525T153727Z">
+        <seg>Desde la década de 1980, Yves Saint Laurent  El vestuario Estimado, todos han vestido a la muñeca, que se ha convertido en una de las pocas privilegiadas a tener su propio vestido sobre el 31. En 2014,Jeremy Scot. La colección de primavera de Barbie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2573,8 +2581,8 @@
       <tuv lang="fr">
         <seg>Pourtant les temps ont changé, et pour rester compétitive sur le marché à l’heure où les jeux vidéos dépassent de loin les jouets, Mattel&lt;i0&gt; &lt;/i0&gt;a du dépoussiérer l’image de Barbie&lt;i1&gt; &lt;/i1&gt;et diffuser à travers elle un message plus positif.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230524T191557Z" creationid="USUARIO" creationdate="20230524T191557Z">
-        <seg>La perspectiva adulta ocupa demasiado espacio en todo esto. » &lt;/I14&gt;&lt;/S13&gt; Sin embargo, los tiempos han cambiado, y para seguir siendo competitiva en el mercado en un momento en que los videojuegos superan a los juguetes, Mattel&lt;II0&gt; &lt;/I0&gt;ha de desempolvar la imagen de Barbie&lt;i1&gt; &lt;/i1&gt;y difundir a través de ella un mensaje más positivo.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T173514Z" creationid="USUARIO" creationdate="20230524T191557Z">
+        <seg>La perspectiva adulta ocupa demasiado espacio en todo esto.  Sin embargo, los tiempos han cambiado, y para seguir siendo competitiva en el mercado en un momento en que los videojuegos superan a los juguetes, Mattelha de desempolvar la imagen de Barbie&lt;i1&gt; &lt;/i1&gt;y difundir a través de ella un mensaje más positivo.</seg>
       </tuv>
     </tu>
     <tu>
