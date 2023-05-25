@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>&lt;B0&gt;&lt;s1&gt;Kortleve&lt;/s1&gt;&lt;/B0&gt;&lt;s2&gt; y &lt;b3&gt;Paloma Elsesser&lt;/b3&gt; posan todo en curvas bajo el icónico objetivo de Inez &amp; Vinoodh que hace bien encontrar en nuestras páginas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;b0&gt;&lt;s1&gt;Kourtney Kardashian Barker&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; est une célébrité pratiquement toujours recherchée sur Google et il y a une date où elle a explosé tous les records : le 20 mai 2022.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151106Z" creationid="halimahamada" creationdate="20230525T151106Z">
+        <seg>Kourtney Kardashian Barker es una celebridad practicamente buscada todos los días en Google y existe un día en el que batió todos los récords : el 20 de mayo del 2022.</seg>
       </tuv>
     </tu>
     <tu>
@@ -287,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Les jours suivants ont été marqués par une véritable frénésie médiatique : magazines, journaux, blogs et utilisateurs de Twitter ont couvert les moindres faits et gestes de la famille, qu'il s'agisse de leurs sorties &lt;i4&gt;gelato&lt;/i4&gt;, de leurs déjeuners sur le yacht ou de leurs dîners au square.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151122Z" creationid="halimahamada" creationdate="20230525T151122Z">
+        <seg>• Los siguientes días fueron marcados por un real frenesí mediático: revistas, periódicos, blogs y usuarios de Twitter han cubierto los hechos y los gestos de la familia, que son sus salidoas, sus desayunos en el yate, o sus comidas en el centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Par &lt;/s3&gt;&lt;u4&gt;&lt;s5&gt;Elise Taylor&lt;/s5&gt;&lt;/u4&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230524T120442Z" creationid="halimahamada" creationdate="20230524T120442Z">
@@ -315,6 +331,15 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>Así que la próxima vez que tu imaginación te lleve a Tribeca, Brooklyn, Wall Street o Chelsea, sabrás cómo vestirte para estar a la altura de ese sueño despierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Alors que toute sa célèbre famille s'est rendue dans la petite ville côtière italienne, il s'avère que les paparazzis du monde entier en ont fait tout autant.&lt;/s9&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151117Z" creationid="halimahamada" creationdate="20230525T151117Z">
+        <seg>Y toda su famosa familia estuvo también en la pequeña ciudad costera italiana. es sabido que los paparazzis del mundo entero hicieron lo suyo. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -475,6 +500,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Son verdaderas estrellas de rock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ce vendredi-là, les premières images de son &lt;/s2&gt;&lt;a3&gt;&lt;s4&gt;mariage&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; avec &lt;b6&gt;Travis Barker&lt;/b6&gt; à &lt;/s5&gt;&lt;a7&gt;&lt;s8&gt;Portofino&lt;/s8&gt;&lt;/a7&gt;&lt;s9&gt; sont apparues.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151111Z" creationid="halimahamada" creationdate="20230525T151111Z">
+        <seg>El viernes pasado aparecieron las primaras imágenes con Travis Barker en Portofino .</seg>
       </tuv>
     </tu>
     <tu>
@@ -1259,6 +1292,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Barbie era una rebelde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les &lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151129Z" creationid="halimahamada" creationdate="20230525T151129Z">
+        <seg>Foto: Norman &amp; Blake es</seg>
       </tuv>
     </tu>
     <tu>
@@ -2105,8 +2146,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/beaute/article/changement-coiffure-coupes-cheveux-stars</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es &lt;s0&gt;La película 20th Century Women, de Mike Mills, pasó un poco desapercibida cuando se estrenó en Francia en 2017, repleta de enseñanzas y poesías sobre el mundo.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T151200Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
