@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -759,6 +759,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Elles évoquent “le streetwear de la fin des années 1990, avec un twist en plus”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T151005Z" creationid="USUARIO" creationdate="20230525T151005Z">
+        <seg>Evocan "el streetwear de finales de los años 90, con un giro adicional". La paleta cromática elaborada por &lt;b3&gt;Alicia Keys&lt;/b3&gt;revela tonos potentes y luminosos: gris metalizado futurista, rosa coral, color blocks jamaiquinos verde, negro y amarillo, sin olvidar su violeta firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Elliot Grainge a demandé Sofia Richie en fiançailles à Hawaï</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1171,6 +1179,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>La moda es caprichosa, pero un uniforme es eterno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>La palette chromatique travaillée par &lt;b3&gt;Alicia Keys&lt;/b3&gt;dévoile des tons puissants et lumineux : gris métallisé futuriste, rose corail, color blocks jamaïcains vert, noir et jaune, sans oublier son violet signature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T151024Z" creationid="USUARIO" creationdate="20230525T151024Z">
+        <seg>Evocan "el streetwear de finales de los años 90, con un giro adicional". La paleta cromática elaborada por &lt;b3&gt;Alicia Keys&lt;/b3&gt;revela tonos potentes y luminosos: gris metalizado futurista, rosa coral, color blocks jamaiquinos verde, negro y amarillo, sin olvidar su violeta firma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1615,6 +1631,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Plus loin, la bombesque &lt;b4&gt;Irina Shayk&lt;/b4&gt; joue les exercices de style monomaniaques à New York, les tapis rouges british font leurs shows et &lt;b5&gt;Emrata&lt;/b5&gt;, quant à elle, sévit sur tous les fronts en incarnant l’allure pratique qu’on retrouve sur les podiums qui comptent.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T150852Z" creationid="USUARIO" creationdate="20230525T150852Z">
+        <seg>Más adelante, la bombesca &lt;B4&gt;Irina Shayk&lt;/B4&gt; juega los ejercicios de estilo monomaníacos en Nueva York, las alfombras rojas británicas hacen sus shows y &lt;B5&gt;Emrata&lt;/B5&gt;, En cuanto a ella, hace estragos en todos los frentes encarnando el aspecto práctico que encontramos en los podios que cuentan.Todas las grandes influencias estilísticas llevadas por los supertops &lt;B6&gt;Małgosia Bela, Karen Elson, Lara Stone, Mona Tougaard, Anok Yai&lt;/B6&gt;...¡Este Vogue de abril es un verdadero red Carpet para hojear!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Pour moi, c'était vraiment notre mariage principal.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1795,6 +1819,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Todo lo demás viene después".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Toutes les grandes influences stylistiques emportées par les super tops &lt;b6&gt;Małgosia Bela, Karen Elson, Lara Stone, Mona Tougaard, Anok Yai&lt;/b6&gt;...</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T150940Z" creationid="USUARIO" creationdate="20230525T150940Z">
+        <seg>Más adelante, la bombesca &lt;B4&gt;Irina Shayk&lt;/B4&gt; juega los ejercicios de estilo monomaníacos en Nueva York, las alfombras rojas británicas hacen sus shows y &lt;B5&gt;Emrata&lt;/B5&gt;, En cuanto a ella, hace estragos en todos los frentes encarnando el aspecto práctico que encontramos en los podios que cuentan.Todas las grandes influencias estilísticas llevadas por los supertops &lt;B6&gt;Małgosia Bela, Karen Elson, Lara Stone, Mona Tougaard, Anok Yai&lt;/B6&gt;...¡Este Vogue de abril es un verdadero red Carpet para hojear!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2715,6 +2747,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Fue una de las mejores noches de mi vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Également au premier rang du Hall of Fame Vogue, les nouvelles super modèles &lt;b0&gt;Precious Lee, Jill &lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T150837Z" creationid="USUARIO" creationdate="20230525T150837Z">
+        <seg>Imbatible en imaginación y número 1 en dimensión épica, el diseñador, conmovido por "&lt;/S27&gt;&lt;A28&gt;&lt;S29&gt;Renaissance&lt;/S29&gt;&lt;/A28&gt;&lt;S30&gt;", el último álbum de &lt;B31&gt;Beyoncé&lt;/B31&gt;, realizó con la estrella 16 trajes de costura dedicados a los títulos que componen el concepto único, &lt;B32&gt;Renaissance Couture&lt;/B32&gt;, el primer álbum a llevar! &lt;/S30&gt;También en la primera fila del Salón de la Fama Vogue, los nuevos súper modelos &lt;B0&gt;Precious Lee, Jill &lt;/B0&gt;</seg>
       </tuv>
     </tu>
     <tu>
