@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -318,10 +318,27 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Après Vegas, vous avez donc fait une cérémonie civile à Santa Barbara.&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152922Z" creationid="halimahamada" creationdate="20230525T152922Z">
+        <seg>Después de Las Vegas, hizo una ceremonia civil en Santa Bárbara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Avez-vous été légalement mariés après cela ?&lt;/s4&gt;&lt;/b3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152424Z" creationid="halimahamada" creationdate="20230525T152424Z">
         <seg>¿Se casaron legalmente después de eso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;C'est déchirant…&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152852Z" creationid="halimahamada" creationdate="20230525T152852Z">
+        <seg>Esto es muy triste...
+¡Ya sé!</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +371,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230524T123732Z" creationid="halimahamada" creationdate="20230524T123732Z">
         <seg>• Entrevista: Kourtney Kardashian Barker se entrega en Vogue sobre sus tres matrimonios con Travis Barker:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Qu'avez-vous porté lors de ce mariage à Las Vegas ?&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152756Z" creationid="halimahamada" creationdate="20230525T152756Z">
+        <seg>No necesitamos que sea legal."</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,6 +444,23 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152123Z" creationid="halimahamada" creationdate="20230525T152123Z">
         <seg>Antes de "Til Death Do Us Part Kourtney &amp; Travis", Vogue pidió a Kourtney Kardashian Barker que volviera sobre sus tres bodas diferentes, desde su ceremonia borracha e improvisada en Las Vegas después de los Grammys a su boda italiana organizada por Dolce &amp; Gabbana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;J'avais ce haut &lt;/s3&gt;&lt;a4&gt;&lt;b5&gt;&lt;s6&gt;Versace&lt;/s6&gt;&lt;/b5&gt;&lt;/a4&gt;&lt;s7&gt; vintage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152835Z" creationid="halimahamada" creationdate="20230525T152835Z">
+        <seg>Tenía esta camiseta Versace vintage.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Je sais !</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152903Z" creationid="halimahamada" creationdate="20230525T152903Z">
+        <seg>¡Se lo agradezco mucho!</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,8 +740,8 @@
       <tuv lang="fr">
         <seg>Comme notre mariage a eu lieu en Italie, nous avons dû nous marier en Californie pour qu'il soit légal aux États-Unis.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Ella encarna a una mujer libre en una sociedad moderna, se casa con todas las carreras y se divierte con Ken, elemento discreto de su universo edulcorado.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152931Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Como nuestro matrimonio tuvo lugar en Italia, tuvimos que casarnos en California para que fuera legal en los Estados Unidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,8 +1284,8 @@
       <tuv lang="fr">
         <seg>J'ai offert une récompense sur mon Instagram pour quiconque la retrouverait.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152911Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Ofrecí una recompensa en mi Instagram por cualquiera que la encontrara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1292,6 +1334,22 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es También en la primera fila del Salón de la Fama de Vogue, los nuevos súper modelos Precious Lee, Jill Kortleve y Paloma Elsesser posan curvas bajo el icónico objetivo de Inez &amp; Vinoodh que hace buen tiempo encontrar en nuestras páginas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je me suis dit : "Oh mon Dieu, c'est parfait." Puis j'ai perdu ma veste &lt;/s7&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Saint Laurent&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt; que j'avais depuis 10 ans et qui était ornée de clous en forme de cœur.&lt;/s11&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152844Z" creationid="halimahamada" creationdate="20230525T152844Z">
+        <seg>Pensé: "Dios mío, es perfecto." Luego perdí mi chaqueta Saint Laurent que tenía desde hacía 10 años y que estaba adornada con clavos en forma de corazón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je n'ai eu de nouvelles de personne.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152916Z" creationid="halimahamada" creationdate="20230525T152916Z">
+        <seg>No he sabido nada de nadie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,8 +1660,8 @@
       <tuv lang="fr">
         <seg>Les seules personnes qui sont venues avec nous sont ma grand-mère et son père, parce qu'ils n'avaient pas pu venir à notre mariage en Italie.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>reivindicaciones feministas, se le reprocha encarnar un ideal físico inalcanzable, una representación peligrosa del cuerpo de la mujer para las niñas.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152951Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Las únicas personas que vinieron con nosotros fueron mi abuela y su padre, porque no pudieron venir a nuestra boda en Italia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1690,8 +1748,8 @@
       <tuv lang="fr">
         <seg>Mais nous voulions faire quelque chose de vraiment spécial.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Pero la muñeca, fina, blanca y rubia, apenas se eliminar estereotipos de género considerados discriminatorios.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152940Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pero queríamos hacer algo muy especial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,16 +1820,16 @@
       <tuv lang="fr">
         <seg>Nous adorons Santa Barbara et nous nous y rendons aussi souvent que possible - nous nous sommes fiancés à Santa Barbara.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>En la década de 1970, en plena ola de</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152945Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Nos encanta Santa Bárbara y vamos allí tan a menudo como sea posible - nos comprometimos con Santa Bárbara.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>Nous aurions pu demander à quelqu'un de venir signer les papiers.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Se divorcia incluso en 2004, como el anuncio un muy serio comunicado de prensa de Mattel.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152935Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Podríamos haber pedido a alguien que firmara los papeles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,8 +1860,8 @@
       <tuv lang="fr">
         <seg>Nous nous sommes alors dit : “D'accord, c'est très bien.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>No se definía por sus relaciones amorosas o sus responsabilidades hacia los hombres y su familia.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152733Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Por la mañana no recordamos nada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1868,6 +1926,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>On n'a pas besoin que ce soit légal.”&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152742Z" creationid="halimahamada" creationdate="20230525T152742Z">
+        <seg>Entonces pensamos: "Está bien, está bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,8 +2100,8 @@
       <tuv lang="fr">
         <seg>Santa Barbara était pour nous deux.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Allí está toda la paradoja de Barbie.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T152926Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Santa Barbara era para los dos.</seg>
       </tuv>
     </tu>
     <tu>
