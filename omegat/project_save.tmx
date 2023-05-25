@@ -368,8 +368,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Toute les informations de la collection sur&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;Moncler.com&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt;.&lt;/s5&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T151044Z" creationid="USUARIO" creationdate="20230525T151044Z">
-        <seg>&lt;S0&gt;de la colección resort 2023.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174920Z" creationid="USUARIO" creationdate="20230525T151044Z">
+        <seg>toda la información de la colección resort 2023.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2651,10 +2651,18 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Rendezvous les 12 et 13 mai 2023 en compagnie des rédactrices du magazine Vogue France.&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174907Z" creationid="USUARIO" creationdate="20230525T174907Z">
+        <seg>Junta los días 12 y 13 de mayo de 2023 en compañía de las editoras de la revista Vogue France.&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Rihanna confirme le retour de cette tendance longtemps considérée comme un fashion faux pas</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Estoy seguro de que la gente puede estar hablando.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175016Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Rihanna confirma el regreso de esta tendencia de hace mucho tiempo considerado un faxion faux pas..</seg>
       </tuv>
     </tu>
     <tu>
@@ -2973,8 +2981,8 @@
       <tuv lang="fr">
         <seg>http://www.moncler.com/link/page/genius.html?utm_source=Vogue&amp;utm_medium=dis&amp;utm_campaign=aliciakeysdropFR&amp;utm_term=&amp;utm_content=</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Así que me imaginé a toda mi familia alrededor de una larga mesa en medio de la ciudad, cenando a la italiana, luego caminando y buscando helado.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174926Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3669,8 +3677,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/vogue-experience</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>No había nadie más que dos patos.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174806Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
