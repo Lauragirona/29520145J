@@ -272,8 +272,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Ce 21 avril, c'est avec son&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;fils&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; dans les bras qu'elle est apparue sur l'avenue Wagram.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;/S34&gt; &lt;S0&gt;Este 21 de abril, con su&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;S4&gt;hijo&lt;/S4&gt;&lt;/a3&gt;&lt;s5&gt; apareció en los brazos de la avenida Wagram.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175719Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Este 21 de abril, con su&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;hijo&lt;/a3&gt;&lt;s5&gt; apareció en los brazos de la avenida Wagram.</seg>
       </tuv>
     </tu>
     <tu>
@@ -828,8 +828,8 @@
       <tuv lang="fr">
         <seg>Avec, à chaque fois des looks pointus.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Era un pequeño grupo íntimo.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175648Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Cada vez con nuevos looks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1348,8 +1348,8 @@
       <tuv lang="fr">
         <seg>Elle misait sur le double denim avec une veste courte &lt;b14&gt;Alaïa&lt;/b14&gt; qu'elle portait sous une autre veste &lt;b15&gt;Gucci&lt;/b15&gt; aux lignes oversized avec une minijupe&lt;/s10&gt;&lt;a16&gt;&lt;s17&gt; &lt;/s17&gt;&lt;/a16&gt;&lt;a18&gt;&lt;b19&gt;&lt;s20&gt;Courrèges&lt;/s20&gt;&lt;/b19&gt;&lt;/a18&gt;&lt;s21&gt;issue &lt;/s21&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>Apostaba por el denim doble con una chaqueta corta &lt;B14&gt;Alaya&lt;/B14&gt; que llevaba bajo otra chaqueta &lt;B15&gt;Gucci&lt;/B15&gt; en las líneas oversized con minifalda&lt;/S10&gt;&lt;A16&gt;&lt;&lt;S&lt;&gt; &lt;/S17&gt;&lt;&lt;/A&lt;&lt;&gt;&lt;&lt;&lt;&lt;&lt;&gt;19&gt;&gt;20 Cour&gt;</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175829Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Apostaba por el denim doble con una chaqueta corta Alaya que llevaba bajo otra chaqueta Gucci en las líneas oversized con minifalda Cour&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1508,8 +1508,8 @@
       <tuv lang="fr">
         <seg>Et, si&lt;/s5&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;s9&gt;le petit garçon&lt;/s9&gt;&lt;/a8&gt;&lt;s10&gt; de 10 mois était adorable habillé d'un bomber &lt;b11&gt;Fendi&lt;/b11&gt; personnalisé par &lt;b12&gt;Dapper Dan&lt;/b12&gt;, d'un jean et de bottines &lt;b13&gt;Gucci&lt;/b13&gt;, c'est le look de la jeune maman qui nous a tapés dans l'œil.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>Y, si&lt;/s5&gt;&lt;a6&gt;&lt;S7&gt; &lt;/S7&gt;&lt;/a6&gt;&lt;A8&gt;&lt;S9&gt;el niño&lt;/S9&gt;&lt;/A8&gt;&lt;S10&gt; de 10 meses era adorable vestido con un bomber &lt;B11&gt;Fendi&lt;/B11&gt; personalizado&lt;&lt;12&gt;Dapper&gt;12&gt;Bot, que es el de &lt;&gt;12.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175755Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Y, si&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;el niño de 10 meses era adorable vestido con un bomber Fendi personalizado Dapper Bot, que es el de 12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2555,6 +2555,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Plus de mode sur Vogue.fr :</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175915Z" creationid="USUARIO" creationdate="20230525T175915Z">
+        <seg>Más de moda en Vogue.fr :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Plus loin, la bombesque &lt;b4&gt;Irina Shayk&lt;/b4&gt; joue les exercices de style monomaniaques à New York, les tapis rouges british font leurs shows et &lt;b5&gt;Emrata&lt;/b5&gt;, quant à elle, sévit sur tous les fronts en incarnant l’allure pratique qu’on retrouve sur les podiums qui comptent.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174101Z" creationid="USUARIO" creationdate="20230525T150852Z">
@@ -3093,8 +3101,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/article/rihanna-photos-fils-avril-2023</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>¿Por qué tomó esa decisión?</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175658Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3365,8 +3373,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/joaillerie/galerie/collier-choker-tendance-nineties-fait-son-retour-pour-notre-plus-grand-bonheur</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>• Siempre me han atraído estas bodas en lencería inspiradas en los años 60.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175844Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3563,14 +3571,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/article/rihanna-robe-transparente</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>¿Qué tipo de indicaciones les diste sobre lo que querías?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/article/stars-enceintes-baby-bump-rihanna</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -3717,8 +3717,8 @@
       <tuv lang="fr">
         <seg>À Paris, pour assister au concert de&lt;/s5&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Jay-Z&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt; à la Fondation &lt;b12&gt;Louis Vuitton&lt;/b12&gt;, il y a quelques jours,&lt;/s11&gt;&lt;a13&gt;&lt;s14&gt; &lt;/s14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;b16&gt;&lt;s17&gt;Rihanna&lt;/s17&gt;&lt;/b16&gt;&lt;/a15&gt;&lt;s18&gt; a été aperçue à plusieurs reprises aux côtés d'&lt;/s18&gt;&lt;a19&gt;&lt;b20&gt;&lt;s21&gt;A$AP Rocky&lt;/s21&gt;&lt;/b20&gt;&lt;/a19&gt;&lt;s22&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T152709Z" creationid="USUARIO" creationdate="20230525T152538Z">
-        <seg>En París, para asistir al concierto de&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;Jay-Z a la Fundación Louis Vuitton, 12, Rihanna. Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Karl Lagerfeld&lt;/B24&gt; que data de 1999 durante una cena en el César, En ella se exhibe un abrigo &lt;B35&gt;John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175636Z" creationid="USUARIO" creationdate="20230525T152538Z">
+        <seg>En París, para asistir al concierto de&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;Jay-Z a la Fundación Louis Vuitton, 12, Rihanna. Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Karl Lagerfeld que data de 1999 durante una cena en el César, En ella se exhibe un abrigo John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
       </tuv>
     </tu>
     <tu>
