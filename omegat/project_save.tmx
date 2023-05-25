@@ -384,8 +384,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;de la collection resort 2023.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;S0&gt;de la colección resort 2023.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T182019Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>de la colección resort 2023.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1460,8 +1460,8 @@
       <tuv lang="fr">
         <seg>Elle misait sur le double denim avec une veste courte &lt;b14&gt;Alaïa&lt;/b14&gt; qu'elle portait sous une autre veste &lt;b15&gt;Gucci&lt;/b15&gt; aux lignes oversized avec une minijupe&lt;/s10&gt;&lt;a16&gt;&lt;s17&gt; &lt;/s17&gt;&lt;/a16&gt;&lt;a18&gt;&lt;b19&gt;&lt;s20&gt;Courrèges&lt;/s20&gt;&lt;/b19&gt;&lt;/a18&gt;&lt;s21&gt;issue &lt;/s21&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T175829Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>Apostaba por el denim doble con una chaqueta corta Alaya que llevaba bajo otra chaqueta Gucci en las líneas oversized con minifalda Cour&gt;</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T182000Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Apostaba por el denim doble con una chaqueta corta Alaya que llevaba bajo otra chaqueta Gucci en las líneas oversized con minifalda Corta</seg>
       </tuv>
     </tu>
     <tu>
@@ -1524,8 +1524,8 @@
       <tuv lang="fr">
         <seg>En couverture, la reine, l’icône, la glamourissime&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Beyoncé&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt; pour qui tous les charts du monde sont unanimes: elle est la voix qui justifie l’existence de la musique.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>En la portada, la reina, el icono, el glamourissime&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;B4&gt;&lt;s5&gt;Beyoncé&lt;/s5&gt;&lt;/B4&gt;&lt;/a3&gt;&lt;&lt;&lt;S6&gt; justifica unánimemente la existencia de la música.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T181846Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>En la portada, la reina, el icono, el glamourissime&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s5&gt;Beyoncé&lt;/s5&gt;&lt;/a3&gt; justifica unánimemente la existencia de la música.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1764,8 +1764,8 @@
       <tuv lang="fr">
         <seg>Imbattable en imagination et numéro 1 en dimension épique, le designer, bouleversé par “&lt;/s27&gt;&lt;a28&gt;&lt;s29&gt;Renaissance&lt;/s29&gt;&lt;/a28&gt;&lt;s30&gt;”, le dernier album de &lt;b31&gt;Beyoncé&lt;/b31&gt;, a réalisé avec la star 16 tenues couture dédiées aux 16 titres qui le compose, créant un concept unique, &lt;b32&gt;Renaissance Couture&lt;/b32&gt;, le premier album à porter !&lt;/s30&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T153926Z" creationid="USUARIO" creationdate="20230525T153926Z">
-        <seg>Imbatible en imaginación y número 1 en dimensión épica, el diseñador, conmovido por "&lt;/S27&gt;&lt;A28&gt;&lt;S29&gt;Renaissance&lt;/S29&gt;&lt;/A28&gt;&lt;S30&gt;", el último álbum de &lt;B31&gt;Beyoncé&lt;/B31&gt;, realizó con la estrella 16 trajes de costura dedicados a los títulos que componen el concepto único, &lt;B32&gt;Renaissance Couture&lt;/B32&gt;, el primer álbum a llevar! &lt;/S30&gt;También en la primera fila del Salón de la Fama Vogue, los nuevos súper modelos &lt;B0&gt;Precious Lee, Jill &lt;/B0&gt;</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T181951Z" creationid="USUARIO" creationdate="20230525T153926Z">
+        <seg>Imbatible en imaginación y número 1 en dimensión épica, el diseñador, conmovido por "Renaissance", el último álbum de Beyoncé, realizó con la estrella 16 trajes de costura dedicados a los títulos que componen el concepto único, Renaissance Couture&lt;/B32&gt;, el primer álbum a llevar! También en la primera fila del Salón de la Fama Vogue, los nuevos súper modelos Precious Lee, Jill </seg>
       </tuv>
     </tu>
     <tu>
