@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;Et &lt;b1&gt;Barbie&lt;/b1&gt; entre officiellement dans la pop culture et est l’objet de nombreux détournements, parodiée par le groupe &lt;b2&gt;Aqua&lt;/b2&gt;.&lt;/s0&gt;&lt;a3&gt;&lt;s4&gt; &lt;/s4&gt;&lt;/a3&gt;&lt;a5&gt;&lt;b6&gt;&lt;s7&gt;Margot Robbie&lt;/s7&gt;&lt;/b6&gt;&lt;/a5&gt;&lt;s8&gt;l’incarnera bientôt au cinéma.&lt;/s8&gt;&lt;a9&gt;&lt;s10&gt; &lt;/s10&gt;&lt;/a9&gt;&lt;a11&gt;&lt;b12&gt;&lt;s13&gt;Barbie&lt;/s13&gt;&lt;/b12&gt;&lt;/a11&gt;&lt;s14&gt; inspire également les créateurs.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153624Z" creationid="USUARIO" creationdate="20230525T153624Z">
+        <seg> Malin, el artista lo toma a la palabra, y Barbie se une al panteón de las estrellas pop de Andy Warhol, junto a de Marilyn Monroe (en 2014, el lienzo se subasta por más de un millón de dólares).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;Le mot d’ordre du numéro d’avril 2023 de Vogue France.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
@@ -786,6 +794,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Ce Vogue d’avril est un véritable red carpet à feuilleter !&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153517Z" creationid="USUARIO" creationdate="20230525T153517Z">
+        <seg>Este Vogue de abril es un verdadero red carpet para hojear !&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Ce film féministe repense la famille en dehors du cadre hétéronormé, et c'est inspirant</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -986,6 +1002,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Dès les années 1980,&lt;/s14&gt;&lt;a15&gt;&lt;s16&gt; &lt;/s16&gt;&lt;/a15&gt;&lt;a17&gt;&lt;b18&gt;&lt;s19&gt;Yves Saint Laurent&lt;/s19&gt;&lt;/b18&gt;&lt;/a17&gt;&lt;s20&gt;, &lt;b21&gt;Christian Dior&lt;/b21&gt;, &lt;b22&gt;Kenzo&lt;/b22&gt;, &lt;b23&gt;Oscar de la Renta&lt;/b23&gt; et le créateur américain &lt;b24&gt;Bob Mackie&lt;/b24&gt;, costumier de longue date de&lt;/s20&gt;&lt;a25&gt;&lt;s26&gt; &lt;/s26&gt;&lt;/a25&gt;&lt;a27&gt;&lt;b28&gt;&lt;s29&gt;Cher&lt;/s29&gt;&lt;/b28&gt;&lt;/a27&gt;&lt;s30&gt;, ont tous habillé la poupée, devenue l’une des rares privilégiées à avoir sa propre robe &lt;b31&gt;Mondrian&lt;/b31&gt;, taillée sur mesure.&lt;/s30&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153727Z" creationid="USUARIO" creationdate="20230525T153727Z">
+        <seg>Desde la década de 1980,&lt;/S14&gt;&lt;A15&gt;&lt;S16&gt; &lt;/S16&gt;&lt;/A15&gt;&lt;A17&gt;&lt;B18&gt;&lt;S19&gt;Yves Saint Laurent&lt;/S19&gt;&lt;/B18&gt;&lt;/A17&gt; El vestuario de larga data de Estimado, todos han vestido a la muñeca, que se ha convertido en una de las pocas privilegiadas a tener su propio vestido sobre el 31. &lt;/S30&gt;&lt;S0&gt;En 2014,&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;B4&gt;&lt;s5&gt;Jeremy Scott&lt;/s5&gt;&lt;/&lt;/B4&gt;&lt;/a3&gt;&lt;&gt;&lt;S6&gt;La colección de primavera de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Découvrez ainsi The Art of Terrain by &lt;b1&gt;Pharrell Williams&lt;/b1&gt;, The Art of Imagination by &lt;b2&gt;Mercedes-Benz&lt;/b2&gt;, The Art of Lightness by &lt;b3&gt;Palm &lt;/b3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
@@ -1020,8 +1044,8 @@
       <tuv lang="fr">
         <seg>D’une vue panoramique sur la &lt;i0&gt;skyline&lt;/i0&gt; ?</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>¿Una vista panorámica de la &lt;I0&gt;skyline&lt;/I0&gt;?</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153545Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>¿Una vista panorámica de la skyline?</seg>
       </tuv>
     </tu>
     <tu>
