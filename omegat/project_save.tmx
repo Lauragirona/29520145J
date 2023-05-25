@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -475,6 +475,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>Así que la próxima vez que tu imaginación te lleve a Tribeca, Brooklyn, Wall Street o Chelsea, sabrás cómo vestirte para estar a la altura de ese sueño despierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Alors qu'elle était habillée d'un crop top gris et d'un pantalon cargo associé à un manteau patchwork vintage signé &lt;b23&gt;Fendi&lt;/b23&gt; par &lt;b24&gt;Karl Lagerfeld&lt;/b24&gt; datant de 1999 lors d'un dîner au César, elle arborait&lt;/s22&gt;&lt;a25&gt;&lt;s26&gt; &lt;/s26&gt;&lt;/a25&gt;&lt;a27&gt;&lt;s28&gt;une tenue&lt;/s28&gt;&lt;/a27&gt;&lt;a29&gt;&lt;s30&gt; &lt;/s30&gt;&lt;/a29&gt;&lt;a31&gt;&lt;b32&gt;&lt;s33&gt;JW Anderson&lt;/s33&gt;&lt;/b32&gt;&lt;/a31&gt;&lt;s34&gt; rehaussée de pièces vintage : un manteau &lt;b35&gt;John Galliano&lt;/b35&gt; et d'un sac à main &lt;b36&gt;Louis Vuitton&lt;/b36&gt; à la sortie de l'hôtel &lt;b37&gt;Bulgari&lt;/b37&gt; dès le lendemain.&lt;/s34&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T152909Z" creationid="USUARIO" creationdate="20230525T152909Z">
+        <seg>Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Fendi por Karl Lagerfeld que data de 1999 durante una cena en el César, En ella se exhibe  un abrigo John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2996,6 +3004,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120520Z" creationid="USUARIO" creationdate="20230524T120520Z">
         <seg>También está el imperativo del juguete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>À Paris, pour assister au concert de&lt;/s5&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Jay-Z&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt; à la Fondation &lt;b12&gt;Louis Vuitton&lt;/b12&gt;, il y a quelques jours,&lt;/s11&gt;&lt;a13&gt;&lt;s14&gt; &lt;/s14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;b16&gt;&lt;s17&gt;Rihanna&lt;/s17&gt;&lt;/b16&gt;&lt;/a15&gt;&lt;s18&gt; a été aperçue à plusieurs reprises aux côtés d'&lt;/s18&gt;&lt;a19&gt;&lt;b20&gt;&lt;s21&gt;A$AP Rocky&lt;/s21&gt;&lt;/b20&gt;&lt;/a19&gt;&lt;s22&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T152709Z" creationid="USUARIO" creationdate="20230525T152538Z">
+        <seg>En París, para asistir al concierto de&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;Jay-Z a la Fundación Louis Vuitton, 12, Rihanna. Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Karl Lagerfeld&lt;/B24&gt; que data de 1999 durante una cena en el César, En ella se exhibe un abrigo &lt;B35&gt;John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
       </tuv>
     </tu>
     <tu>
