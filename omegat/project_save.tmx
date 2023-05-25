@@ -304,8 +304,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;En février dernier, elle révélait, à la surprise générale,&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;être enceinte&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; de son deuxième enfant sur la scène du Super Bowl 2023.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T152416Z" creationid="USUARIO" creationdate="20230525T152416Z">
-        <seg>&lt;/S11&gt; &lt;S0&gt;En febrero pasado, para sorpresa de todos, reveló&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;S4&gt;estar embarazada&lt;/S4&gt;&lt;/a3&gt;&lt;&gt;&lt;s5&gt; de su segundo hijo en el escenario del Super Bowl 3.Desde entonces, multiplica los happening notados, confirmando su estado de modo.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175620Z" creationid="USUARIO" creationdate="20230525T152416Z">
+        <seg>En febrero pasado, para sorpresa de todos, reveló&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;estar embarazada&lt;/a3&gt;&lt;s5&gt; de su segundo hijo en el escenario del Super Bowl 2023.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3349,16 +3349,16 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/jay-z-fondation-louis-vuitton</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Al principio, buscamos las iglesias de la ciudad.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175523Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>https://www.vogue.fr/joaillerie/galerie/asap-rocky-bijoux-extraordinaires</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Así que nos casamos en la propiedad.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175537Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3557,8 +3557,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/article/rihanna-deuxieme-grossesse-super-bowl</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>¿Quién mejor que Domenico y Stefano, que son obviamente italianos auténticos y cuya casa es?</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175517Z" creationid="USUARIO" creationdate="20230525T175517Z">
+        <seg>l</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,8 +3605,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/galerie/rihanna-en-28-looks-tapis-rouge-mode-tendance-inspirations</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Pero las iglesias católicas italianas son muy estrictas y no podíamos encontrar todos los documentos relativos a los bautismos y a los catecismos.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175530Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3669,8 +3669,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/rihanna-enceinte-baby-bump-paris</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Pero solo al hablar y soñar con todo esto, nos sentimos verdaderamente auténticos: era perfecto para nosotros.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T175544Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
