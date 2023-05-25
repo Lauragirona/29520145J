@@ -1148,8 +1148,8 @@
       <tuv lang="fr">
         <seg>De quoi se nourrir d’innovations et d’inspiration… &lt;/s0&gt;&lt;a2&gt;&lt;i3&gt;&lt;s4&gt;Découvrez le programme des expériences et achetez vos billets pour Vogue Experience 2023&lt;/s4&gt;&lt;/i3&gt;&lt;/a2&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T151451Z" creationid="USUARIO" creationdate="20230525T151451Z">
-        <seg>Fuentes de innovación e inspiración... &lt;/S0&gt;&lt;a2&gt;&lt;i3&gt;&lt;S4&gt;Descubra el programa de experimentos y compre sus entradas para Vogue Experience 2023&lt;/S4&gt;&lt;/i3&gt;&lt;/a2&gt; &lt;S0&gt;Como en&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;&lt;&lt;&gt;&lt;&gt;&lt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;a3&gt;&lt;&gt;&lt;&gt;&lt;&lt;/s5&gt;&lt;a6&gt;&lt;S7&gt; &lt;/S7&gt;&lt;/a6&gt;&lt;A8&gt;&lt;B9&gt;&lt;S10&gt;Rihanna&lt;/S10&gt;&lt;/B9&gt;&lt;/A8&gt;&lt;S11&gt; sublime su baby bump como persona! Fuera de la ropa de maternidad demasiado amplia, la cantante originaria de Barbados, asume plenamente su vientre redondo y se atreve a los looks sexy.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180245Z" creationid="USUARIO" creationdate="20230525T151451Z">
+        <seg>Fuentes de innovación e inspiración... &lt;a2&gt;&lt;i3&gt;&lt;S4&gt;Descubra el programa de experimentos y compre sus entradas para Vogue Experience 2023.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1196,8 +1196,8 @@
       <tuv lang="fr">
         <seg>Devant une foule survoltée de 10 000 personnes, &lt;b2&gt;Alicia Keys&lt;/b2&gt; a enchaîné ses hits dans un ensemble métallisé futuriste issu de sa collection Genius, avant d’être rejointe sur scène par les artistes &lt;b3&gt;Little Simz&lt;/b3&gt; et &lt;b4&gt;Cleo Sol&lt;/b4&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>Ante una muchedumbre de 10.000 personas, &lt;b2&gt;Alicia Keys&lt;/b2&gt; encadenó sus éxitos en un conjunto metalizado futurista procedente de su colección Genius, antes de unirse en el escenario por los artistas &lt;b3&gt;Little Simz&lt;/b3&gt; y &lt;B4&gt;Cleo Sol&gt;&gt;&gt;.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180310Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Ante una muchedumbre de 10.000 personas, &lt;b2&gt;Alicia Keys&lt;/b2&gt; encadenó sus éxitos en un conjunto metalizado futurista procedente de su colección Genius, antes de unirse en el escenario por los artistas &lt;b3&gt;Little Simz&lt;/b3&gt; y Cleo Sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2018,6 +2018,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>La perspective adulte prend trop de place dans tout ça. »&lt;/i14&gt;&lt;/s13&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180505Z" creationid="USUARIO" creationdate="20230525T180505Z">
+        <seg>La prespectiva adulta coge muchi sitio en todo esto. »&lt;/i14&gt;&lt;/s13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>La poupée la plus célèbre, la plus aimée et la plus controversée au monde diffuse désormais, sur son compte Instagram, un message d’amour et de &lt;i0&gt;body positivity&lt;/i0&gt; à ses quelques millions de followers.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T173907Z" creationid="USUARIO" creationdate="20230524T191602Z">
@@ -2028,16 +2036,16 @@
       <tuv lang="fr">
         <seg>La puissante et charismatique diva est aussi la co-créatrice d’une&lt;/s6&gt;&lt;a7&gt;&lt;s8&gt; &lt;/s8&gt;&lt;/a7&gt;&lt;a9&gt;&lt;s10&gt;unique &lt;/s10&gt;&lt;/a9&gt;&lt;a11&gt;&lt;s12&gt;collection&lt;/s12&gt;&lt;/a11&gt;&lt;a13&gt;&lt;s14&gt; &lt;/s14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;b16&gt;&lt;s17&gt;Balmain&lt;/s17&gt;&lt;/b16&gt;&lt;/a15&gt;&lt;a18&gt;&lt;s19&gt; &lt;/s19&gt;&lt;/a18&gt;&lt;a20&gt;&lt;s21&gt;haute couture avec&lt;/s21&gt;&lt;/a20&gt;&lt;a22&gt;&lt;s23&gt; &lt;/s23&gt;&lt;/a22&gt;&lt;a24&gt;&lt;b25&gt;&lt;s26&gt;Olivier Rousteing&lt;/s26&gt;&lt;/b25&gt;&lt;/a24&gt;&lt;s27&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>La poderosa y carismática diva es también laRepresentante Permanente de la Federación de Rusia ante las Naciones Unidas para los Derechos Humanos, Organización de la Unidad Africana, Organización para la Prohibición de las Armas Químicas, Organización de las Naciones Unidas para la Prohibición de las Armas Químicas y Programa de las Naciones Unidas./S26&gt;&lt;/B25&gt;&lt;/A24&gt;&lt;S27&gt;.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180324Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>La poderosa y carismática diva es también laRepresentante Permanente de la Federación de Rusia ante las Naciones Unidas para los Derechos Humanos, Organización de la Unidad Africana, Organización para la Prohibición de las Armas Químicas, Organización de las Naciones Unidas para la Prohibición de las Armas Químicas y Programa de las Naciones Unidas.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>La puissante et charismatique diva est la co-créatrice d’une unique collection Balmain haute couture avec Olivier Rousteing.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>• Tengo una hermana muy cercana a mí si después de un poco de tequila pronunciaran el nombre de mi hermana en el altar.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180419Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La poderosa y carismatica diva es la co-creadora de una unica colección de Balmain alta costura con Olivier Rousting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,8 +3061,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/article/beyonce-olivier-rousteing-interview-vogue-france-renaissance-couture</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Cuando estaba en los premios Grammy, varias personas me llamaron Khloé en la alfombra roja.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180329Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3629,8 +3637,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/inspirations/diaporama/fwah16-barbie-mcdonalds-looney-toones-les-inspirations-pop-des-defiles-moschino-par-jeremy-scott/25957</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>(El interés frenético también fue impulsado por las propias Kardashian, que publicaron momentos elegidos a sus millones de seguidores en las redes sociales.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T180512Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
