@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;b16&gt;Stefano&lt;/b16&gt; m'a dit : et si nous faisions une version noire pour la nuit ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T154802Z" creationid="halimahamada" creationdate="20230525T154802Z">
+        <seg>Stefano me dijo: ¿Qué tal si hacemos una versión negra para la noche?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;b4&gt;Travis&lt;/b4&gt; et moi étions allés à Portofino au mois d'août précédant notre mariage.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153034Z" creationid="halimahamada" creationdate="20230525T153034Z">
@@ -804,8 +812,8 @@
       <tuv lang="fr">
         <seg>C'est un véritable artiste.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T154756Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Es un verdadero artista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1476,8 +1484,8 @@
       <tuv lang="fr">
         <seg>J'ai pensé que c'était vraiment cool.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Todas las grandes</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T154807Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pensé que era genial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,6 +1534,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es También en la primera fila del Salón de la Fama de Vogue, los nuevos súper modelos Precious Lee, Jill Kortleve y Paloma Elsesser posan curvas bajo el icónico objetivo de Inez &amp; Vinoodh que hace buen tiempo encontrar en nuestras páginas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je me souviens que &lt;b15&gt;Domenico&lt;/b15&gt; retirait, avec ses dents, les os de l'ossature de l'échantillon de robe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T154745Z" creationid="halimahamada" creationdate="20230525T154745Z">
+        <seg>Recuerdo que Domenico sacaba los huesos de la estructura de la muestra del vestido con sus dientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2077,8 +2093,8 @@
       <tuv lang="fr">
         <seg>Nous avons donc créé une version noire pour se changer.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155002Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Así que creamos una versión negra para cambiarnos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2087,6 +2103,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152634Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Tuvimos que preguntar entre cinco y diez veces qué hacer para que fuera legal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous avons fait un véritable essayage à &lt;/s7&gt;&lt;a12&gt;&lt;s13&gt;Milan&lt;/s13&gt;&lt;/a12&gt;&lt;s14&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T154635Z" creationid="halimahamada" creationdate="20230525T154635Z">
+        <seg>Hicimos una verdadera prueba en.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2269,8 +2293,8 @@
       <tuv lang="fr">
         <seg>Puis il a complètement restructuré cette robe sur moi.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Y ya que las súper estrellas de esta revista son</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T154753Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Y luego me cambió el vestido.</seg>
       </tuv>
     </tu>
     <tu>
