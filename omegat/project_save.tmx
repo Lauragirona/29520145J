@@ -144,8 +144,8 @@
       <tuv lang="fr">
         <seg>&lt;/s3&gt;&lt;a4&gt;&lt;b5&gt;&lt;s6&gt;Monica Bellucci&lt;/s6&gt;&lt;/b5&gt;&lt;/a4&gt;&lt;s7&gt; a été une grande source d'inspiration.</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T153451Z" creationid="halimahamada" creationdate="20230525T153451Z">
-        <seg>Cuando Travis y yo celebramos mi cumpleaños en Utah, vimos todos los videos musicales de los 90.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T225138Z" creationid="halimahamada" creationdate="20230525T153451Z">
+        <seg>Monica Bellucci ha sido una gran inspiración</seg>
       </tuv>
     </tu>
     <tu>
@@ -915,8 +915,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Je n'ai cessé d'être attirée par ces mariages en lingerie inspirés des années 60.</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T153448Z" creationid="halimahamada" creationdate="20230525T153448Z">
-        <seg>Los años 90 también.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T225106Z" creationid="halimahamada" creationdate="20230525T153448Z">
+        <seg>No he dejado de sentirme atraída por estas bodas en lencería inspiradas en los años 60</seg>
       </tuv>
     </tu>
     <tu>
@@ -4307,14 +4307,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/lifestyle/article/milan-guide-express-de-nos-adresses-preferees</seg>
-      </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T153445Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Monica Bellucci fue una gran inspiración.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/lifestyle/article/pourquoi-lhotel-du-cap-eden-roc-dantibes-nous-fascine-toujours-autant</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4383,14 +4375,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/article/monica-bellucci-look-new-york-janvier-2023</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>La consigna del número de abril de 2023 de Vogue France.</seg>
       </tuv>
     </tu>
     <tu>
