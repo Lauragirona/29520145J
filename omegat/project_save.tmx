@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Maintenant que vous avez presque un an de recul, y a-t-il quelque chose que vous changeriez à propos de l'un ou l'autre de vos mariages ?&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155211Z" creationid="halimahamada" creationdate="20230525T155211Z">
+        <seg>Ahora que tienes casi un año de retraso, ¿hay algo que cambiarías en cualquiera de tus matrimonios?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Parlez-moi du processus de sélection de vos robes de mariée.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153425Z" creationid="halimahamada" creationdate="20230525T153425Z">
@@ -507,6 +515,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153335Z" creationid="halimahamada" creationdate="20230525T153335Z">
         <seg>Dijiste que tu matrimonio era sobre ti y tus hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;Vous étiez remarquablement calme.&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155332Z" creationid="halimahamada" creationdate="20230525T155332Z">
+        <seg>Usted estaba notablemente tranquilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -585,6 +601,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Je dirais que l'&lt;/s3&gt;&lt;a4&gt;&lt;s5&gt;Italie&lt;/s5&gt;&lt;/a4&gt;&lt;s6&gt; est le mariage le plus émouvant pour moi, car c'est celui qui a été le plus préparé.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155417Z" creationid="halimahamada" creationdate="20230525T155417Z">
+        <seg>Yo diría que la boda es la más conmovedora para mí, porque es la que más se ha preparado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Je n'ai cessé d'être attirée par ces mariages en lingerie inspirés des années 60.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153448Z" creationid="halimahamada" creationdate="20230525T153448Z">
@@ -604,6 +628,14 @@
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Je sais !</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T152903Z" creationid="halimahamada" creationdate="20230525T152903Z">
+        <seg>¡Se lo agradezco mucho!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Je vous remercie !</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155338Z" creationid="halimahamada" creationdate="20230525T155338Z">
         <seg>¡Se lo agradezco mucho!</seg>
       </tuv>
     </tu>
@@ -653,6 +685,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230524T120442Z" creationid="halimahamada" creationdate="20230524T120442Z">
         <seg>• Por Elise Taylor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Peut-être que c'est le cas.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155303Z" creationid="halimahamada" creationdate="20230525T155303Z">
+        <seg>Tal vez lo hizo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1300,8 +1340,8 @@
       <tuv lang="fr">
         <seg>En y repensant aujourd'hui, dites-moi quel est le mariage qui a suscité le plus d'émotions chez vous ?</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Ante una multitud de 10.000 personas, Alicia Keys encadenado sus hits en un conjunto metalizado futurista de su colección Genius, antes de unirse a escena por los artistas Little Simz y Cleo Sol.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155345Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Ahora que lo pienso, dime, ¿cuál es el matrimonio que más te ha emocionado?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1452,8 +1492,8 @@
       <tuv lang="fr">
         <seg>Ils ont présenté l'idée de son tatouage sur les croquis.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>todas las posibilidades que ofrece su ciudad.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155149Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Presentaron la idea de su tatuaje en los bocetos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1522,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>J'ai demandé à tout le monde : "Vous étiez au courant ?" Personne ne savait !&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155326Z" creationid="halimahamada" creationdate="20230525T155326Z">
+        <seg>Le pregunté a todos: "¿Lo sabías?" ¡Nadie lo sabía!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>J'ai donc imaginé toute ma famille autour d'une longue table au milieu de la ville, en train de dîner à l'italienne, puis de se promener et d'aller chercher des glaces.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153101Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -1494,6 +1542,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T155033Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Luego envié correos electrónicos a mis hermanas con todos los looks y dejé que cada una eligiera lo que más le convenía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>J'ai envoyé à &lt;b5&gt;Dolce &amp; Gabbana&lt;/b5&gt; des images de ces super longs voiles romantiques en dentelle dans des églises, ruisselants, drapés sur le sol.</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155141Z" creationid="halimahamada" creationdate="20230525T155141Z">
+        <seg>Le envié a Dolce &amp; Gabbana imágenes de esos velos románticos de encaje súper largos en iglesias, arroyos, drapeados en el suelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1726,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153203Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Estoy seguro de que la gente estaba hablando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Je suis une personne très calme la plupart du temps.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155340Z" creationid="halimahamada" creationdate="20230525T155340Z">
+        <seg>Soy una persona muy tranquila la mayor parte del tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1989,8 +2053,8 @@
       <tuv lang="fr">
         <seg>Mais cela m'a permis de faire une pause et de ne pas me précipiter.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es ampliar este principio de co-creación a muchas otras áreas.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155311Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pero me permitió hacer una pausa y no apresurarme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2309,8 +2373,8 @@
       <tuv lang="fr">
         <seg>Pour moi, c'était vraiment notre mariage principal.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Usted se sentirá ya un poco estrella en las camisetas sin mangas y las camisetas con incrustaciones de cristales que ofrece la colección.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155422Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Para mí, era realmente nuestra boda principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2491,6 +2555,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Spoiler : lorsque Kourtney Kardashian a descendu les escaliers de sa cérémonie à Portofino, son voile n'a cessé de se prendre dans le paysage, retardant sa descente.&lt;/s4&gt;&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155256Z" creationid="halimahamada" creationdate="20230525T155256Z">
+        <seg>Spoiler: cuando Kourtney Kardashian bajó las escaleras de su ceremonia en Portofino, su velo no dejó de enredarse en el paisaje, retrasando su descenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Tendance star des 90's, remise au goût du jour en 2010, elle a longtemps été considérée comme un fashion faux pas.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
@@ -2517,8 +2589,8 @@
       <tuv lang="fr">
         <seg>Tout ce tatouage a été brodé à la main sur le voile, d'une manière si magnifique.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Ya te has imaginado volar sobre Central Park y disfrutar de una vista única de toda la Gran Manzana, Brooklyn ¿Puente a la Estatua de la Libertad?</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155136Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Todo este tatuaje fue bordado a mano en el velo, de una manera tan hermosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3439,6 +3511,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T152709Z" creationid="USUARIO" creationdate="20230525T152538Z">
         <seg>En París, para asistir al concierto de&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;Jay-Z a la Fundación Louis Vuitton, 12, Rihanna. Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Karl Lagerfeld&lt;/B24&gt; que data de 1999 durante una cena en el César, En ella se exhibe un abrigo &lt;B35&gt;John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>À la seconde où je l'ai vu, je me suis dit : "C'est ce que ça doit être."&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230525T155203Z" creationid="halimahamada" creationdate="20230525T155203Z">
+        <seg>En el momento en que lo vi, pensé: "Eso es lo que tiene que ser."</seg>
       </tuv>
     </tu>
     <tu>
