@@ -160,8 +160,8 @@
       <tuv lang="fr">
         <seg>&lt;b0&gt;Alicia Keys&lt;/b0&gt; ne l’at-elle pas dit mieux que personne ?</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;B0&gt;Alicia Keys&lt;/B0&gt; ¿no lo ha dicho mejor que nadie?</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174438Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Alicia Keys¿no lo ha dicho mejor que nadie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Soin de la peau, make-up, stylisme mode, masterclass, coaching sportif, animations photo, le tout sous l'œil des rédactrices du magazine… La communauté &lt;i1&gt;Vogue&lt;/i1&gt; est invitée à vivre cette expérience unique, dans le sublime lieu de la Galerie Joseph, Paris 4e.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>La comunidad &lt;i1&gt;Vogue&lt;/i1&gt; está invitada a vivir esta experiencia única, en el sublime lugar de la Galería Joseph, París 4e.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174758Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Cuidado de la piel, maquillaje, estilismos de moda, masterclass, coaching deportivo, animación de fotos, todo en los ojos de las redactoras de la revista. La comunidad &lt;i1&gt;Vogue&lt;/i1&gt; está invitada a vivir esta experiencia única, en el sublime lugar de la Galería Joseph, París 4e.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1268,8 +1268,8 @@
       <tuv lang="fr">
         <seg>D’&lt;b0&gt;Armani Beauty&lt;/b0&gt; à &lt;b1&gt;MyBlend&lt;/b1&gt;, en passant par &lt;b2&gt;ghd&lt;/b2&gt; ou &lt;b3&gt;La Vallée Village&lt;/b3&gt;, une dizaine de grands noms de la mode, de la beauté et du lifestyle ont répondu présents pour imaginer des happenings originaux spécialement destinés aux lectrices de &lt;i4&gt;Vogue France.&lt;/i4&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T151440Z" creationid="USUARIO" creationdate="20230525T151440Z">
-        <seg>Rendezvous los días 12 y 13 de mayo de 2023 en compañía de las editoras de la revista Vogue France.&lt;/s5&gt; D'&lt;B0&gt;Armani Beauty&lt;/B0&gt; a &lt;b1&gt;MyBlend&lt;/b1&gt;, pasando por &lt;b2&gt;ghd&lt;/b2&gt; o &lt;b3&gt;&lt;&lt;&gt;La Village&gt;, la decena de grandes nombres de moda de la belleza y del lifestyle respondieron presentes para imaginar happenings originales especialmente destinados a las lectoras de &lt;I4&gt;Vogue France.&lt;/I4&gt;&lt;S0&gt;Cuidado de la piel, maquillaje, moda, masterclass, coaching deportivo, animaciones fotográficas, todo bajo la mirada de las editoras de la revista...</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174628Z" creationid="USUARIO" creationdate="20230525T151440Z">
+        <seg>Rendezvous los días 12 y 13 de mayo de 2023 en compañía de las editoras de la revista Vogue France. D'Armani Beauty a &lt;b1&gt;MyBlend&lt;/b1&gt;, pasando por &lt;b2&gt;ghd&lt;/b2&gt; o &lt;b3&gt;La Village, la decena de grandes nombres de moda de la belleza y del lifestyle respondieron presentes para imaginar happenings originales especialmente destinados a las lectoras de Vogue France.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2052,8 +2052,8 @@
       <tuv lang="fr">
         <seg>Le célèbre logo &lt;b5&gt;Moncler&lt;/b5&gt;, lui, s’affiche en version maxi sur les doudounes courtes et les hoodies oversize, rehaussé d’une couronne inspirée de la statue de la Liberté.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>El famoso logo &lt;B5&gt;Moncler&lt;/B5&gt;, se muestra en versión maxi en las chaquetas cortas y las Hoodies oversize, realzado con una corona inspirada en la Estatua de la Libertad.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174427Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>El famoso logo Moncler, se muestra en versión maxi en las chaquetas cortas y las Hoodies oversize, realzado con una corona inspirada en la Estatua de la Libertad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2885,8 +2885,8 @@
       <tuv lang="fr">
         <seg>Vivre des expériences de marques inédites à travers le regard de &lt;i0&gt;Vogue France…&lt;/i0&gt; Voilà l’idée de l’événement Vogue Expérience, dont la cinquième édition aura lieu à Paris les vendredi 12 et samedi 13 mai 2023.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T151215Z" creationid="USUARIO" creationdate="20230525T151215Z">
-        <seg>&lt;S0&gt;Toda la información de la colección en&lt;/S0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;&lt;a3&gt;&lt;S4&gt;Moncler.com&lt;/S4&gt;&lt;&lt;&lt;&gt;&lt;&lt;&lt;&gt;&lt;&lt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&lt;&gt;&lt;&gt;&lt;&gt;&gt;&lt;&gt;s5. &lt;/s5&gt; Vivir experiencias de marcas inéditas a través de la mirada de &lt;I0&gt;Vogue France... &lt;/I0&gt; Esta es la idea del evento Vogue Experience, cuya quinta edición tendrá lugar en París el viernes 12 y el sábado 13 de mayo de 2023.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T174544Z" creationid="USUARIO" creationdate="20230525T151215Z">
+        <seg> Vivir experiencias de marcas inéditas a través de la mirada de Vogue France... Esta es la idea del evento Vogue Experience, cuya quinta edición tendrá lugar en París el viernes 12 y el sábado 13 de mayo de 2023.</seg>
       </tuv>
     </tu>
     <tu>
