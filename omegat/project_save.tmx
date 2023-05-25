@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="fr">
         <seg>&lt;b0&gt;&lt;s1&gt;Alicia Keys&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; décrit les silhouettes de sa collection – oversize, gender-fluid et sportives – comme étant avant tout “cool, confortables et 100 % New York”.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;B0&gt;&lt;s1&gt;Alicia Keys&lt;/s1&gt;&lt;/B0&gt;&lt;s2&gt; describe las siluetas de su colección - oversize, gender-Fluid y deportivas - como siendo ante todo "cool, cómodas y 100 % neoyorquinas".</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153425Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>&lt;s1&gt;Alicia Keys&lt;/s1&gt;&lt;s2&gt; describe las siluetas de su colección - oversize, gender-Fluid y deportivas - como siendo ante todo "cool, cómodas y 100 % neoyorquinas".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,8 +1028,8 @@
       <tuv lang="fr">
         <seg>Elements by &lt;b0&gt;Salehe Bembury&lt;/b0&gt;, The Art of All by Roc Nation by &lt;b1&gt;Jay-Z&lt;/b1&gt; et The Art of Design by &lt;b2&gt;Rick Owens&lt;/b2&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T151037Z" creationid="USUARIO" creationdate="20230525T151037Z">
-        <seg>&lt;B0&gt;&lt;s1&gt;Angels&lt;/s1&gt;&lt;/B0&gt;&lt;s2&gt;, The Art of Love by &lt;b3&gt;FRGMT&lt;/b3&gt;, The Art of Exploration by &lt;B4&gt;adidas Originals&lt;/B4&gt;, The Art of &lt;/s2&gt;Elements by &lt;B0&gt;Salehe Bembury&lt;/B0&gt;, The Art of All by Roc Nation by &lt;b1&gt;Jay-Z&lt;/b1&gt; y The Art of Design by &lt;b2&gt;Rick Owens&lt;/b2&gt;.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153336Z" creationid="USUARIO" creationdate="20230525T151037Z">
+        <seg>Angels, The Art of Love by FRGMT, The Art of Exploration by adidas Originals, The Art of Elements by Salehe Bembury, The Art of All by Roc Nation by &lt;b1&gt;Jay-Z&lt;/b1&gt; y The Art of Design by &lt;b2&gt;Rick Owens&lt;/b2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1700,8 +1700,8 @@
       <tuv lang="fr">
         <seg>Le line-up de &lt;b0&gt;Moncler Genius 2023&lt;/b0&gt; réunit des co-créateurs prestigieux issus de l’art, de la mode, du spectacle, de la musique, du sport et de la culture.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
-        <seg>&lt;/s2&gt; El catálogo de &lt;B0&gt;Moncler Genius 2023&lt;/B0&gt; reúne a prestigiosos co-creadores procedentes del arte, la moda, el espectáculo, la música, el deporte y la cultura.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230525T153406Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>El catálogo de Moncler Genius 2023 reúne a prestigiosos co-creadores procedentes del arte, la moda, el espectáculo, la música, el deporte y la cultura.</seg>
       </tuv>
     </tu>
     <tu>
