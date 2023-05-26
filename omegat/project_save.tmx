@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;/s2&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Karl Lagerfeld &lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt;fait ici référence à son look emblématique, immédiatement reconnaissable.&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T105137Z" creationid="Nerea" creationdate="20230526T105137Z">
+        <seg>Karl Lagerfeld hace aquí referencia a su emblemático look, reconocible de manera inmediata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;/s3&gt;&lt;a4&gt;&lt;b5&gt;&lt;s6&gt;Monica Bellucci&lt;/s6&gt;&lt;/b5&gt;&lt;/a4&gt;&lt;s7&gt; a été une grande source d'inspiration.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T225138Z" creationid="halimahamada" creationdate="20230525T153451Z">
@@ -2460,8 +2468,8 @@
       <tuv lang="fr">
         <seg>Karl Lagerfeld : l'histoire de son uniforme</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Chanel, Chrome Hearts, Dior Homme...</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T105225Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Karl Lagerfeld: la historia de su uniforme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,14 +4010,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/article/karl-lagerfeld-histoire-queue-de-cheval-emblematique</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Tantas marcas que se esconden detrás del conocido uniforme de Karl Lagerfeld.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/article/mariage-catalina-quintana-robe-mariee-carolina-herrera-upcycling</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4066,26 +4066,10 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/chanel-haute-couture-et-parfums-de-luxe-la-franaise/20583</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>"Desde mis primeras pruebas en los salones Chanel en París, tuve una idea muy precisa de lo que quería: un hermoso vestido espalda descubierta bordado de encaje con una larga cola.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/dior-gant-du-luxe/20590</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/fendi-une-griffe-romaine-chic-et-glamour/20595</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es Karl Lagerfeld: la historia de su uniforme</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,14 +4370,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/article/marque-jean-patou-renait-interview-guillaume-henry</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/article/ralph-lauren-documentaire-very-ralph</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4502,14 +4478,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>La diseñadora y modelo de 24 años, que también es la hija menor de la leyenda del R&amp;B Lionel Richie se comprometió con Elliot Grainge, fundador de la discográfica 10K Projects, en abril de 2022.&lt;s0&gt;  &lt;/s0&gt;Las familias Richie y Grainge son amigas desde hace más de 20 años, ya que Lionel Richie colabora con frecuencia con el padre de Elliot Grainge, director general de Universal Music Group, Sir Lucian Grainge.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/inspirations/diaporama/style-icone-coco-chanel-gabrielle-vintage-throwback-mode/45300</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Karl Lagerfeld se refiere aquí a su aspecto icónico, reconocible inmediatamente.</seg>
       </tuv>
     </tu>
     <tu>
