@@ -1750,8 +1750,8 @@
       <tuv lang="fr">
         <seg>De quoi se nourrir d’innovations et d’inspiration… &lt;/s0&gt;&lt;a2&gt;&lt;i3&gt;&lt;s4&gt;Découvrez le programme des expériences et achetez vos billets pour Vogue Experience 2023&lt;/s4&gt;&lt;/i3&gt;&lt;/a2&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T180245Z" creationid="USUARIO" creationdate="20230525T151451Z">
-        <seg>Fuentes de innovación e inspiración... &lt;a2&gt;&lt;i3&gt;&lt;S4&gt;Descubra el programa de experimentos y compre sus entradas para Vogue Experience 2023.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161444Z" creationid="USUARIO" creationdate="20230525T151451Z">
+        <seg>Una fuente de innovación e inspiración...Descubra el programa de experiencias y compre sus entradas para Vogue Experience 2023</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,8 +1894,8 @@
       <tuv lang="fr">
         <seg>D’&lt;b0&gt;Armani Beauty&lt;/b0&gt; à &lt;b1&gt;MyBlend&lt;/b1&gt;, en passant par &lt;b2&gt;ghd&lt;/b2&gt; ou &lt;b3&gt;La Vallée Village&lt;/b3&gt;, une dizaine de grands noms de la mode, de la beauté et du lifestyle ont répondu présents pour imaginer des happenings originaux spécialement destinés aux lectrices de &lt;i4&gt;Vogue France.&lt;/i4&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T174628Z" creationid="USUARIO" creationdate="20230525T151440Z">
-        <seg>Rendezvous los días 12 y 13 de mayo de 2023 en compañía de las editoras de la revista Vogue France. D'Armani Beauty a &lt;b1&gt;MyBlend&lt;/b1&gt;, pasando por &lt;b2&gt;ghd&lt;/b2&gt; o &lt;b3&gt;La Village, la decena de grandes nombres de moda de la belleza y del lifestyle respondieron presentes para imaginar happenings originales especialmente destinados a las lectoras de Vogue France.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161433Z" creationid="USUARIO" creationdate="20230525T151440Z">
+        <seg> De Armani Beauty a MyBlend, pasando por ghd o La Vallée Village, una docena de grandes nombres de la moda, la belleza y el estilo de vida han ideado originales happenings especialmente para los lectores de Vogue Francia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4559,14 +4559,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/journaliste/marie-leger</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/lifestyle/article/londres-les-nouvelles-adresses-a-connaitre-en-2023</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4738,14 +4730,6 @@
         <seg>https://www.vogue.fr/rihanna-enceinte-baby-bump-paris</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T175544Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/vogue-experience</seg>
-      </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T174806Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>.</seg>
       </tuv>
     </tu>
