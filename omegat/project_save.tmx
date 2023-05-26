@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1668,8 +1668,8 @@
       <tuv lang="fr">
         <seg>Dripping in Chrome Hearts, Lagerfeld as featured in Chrome Hearts Magazine, Series 1 Volume 6 in 2013.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Las casas de moda que Karl Lagerfeld utilizó para crear su aspecto legendario</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T104748Z" creationid="Nerea" creationdate="20230526T104748Z">
+        <seg>Dripping in Chrome Hearts, Lagerfeld as featured in Chrome Hearts Magazine, Series 1 Volumen 6 in 2013. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2756,8 +2756,8 @@
       <tuv lang="fr">
         <seg>Les maisons de mode auxquelles Karl Lagerfeld a fait appel pour créer son look légendaire</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230504T153718Z" creationid="halimahamada" creationdate="20230504T153718Z">
-        <seg>lLes maisons de mode auxquelles Karl Lagerfeld a fait appel pour créer son look légendaire</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T103018Z" creationid="halimahamada" creationdate="20230504T153718Z">
+        <seg>Las casas de moda que Karl Lagerfeld utilizó para crear su aspecto legendario</seg>
       </tuv>
     </tu>
     <tu>
@@ -4366,14 +4366,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es vestido en el que quería casarme: un hermoso vestido espalda descubierta bordada de encaje con un larga cola", explica Sofía Richie.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/article/dua-lipa-sac-ferragamo</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Dripping in Chrome Hearts, Lagerfeld as featured in Chrome Hearts Magazine, Series 1 Volumen 6 in 2013. es</seg>
       </tuv>
     </tu>
     <tu>
