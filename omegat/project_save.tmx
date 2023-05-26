@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>"Si vous me demandiez ce que j'aimerais le plus avoir inventé dans la mode", a-t-il déclaré un jour, "je dirais la &lt;/s2&gt;&lt;a3&gt;&lt;s4&gt;chemise blanche&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160605Z" creationid="Nerea" creationdate="20230526T160605Z">
+        <seg>Si me preguntaran qué es lo que más me gustaría haber inventado en el mundo de la moda", dijo en una ocasión, "diría que la camisa blanca".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>"Si vous me demandiez ce que j'aimerais le plus avoir inventé dans la mode", a-t-il déclaré un jour, "je dirais la chemise blanche.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -198,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;b0&gt;&lt;s1&gt;Karl Lagerfeld&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; vouait un véritable culte à la chemise blanche.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160538Z" creationid="Nerea" creationdate="20230526T160538Z">
+        <seg>Karl Lagerfeld veneraba la camisa blanca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;b0&gt;&lt;s1&gt;Kortleve&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; et &lt;b3&gt;Paloma Elsesser&lt;/b3&gt; posent tout en courbes sous l’objectif iconique d’Inez &amp; Vinoodh qu’il fait bon retrouver dans nos pages...</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174027Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
@@ -210,6 +226,15 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T151106Z" creationid="halimahamada" creationdate="20230525T151106Z">
         <seg>Kourtney Kardashian Barker es una celebridad practicamente buscada todos los días en Google y existe un día en el que batió todos los récords : el 20 de mayo del 2022.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;b0&gt;&lt;s1&gt;Lagerfeld&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; livre ses secrets de beauté.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160734Z" creationid="Nerea" creationdate="20230526T160734Z">
+        <seg> Lagerfeld comparte sus secretos de belleza.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +603,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T175620Z" creationid="USUARIO" creationdate="20230525T152416Z">
         <seg>En febrero pasado, para sorpresa de todos, reveló&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;estar embarazada&lt;/a3&gt;&lt;s5&gt; de su segundo hijo en el escenario del Super Bowl 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;En plus de ses bagues &lt;b1&gt;Chrome Hearts&lt;/b1&gt;, &lt;b2&gt;Karl Lagerfeld&lt;/b2&gt; enfilait des &lt;/s0&gt;&lt;a3&gt;&lt;s4&gt;gants&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; &lt;b6&gt;Causse&lt;/b6&gt;, marque fondée dans la ville de Millau, dans le sud-ouest de la France, en 1892.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160636Z" creationid="Nerea" creationdate="20230526T160636Z">
+        <seg>Además de sus anillos Chrome Hearts, Karl Lagerfeld lució guantes Causse, una marca fundada en la ciudad de Millau, en el suroeste de Francia, en 1892.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,14 +1395,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>Causse</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>Causse En plus de ses bagues Chrome Hearts, Karl Lagerfeld enfilait des gants Causse, marque fondée dans la ville de Millau, dans le sud-ouest de la France, en 1892.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -1450,6 +1475,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Cela signifie que vous êtes influent." Klorane&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160709Z" creationid="Nerea" creationdate="20230526T160709Z">
+        <seg>Significa que eres influente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Cette transformation a d'ailleurs fait l’objet d’un documentaire paru au mois d’avril dernier : &lt;i2&gt;Tiny shoulders : rethinking Barbie.&lt;/i2&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T173459Z" creationid="USUARIO" creationdate="20230525T173459Z">
@@ -1508,8 +1541,8 @@
       <tuv lang="fr">
         <seg>Considérés comme des bijoux pour les mains, chaque gant nécessite plus d'une semaine de travail.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Considerados como joyas para las manos, cada guante requiere más de una semana de trabajo.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160653Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Considerados joyas para las manos, cada guante requiere más de una semana de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,6 +1579,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>D'après &lt;b10&gt;Steven Mille&lt;/b10&gt;r, PDG de l'équipementier historique, &lt;b11&gt;Karl Lagerfeld&lt;/b11&gt; a été présenté à &lt;b12&gt;Hilditch &amp; Key&lt;/b12&gt; par son oncle à l'âge de 16 ans et est devenu un client fidèle, envoyant des croquis détaillés décrivant exactement ce qu'il voulait.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160613Z" creationid="Nerea" creationdate="20230526T160613Z">
+        <seg>Según Steven Miller, director general de la histórica casa de modas, Karl Lagerfeld fue presentado a Hilditch &amp; Key por su tío a la edad de 16 años y se convirtió en un cliente fiel, enviando bocetos detallados que describían exactamente lo que quería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>D'après Steven Miller, PDG de l'équipementier historique, Karl Lagerfeld a été présenté à Hilditch &amp; Key par son oncle à l'âge de 16 ans et est devenu un client fidèle, envoyant des croquis détaillés décrivant exactement ce qu'il voulait.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -1558,6 +1599,15 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T225330Z" creationid="halimahamada" creationdate="20230525T154437Z">
         <seg>En "November Rain" de Guns N Roses, cuando Stephanie Seymourdescendió por el pasillo y llevaba un vestido corto, pensé: "¿Sabes qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Dans le même numéro de M, le magazine éphémère trimestriel pour hommes de &lt;b0&gt;Fairchild&lt;/b0&gt;, &lt;b1&gt;Karl &lt;/b1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160749Z" creationid="Nerea" creationdate="20230526T160712Z">
+        <seg>En el mismo número de M, la efímera revista trimestral para hombres de Fairchild, Karl
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2188,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Il ne confiait qu'à un seul tailleur le soin de confectionner ses chemises blanches - la pièce maîtresse de son look - et c'était &lt;/s5&gt;&lt;a6&gt;&lt;b7&gt;&lt;s8&gt;Hilditch &amp; Key&lt;/s8&gt;&lt;/b7&gt;&lt;/a6&gt;&lt;s9&gt;, fondé en 1899 sur Jermyn Street, à Londres.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160609Z" creationid="Nerea" creationdate="20230526T160609Z">
+        <seg>Sólo confiaba en un sastre para confeccionar sus camisas blancas -la pieza central de su look- y era Hilditch &amp; Key, fundada en 1899 en Jermyn Street, Londres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Il ne confiait qu'à un seul tailleur le soin de confectionner ses chemises blanches - la pièce maîtresse de son look - et c'était Hilditch &amp; Key, fondé en 1899 sur Jermyn Street, à Londres.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -2538,6 +2596,15 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>L'artisanat et l'ingénierie requis ont conduit &lt;b7&gt;Karl Lagerfeld&lt;/b7&gt; à s'assurer que l'atelier familial perdure ; en 2012, il a été racheté par &lt;b8&gt;Chanel&lt;/b8&gt; dans le cadre de l'écurie Métiers d'Art. Le penchant de &lt;b9&gt;Karl Lagerfeld&lt;/b9&gt; pour les modèles sans doigts de &lt;b10&gt;Causse&lt;/b10&gt; est bien connu, mais il a également fait appel à la maison pour fabriquer tous les gants des collections de prêt-àporter et de haute couture de &lt;b11&gt;Chanel&lt;/b11&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160703Z" creationid="Nerea" creationdate="20230526T160703Z">
+        <seg> La artesanía y la ingeniería necesarias llevaron a Karl Lagerfeld a asegurarse de que el taller familiar perduraría; en 2012 fue adquirido por Chanel como parte del establo Métiers d'Art. Es conocida la predilección de Karl Lagerfeld por los modelos sin dedos de Causse, pero también recurrió a la casa para confeccionar todos los guantes de las colecciones de prêt-à-porter y alta costura de Chanel.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>L'artisanat et l'ingénierie requis ont conduit Karl Lagerfeld à s'assurer que l'atelier familial perdure ; en 2012, il a été racheté par Chanel dans le cadre de l'écurie Métiers d'Art. Le penchant de Karl Lagerfeld pour les modèles sans doigts de Causse est bien connu, mais il a également fait appel à la maison pour fabriquer tous les gants des collections de prêt-àporter et de haute couture de Chanel.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -2734,6 +2801,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185708Z" creationid="laura" creationdate="20230525T185708Z">
         <seg>El desayuno terminó alrededor de las 11.00 horas y el grupo pasó inmediatamente a la etapa de peinado y maquillaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Le shampooing sec de &lt;/s2&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Klorane&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160805Z" creationid="Nerea" creationdate="20230526T160805Z">
+        <seg>El champú en seco de Klorane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3389,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Photo: Courtesy of Hilditch &amp; Key Hilditch &amp; Key</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160557Z" creationid="Nerea" creationdate="20230526T160557Z">
+        <seg>Foto: Cortesía de Hilditch &amp; Key Hilditch &amp; Key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Photo: Courtesy of Hilditch &amp; Key Hilditch &amp; Key Karl Lagerfeld vouait un véritable culte à la chemise blanche.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -3548,8 +3631,8 @@
       <tuv lang="fr">
         <seg>Sa poudre de prédilection ?</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>¿Su polvo favorito?</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160756Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Sus polvos preferidos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,6 +3649,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T224632Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Santa Barbara era para nosotros dos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Selon les estimations de &lt;b13&gt;Steven Miller&lt;/b13&gt;, &lt;b14&gt;Karl Lagerfeld&lt;/b14&gt; possédait probablement plus de 1000 chemises de la marque.&lt;/s9&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160617Z" creationid="Nerea" creationdate="20230526T160617Z">
+        <seg>Según las estimaciones de Steven Miller, Karl Lagerfeld poseía probablemente más de 1.000 camisas de la marca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4106,14 +4197,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/beaute/article/miranda-kerr-produit-cheveux-pharmacies</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Klorane es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/beaute/galerie/claudia-schiffer-90s</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4490,14 +4573,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/galerie/tendance-mode-gants-opera</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Causse es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/galerie/vogue-rend-hommage-a-la-carriere-exceptionnelle-de-karl-lagerfeld</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4606,6 +4681,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185600Z" creationid="laura" creationdate="20230525T185600Z">
         <seg>En París, para asistir al concierto de&lt;/s5&gt;&lt;a6&gt;&lt;/a6&gt;Jay-Z a la Fundación Louis Vuitton, 12, Rihanna. Mientras estaba vestida con un crop top gris y un pantalón de carga combinado con un abrigo patchwork vintage firmado Karl Lagerfeld que data de 1999 durante una cena en el César, En ella se exhibe un abrigo John Galliano y un bolso Louis Vuitton a la salida del hotel Bulgari al día siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>À l'époque, il se disait trop vieux pour &lt;b19&gt;Tom Ford&lt;/b19&gt; ("ils rendent mieux sur mon entourage plus jeune que sur moi") et &lt;b20&gt;Caraceni&lt;/b20&gt;.&lt;/s17&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T160602Z" creationid="Nerea" creationdate="20230526T160602Z">
+        <seg>En aquel momento, dijo que era demasiado mayor para Tom Ford ("quedan mejor en mi séquito más joven que en mí") y Caraceni.</seg>
       </tuv>
     </tu>
     <tu>
