@@ -575,6 +575,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;Au cours de cette odyssée pleine d'esprit et qui a tout d’un coming of age movie, le cinéaste &lt;b1&gt;Mike Mills&lt;/b1&gt; égraine même quelques recommandations de&lt;/s0&gt;&lt;a2&gt;&lt;s3&gt; &lt;/s3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;s5&gt;livres essentiels à l’éveil féministe&lt;/s5&gt;&lt;/a4&gt;&lt;s6&gt;, dont l’anthologie Sisterhood is Powerful(La sororité, c'est le pouvoir en français) ou le classique Our Bodies, Ourselves(Notre corps, nousmêmes), qu’il adresse à son personnage autant qu’à son spectateur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161155Z" creationid="Nerea" creationdate="20230526T161155Z">
+        <seg>En el curso de esta ingeniosa odisea, que tiene todos los ingredientes de una película de madurez, el cineasta Mike Mills hace incluso algunas recomendaciones de libros esenciales para el despertar feminista, entre ellos la antología Sisterhood is Powerful y el clásico Our Bodies,Ourselves, que dirige tanto a su personaje como al espectador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;Barbie est jeune, élancée, la taille fine et les seins coniques comme les pin-up des années 1950.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120052Z" creationid="USUARIO" creationdate="20230524T120052Z">
@@ -711,6 +719,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;PAR&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;MARIE LÉGER&lt;/s4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161303Z" creationid="Nerea" creationdate="20230526T161303Z">
+        <seg>POR MARIE LÉGER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;PAR&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;MARTHE MABILLE&lt;/s4&gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T160924Z" creationid="Nerea" creationdate="20230526T160924Z">
@@ -729,8 +745,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Pour sa cinquième édition,&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;Vogue Experience&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; convie toute la communauté Vogue à deux journées exclusives mêlant masterclass et ateliers autour de grandes marques de mode, beauté et lifestyle.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230525T153243Z" creationid="USUARIO" creationdate="20230525T151221Z">
-        <seg>POR&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;MARIE LÉGER&lt;/a3&gt;Para su quinta edición, belleza y estilo de vida.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161314Z" creationid="USUARIO" creationdate="20230525T151221Z">
+        <seg>Para su quinta edición, Vogue Experience invita a toda la comunidad Vogue a dos días exclusivos de masterclasses y talleres sobre grandes marcas de moda, belleza y estilo de vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -755,6 +771,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174758Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>Cuidado de la piel, maquillaje, estilismos de moda, masterclass, coaching deportivo, animación de fotos, todo en los ojos de las redactoras de la revista. La comunidad &lt;i1&gt;Vogue&lt;/i1&gt; está invitada a vivir esta experiencia única, en el sublime lugar de la Galería Joseph, París 4e.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Sûre d’elle et malgré tout déstabilisée par le monde, à commencer par les jeux insensés de son fils, Dorothea fait ainsi appel à Julie, sa voisine de 17 ans incarnée par la captivante&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Elle Fanning&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt;, et&lt;/s6&gt;&lt;a7&gt;&lt;s8&gt; &lt;/s8&gt;&lt;/a7&gt;&lt;a9&gt;&lt;b10&gt;&lt;s11&gt;Greta Gerwig&lt;/s11&gt;&lt;/b10&gt;&lt;/a9&gt;&lt;s12&gt; dans le rôle d'Abbie, une trentenaire à fleur de peau qui vit avec eux, pour influencer Jamie de manière positive et l'aider à s'ouvrir à d’autres regards sur le monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161126Z" creationid="Nerea" creationdate="20230526T161126Z">
+        <seg>Dorothea, segura de sí misma pero desconcertada por el mundo, empezando por los alocados juegos de su hijo, consigue la ayuda de Julie, su vecina de 17 años interpretada por la cautivadora Elle Fanning, y de Greta Gerwig en el papel de Abbie, una treintañera nerviosa que vive con ellos, para influir positivamente en Jamie y ayudarle a abrirse a otras formas de ver el mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2687,8 +2711,8 @@
       <tuv lang="fr">
         <seg>La cinquième édition de Vogue Experience les 12 et 13 mai 2023</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>No creo que la ciudad lo supiera.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161414Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La quinta edición de Vogue Experience los días 12 y 13 de mayo de 2023.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3462,6 +3486,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Passé quelque peu inaperçu à sa sortie en France en 2017, le film &lt;i0&gt;20th Century Women&lt;/i0&gt; de Mike Mills regorge d'enseignements autant que de poésies nous éclairant sur le monde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161221Z" creationid="Nerea" creationdate="20230526T161221Z">
+        <seg>Pasó algo desapercibida cuando se estrenó en Francia en 2017, 20th Century Women, de Mike Mills, está llena de lecciones tanto como de poemas que nos iluminan sobre el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Passé quelque peu inaperçu à sa sortie en France en 2017, le film &lt;e0&gt;20th Century Women&lt;/e0&gt; de Mike Mills regorge d'enseignements autant que de poésies nous éclairant sur le monde.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185534Z" creationid="laura" creationdate="20230525T185534Z">
@@ -3606,9 +3638,25 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Quand Abbie, atteinte d’un cancer du col de l’utérus, attend les retours de son opération, c’est lui qui l’accompagne à l’hôpital, qui patiente avec elle et qui repart à ses côtés après qu’elle ait appris qu’elle ne pourra probablement jamais avoir d’enfant car son corps a été trop endommagé.&lt;/s17&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161138Z" creationid="Nerea" creationdate="20230526T161138Z">
+        <seg>Cuando Abbie, enferma de cáncer de cuello de útero, espera los resultados de su operación, él la acompaña al hospital, espera con ella y luego se va de su lado cuando se entera de que probablemente nunca podrá tener hijos porque su cuerpo está demasiado dañado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Quand Julie lui parle à cœur ouvert de ses règles, du consentement et des expériences de sa liberté sexuelle, Jamie se retrouve à l’écouter et en vient naturellement à l’épauler.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
+        <seg>Cuando Julie le habla abiertamente de su menstruación, su consentimiento y sus experiencias de libertad sexual, Jamie se encuentra escuchándola y, naturalmente, se acerca para apoyarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Quand Julie lui parle à cœur ouvert de ses règles, du&lt;/s12&gt;&lt;a13&gt;&lt;s14&gt; &lt;/s14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;s16&gt;consentement&lt;/s16&gt;&lt;/a15&gt;&lt;s17&gt; et des expériences de sa liberté sexuelle, Jamie se retrouve à l’écouter et en vient naturellement à l’épauler.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161136Z" creationid="Nerea" creationdate="20230526T161136Z">
         <seg>Cuando Julie le habla abiertamente de su menstruación, su consentimiento y sus experiencias de libertad sexual, Jamie se encuentra escuchándola y, naturalmente, se acerca para apoyarla.</seg>
       </tuv>
     </tu>
@@ -3873,6 +3921,14 @@
         <seg>Soit une énième bonne raison de découvrir son œuvre 20th Century Women</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
+        <seg>Otra buena razón para descubrir su obra 20th Century Women.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Soit une énième bonne raison de découvrir son œuvre 20th Century Women.&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T161212Z" creationid="Nerea" creationdate="20230526T161212Z">
         <seg>Otra buena razón para descubrir su obra 20th Century Women.</seg>
       </tuv>
     </tu>
@@ -4407,22 +4463,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/culture/article/ita-obrien-interview-coordinatrice-intimite-cinema-series-sex-education-normal-people</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>• Yo diría que Italia es el matrimonio más conmovedor para mí, porque es el que más se ha preparado.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/culture/article/les-5-livres-feministes-quil-faut-avoir-lus-dans-sa-vie</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es • Esto es increíble."</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/culture/article/rihanna-documentaire-amazon-prime-video</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4456,14 +4496,6 @@
     <tu>
       <tuv lang="fr">
         <seg>https://www.vogue.fr/dossier/eyeliner</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/dossier/vogue-experience</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
@@ -4531,14 +4563,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/journaliste/marthe-mabille</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es es</seg>
       </tuv>
     </tu>
     <tu>
