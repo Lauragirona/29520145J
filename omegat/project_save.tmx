@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;La carrière de &lt;b1&gt;Karl Lagerfeld&lt;/b1&gt; s'est étendue sur plus d'un demi-siècle, et pendant la majeure partie de cette période, il a porté exactement la même chose : des chemises blanches à col montant, des gants noirs, une multitude de bijoux, une &lt;/s0&gt;&lt;a2&gt;&lt;s3&gt;queue de cheval&lt;/s3&gt;&lt;/a2&gt;&lt;s4&gt; à la &lt;b5&gt;Mozart&lt;/b5&gt; et des lunettes noires de jais (la plupart du temps &lt;b6&gt;Chanel&lt;/b6&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T105258Z" creationid="Nerea" creationdate="20230526T105258Z">
+        <seg>La carrera de Karl Lagerfeld se ha extendido en más de medio siglo, y durante la mayor parte de este periodo, el ha llevado exactamente la misma cosa: camisas blancas a montones, guantes negros, gran cantidad de joyas, una cola de caballo a lo Mozart y gafas negro azabache (la mayor parte del tiempo de Chanel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;Le mot d’ordre du numéro d’avril 2023 de Vogue France.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
@@ -1382,6 +1390,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T151111Z" creationid="halimahamada" creationdate="20230525T151111Z">
         <seg>El viernes pasado aparecieron las primaras imágenes con Travis Barker en Portofino .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Cela ne veut pas dire que le look achromatique de &lt;b7&gt;Karl Lagerfeld&lt;/b7&gt; n'était pas en résonance avec les pièces qu'il allait créer ; la palette noire et blanche est une caractéristique de la maison &lt;/s4&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Chanel&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T105318Z" creationid="Nerea" creationdate="20230526T105318Z">
+        <seg>Eso no quiere decir que el look acromático de Karl Lagerfeld no estaba en resonancia con las piezas que él había creado; la paleta negra y blanca es una característica de la casa Chanel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2718,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
         <seg>El champú en seco de Klorane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Le tailleur en tweed du “Kaiser de la mode” (d'après celui de &lt;/s11&gt;&lt;a12&gt;&lt;b13&gt;&lt;s14&gt;Gabrielle Chanel&lt;/s14&gt;&lt;/b13&gt;&lt;/a12&gt;&lt;s15&gt;) est devenu un symbole de statut social et de style.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Nerea" changedate="20230526T105326Z" creationid="Nerea" creationdate="20230526T105326Z">
+        <seg>El taller en tweed de “Kaiser de la mode” (después de la de Gabrielle Chanel) se ha convertido en un símbolo de estatus social y de estilo.</seg>
       </tuv>
     </tu>
     <tu>
