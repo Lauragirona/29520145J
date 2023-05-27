@@ -1114,6 +1114,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Les Plus Lus&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230527T001810Z" creationid="halimahamada" creationdate="20230527T001810Z">
+        <seg>Foto: Norman &amp; Blake es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Les jours suivants ont été marqués par une véritable frénésie médiatique : magazines, journaux, blogs et utilisateurs de Twitter ont couvert les moindres faits et gestes de la famille, qu'il s'agisse de leurs sorties &lt;i4&gt;gelato&lt;/i4&gt;, de leurs déjeuners sur le yacht ou de leurs dîners au square.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T223206Z" creationid="halimahamada" creationdate="20230525T151122Z">
@@ -2350,8 +2358,8 @@
       <tuv lang="fr">
         <seg>Ils étaient tous si parfaitement imparfaits.&lt;/s3&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T225542Z" creationid="halimahamada" creationdate="20230525T225542Z">
-        <seg>Todo fue perfectamente imperfecto.&lt;/s3&gt;</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230527T001745Z" creationid="halimahamada" creationdate="20230525T225542Z">
+        <seg>Todo fue perfectamente imperfecto.</seg>
       </tuv>
     </tu>
     <tu>
