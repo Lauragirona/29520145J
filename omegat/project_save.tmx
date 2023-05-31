@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1757,8 +1757,8 @@
       <tuv lang="fr">
         <seg>C’est donc sans surprise que les jeunes tourtereaux ont été présentés par des amis communs.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>"Me propuso matrimonio en la hora dorada, fue un momento mágico".</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161202Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Por lo tanto no es sorpresa que los jóvenes tórtolos hayan sido presentados por amigos comunes ".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,8 +2894,8 @@
       <tuv lang="fr">
         <seg>La créatrice et mannequin de 24 ans, qui est également la fille cadette de la légende du R&amp;B &lt;s0&gt;&lt;a1&gt;Lionel Richie&lt;/a1&gt;&lt;/s0&gt;, s’est fiancée à &lt;s2&gt;Elliot Grainge&lt;/s2&gt;, le fondateur du label de musique &lt;s3&gt;10K Projects&lt;/s3&gt;, en avril 2022.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T160613Z" creationid="laura" creationdate="20230525T160613Z">
-        <seg> La créatrice et mannequin de 24 ans, qui est également la fille cadette de la légende du R&amp;B &lt;s0&gt;&lt;a1&gt;Lionel Richie&lt;/a1&gt;&lt;/s0&gt;, s’est fiancée à &lt;s2&gt;Elliot Grainge&lt;/s2&gt;, le fondateur du label de musique &lt;s3&gt;10K Projects&lt;/s3&gt;, en avril 2022.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T160715Z" creationid="laura" creationdate="20230525T160613Z">
+        <seg>La diseñadora y modelo de 24 años, que también es la hija menor de la leyenda del R&amp;B Lionel Richie, se comprometió a Elliot Grainge, el fundador del sello de música 10K Project, abril 2022.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3126,8 +3126,8 @@
       <tuv lang="fr">
         <seg>Les familles Richie et Grainge sont amies depuis plus de 20 ans, car &lt;s4&gt;Lionel Richie&lt;/s4&gt; collabore fréquemment avec le père d'&lt;s5&gt;Elliot Grainge&lt;/s5&gt;, président-directeur général d'Universal Music Group, &lt;s6&gt;Sir Lucian Grainge&lt;/s6&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230524T120530Z" creationid="laura" creationdate="20230524T120530Z">
-        <seg>"Elliot me había hecho la sorpresa al invitar a todos nuestros mejores amigos para una estancia en Hawaii en abril 2022", recuerda Sofía Richie.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T160928Z" creationid="laura" creationdate="20230524T120530Z">
+        <seg>Las familias Richie y Grainge son amigos desde hace 20 años,- ya que Lionel Richie colabora frecuentemente con el padre de Elliot Grainge, presidente y director general de Universal Music Group, el señor Lucian Grainge..</seg>
       </tuv>
     </tu>
     <tu>
@@ -4087,8 +4087,8 @@
       <tuv lang="fr">
         <seg>Sofia Richie et Elliot Grainge se sont mariés dans le sud de la France</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>A partir de ahí comenzaron los preparativos para la boda.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161247Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Sofia Richie y Elliot Grainge se han casado en el sur de Francia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5162,14 +5162,6 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T181636Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/inspirations/diaporama/pe2017-sofia-richie-lionel-yeezy-season-4-girlfriend-justin-bieber-new-york/36758</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>La diseñadora y modelo de 24 años, que también es la hija menor de la leyenda del R&amp;B Lionel Richie se comprometió con Elliot Grainge, fundador de la discográfica 10K Projects, en abril de 2022.&lt;s0&gt;  &lt;/s0&gt;Las familias Richie y Grainge son amigas desde hace más de 20 años, ya que Lionel Richie colabora con frecuencia con el padre de Elliot Grainge, director general de Universal Music Group, Sir Lucian Grainge.</seg>
       </tuv>
     </tu>
     <tu>
