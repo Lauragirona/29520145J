@@ -441,8 +441,8 @@
       <tuv lang="fr">
         <seg>&lt;e5&gt;“Dès mes premiers essayages dans les salons Chanel à Paris, j’ai eu une idée très précise de ce que je voulais : une magnifique robe dos nu brodée de dentelle avec une longue traîne.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185406Z" creationid="laura" creationdate="20230525T185406Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161901Z" creationid="laura" creationdate="20230525T185406Z">
+        <seg>"Desde mis primeras pruebas en los salones Chanel de París, tuve una idea muy precisa de lo que quería: un magnífico vestido espalda descubierta bordado de encaje con una larga</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,8 +465,8 @@
       <tuv lang="fr">
         <seg>&lt;e5&gt;“Toutes les perles ont été ajoutées à la main”&lt;/e5&gt;, explique &lt;s6&gt;Sofia Richie&lt;/s6&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185415Z" creationid="laura" creationdate="20230525T185415Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162034Z" creationid="laura" creationdate="20230525T185415Z">
+        <seg>"Todas las joyas fueron añadidas a mano", explica Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2198,8 +2198,8 @@
       <tuv lang="fr">
         <seg>Elliot Grainge a demandé Sofia Richie en fiançailles à Hawaï</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161755Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Elliot Grainge pidió a Sofía Richie que se comprometiera en Hawaii</seg>
       </tuv>
     </tu>
     <tu>
@@ -3767,16 +3767,16 @@
       <tuv lang="fr">
         <seg>Pour le look du dîner de répétition, l'équipe s'est efforcée de recréer une robe portée par &lt;s4&gt;Stella Tennant&lt;/s4&gt; lors du défilé Chanel automne 1997.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185413Z" creationid="laura" creationdate="20230525T185413Z">
-        <seg>es Sofia Richie llevaba tres vestidos de novia hechos por Chanel</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162012Z" creationid="laura" creationdate="20230525T185413Z">
+        <seg>Para el aspecto de la cena de ensayo, el equipo se esforzó por recrear un vestido usado por Stella Tennant durante el desfile Chanel otoño 1997.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>Pour les deux autres looks, &lt;s0&gt;Sofia Richie&lt;/s0&gt; a collaboré étroitement avec sa styliste, &lt;s1&gt;Liat Baruch&lt;/s1&gt;, et &lt;s2&gt;Olivia Douchez&lt;/s2&gt; pour parcourir les défilés haute couture &lt;s3&gt;Chanel&lt;/s3&gt; du passé et sélectionner des références.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185411Z" creationid="laura" creationdate="20230525T185411Z">
-        <seg>"Era tan especial llevar su creación en el momento más importante de mi vida", afirma Sofía Richie.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161949Z" creationid="laura" creationdate="20230525T185411Z">
+        <seg>Para los otros dos looks, Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia Douchez para recorrer los desfiles de alta costura Chanel del pasado y seleccionar referencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4622,14 +4622,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/chanel-haute-couture-et-parfums-de-luxe-la-franaise/20583</seg>
-      </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T161553Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/dior-gant-du-luxe/20590</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4826,14 +4818,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/galerie/mariage-sofia-richie-elliott-grainge-coulisses-essayage-robes-mariee-chanel</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Para los otros dos looks, Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia Ducha para recorrer los desfiles de alta costura Chanel del pasado y seleccionar referencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5130,14 +5114,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Causse es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/galerie/vogue-rend-hommage-a-la-carriere-exceptionnelle-de-karl-lagerfeld</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Todas las demás joyas de la novia estaban firmadas por Fred Leighton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5440,8 +5416,8 @@
       <tuv lang="fr">
         <seg>“&lt;e3&gt;J’ai toujours rêvé d’avoir une robe de mariée dessinée par Chanel”&lt;/e3&gt;, affirme &lt;s4&gt;Sofia Richie&lt;/s4&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185403Z" creationid="laura" creationdate="20230525T185403Z">
-        <seg>"Todas las perlas se han añadido a mano", explica Sofia Richie.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161843Z" creationid="laura" creationdate="20230525T185403Z">
+        <seg>"Siempre he querido tener un vestido de novia diseñado por Chanel", afirma Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
