@@ -409,8 +409,8 @@
       <tuv lang="fr">
         <seg>&lt;e4&gt;“Je leur ai demandé parce qu’ils étaient de la famille, évidemment”&lt;/e4&gt;, dit-elle en faisant référence au mari de &lt;s5&gt;Nicole Richie&lt;/s5&gt;, &lt;s6&gt;Joel Madden&lt;/s6&gt;, le chanteur du groupe.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T154001Z" creationid="laura" creationdate="20230531T154001Z">
-        <seg>"Elliot era un gran fan de Good Charlotte cuando era adolescente, y hoy es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T183247Z" creationid="laura" creationdate="20230531T154001Z">
+        <seg>"Les pregunté porque eran de la familia, obviamente", dijo refiriéndose al marido de Nicole Richie, Joel Madden, el cantante de la banda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1387,6 +1387,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Article initialement publié sur &lt;a0&gt;vogue.com&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T183434Z" creationid="laura" creationdate="20230531T183434Z">
+        <seg>Artículo inicialmente publicado por &lt;a0&gt;vogue.com&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Au cours de cette odyssée pleine d'esprit et qui a tout d’un coming of age movie, le cinéaste Mike Mills égraine même quelques recommandations de livres essentiels à l’éveil féministe, dont l’anthologie Sisterhood is Powerful(La sororité, c'est le pouvoir en français) ou le classique Our Bodies, Ourselves(Notre corps, nousmêmes), qu’il adresse à son personnage autant qu’à son spectateur.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -2316,6 +2324,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Et surtout, on avait vraiment l'impression d'être en famille, ce qui est exactement ce que nous voulions pour notre mariage.”&lt;/e7&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T183353Z" creationid="laura" creationdate="20230531T183353Z">
+        <seg>Y lo más importante, nos sentimos como en familia, que es exactamente lo que queríamos para nuestro matrimonio."&lt;/e7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Et une icône est née.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120356Z" creationid="USUARIO" creationdate="20230524T120356Z">
@@ -3038,8 +3054,8 @@
       <tuv lang="fr">
         <seg>Le mariage s'est déroulé dans la tradition juive</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T183203Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>El matrimonio se desarrolló en la tradición judía</seg>
       </tuv>
     </tu>
     <tu>
@@ -3927,8 +3943,8 @@
       <tuv lang="fr">
         <seg>Quoi qu'il en soit, ils n'avaient pas donné de concert depuis cinq ans, et ils ont fait venir leur groupe de Nashville et de Los Angeles.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>&lt;s0&gt;Joel y Elliot son como hermanos. &lt;/s0&gt;&lt;s1&gt;De todos modos, no habían dado un concierto en cinco &lt;/s1&gt;&lt;s2&gt;años, y trajeron a su grupo desde Nashville y Los Ángeles.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T183317Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>De todos modos, no habían dado un concierto en cinco &lt;/s1&gt;&lt;s2&gt;años, y trajeron a su grupo desde Nashville y Los Ángeles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4264,8 +4280,8 @@
       <tuv lang="fr">
         <seg>Traduction par Sarah Mandois</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T183415Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Traducción hecha por Sarah Mandois</seg>
       </tuv>
     </tu>
     <tu>
@@ -4518,14 +4534,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.com/slideshow/sofia-richie-and-elliot-grainge-wedding</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Traducción por Sarah Mandois</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/#intcid=_vogue-fr-right-rail_d0311b1c-2df2-435b-802d-f8c1de865584_popular4-1</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4554,14 +4562,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Tantas marcas que se esconden detrás del conocido uniforme de Karl Lagerfeld.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/article/mariage-catalina-quintana-robe-mariee-carolina-herrera-upcycling</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
@@ -4954,14 +4954,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>En Chanel y vestidos de novia Kaviar Gauche, Julia Haghjoo vivió la boda de sus soñadosen el Somerset</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mariage/galerie/vrai-mariage-hannah-thomas-sud-france-robe-mariee-vivienne-westwood</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Encontrar también en Vogue.fr:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,8 +5400,8 @@
       <tuv lang="fr">
         <seg>“&lt;e7&gt;Elliot était un grand fan de Good Charlotte quand il était ado, et aujourd’hui Joel et Elliot sont comme des frères.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T154054Z" creationid="laura" creationdate="20230531T154054Z">
-        <seg>es es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T183305Z" creationid="laura" creationdate="20230531T154054Z">
+        <seg>Elliot era un gran fan de Good Charlotte cuando era adolescente, y hoy Joel y Elliot son como hermanos.</seg>
       </tuv>
     </tu>
     <tu>
