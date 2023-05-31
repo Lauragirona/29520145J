@@ -2356,6 +2356,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Il a fait de même avec &lt;/s15&gt;&lt;a16&gt;&lt;b17&gt;&lt;s18&gt;Fendi&lt;/s18&gt;&lt;/b17&gt;&lt;/a16&gt;&lt;s19&gt;, &lt;b20&gt;Chloé&lt;/b20&gt;, &lt;/s19&gt;&lt;a21&gt;&lt;b22&gt;&lt;s23&gt;Patou&lt;/s23&gt;&lt;/b22&gt;&lt;/a21&gt;&lt;s24&gt;, &lt;b25&gt;Balmain&lt;/b25&gt; et sa propre marque éponyme.&lt;/s24&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230531T155224Z" creationid="USUARIO" creationdate="20230531T155224Z">
+        <seg>Ha hecho lo mismo con &lt;/s15&gt;&lt;a16&gt;&lt;b17&gt;&lt;s18&gt;Fendi&lt;/s18&gt;&lt;/b17&gt;&lt;/a16&gt;&lt;s19&gt;, &lt;b20&gt;Chloé&lt;/b20&gt;, &lt;/s19&gt;&lt;a21&gt;&lt;b22&gt;&lt;s23&gt;Patou&lt;/s23&gt;&lt;/b22&gt;&lt;/a21&gt;&lt;s24&gt;, &lt;b25&gt;Balmain&lt;/b25&gt; y su propia marca éponyme.&lt;/s24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Il a fait de même avec Fendi, Chloé, Patou, Balmain et sa propre marque éponyme.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T113304Z" creationid="OmegaT Aligner" creationdate="20230525T113304Z">
