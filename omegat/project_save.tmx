@@ -431,6 +431,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;e4&gt;“Un conseil que j'ai reçu et que j'ai gardé tout au long du week-end était de regarder autour et d'apprécier tout l'amour qui nous entourait, car il est si rare de pouvoir profiter de tous ses proches réunis en un seul endroit.”&lt;/e4&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T154113Z" creationid="laura" creationdate="20230531T154113Z">
+        <seg>"Un consejo que he recibido y he mantenido durante todo el fin de semana era mirar alrededor y disfrutar todo el amor que nos rodeaba, porque es tan raro poder disfrutar de todos los seres queridos reunidos en uno lugar."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;e5&gt;“Dès mes premiers essayages dans les salons Chanel à Paris, j’ai eu une idée très précise de ce que je voulais : une magnifique robe dos nu brodée de dentelle avec une longue traîne.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185406Z" creationid="laura" creationdate="20230525T185406Z">
@@ -1511,6 +1519,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153136Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Todavía estaba bastante tranquilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C'était génial !”&lt;/e2&gt; Pour &lt;s3&gt;Sofia Richie&lt;/s3&gt;, c’était aussi le symbole ultime pour conclure les célébrations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T154102Z" creationid="laura" creationdate="20230531T154102Z">
+        <seg>Fue genial!" Para Sofia Richie, también fue el símbolo definitivo para concluir las celebraciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5310,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>“&lt;e0&gt;Nous avons débriefé de la soirée et commandé de grosses assiettes de pâtes ainsi que tous les plats français possibles et imaginables”&lt;/e0&gt;, raconte &lt;s1&gt;Sofia Richie&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T154056Z" creationid="laura" creationdate="20230531T154056Z">
+        <seg>"Nos reunimos para la noche y pedimos grandes platos de pasta, así como todos los platos franceses posibles e imaginables", cuenta Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>“&lt;e0&gt;Nous sommes entrées au paradis du glamour”&lt;/e0&gt;, raconte &lt;s1&gt;Sofia Richie&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185710Z" creationid="laura" creationdate="20230525T185710Z">
@@ -5378,6 +5402,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185738Z" creationid="laura" creationdate="20230525T185738Z">
         <seg>"Mi padre siempre fue una gran fuente de consuelo y me permitió mantener los pies en la tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;e2&gt;Nous avons discuté jusqu'au matin.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T154059Z" creationid="laura" creationdate="20230531T154059Z">
+        <seg>"Hablamos hasta la mañana.</seg>
       </tuv>
     </tu>
     <tu>
