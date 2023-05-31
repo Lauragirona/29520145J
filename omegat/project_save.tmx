@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4576,8 +4576,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/beaute/article/changement-coiffure-coupes-cheveux-stars</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es &lt;s0&gt;La película 20th Century Women, de Mike Mills, pasó un poco desapercibida cuando se estrenó en Francia en 2017, repleta de enseñanzas y poesías sobre el mundo.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230531T154643Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4736,8 +4736,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/culture/article/ita-obrien-interview-coordinatrice-intimite-cinema-series-sex-education-normal-people</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>• Yo diría que Italia es el matrimonio más conmovedor para mí, porque es el que más se ha preparado.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230531T154739Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4928,8 +4928,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/mariage/article/kourtney-kardashian-mini-robe-mariee-sexy-mariage-civil-travis-barker</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Aunque la sociedad hetero quisiera hacernos creer que vive sola en ausencia de un marido, pronto nos damos cuenta de que el término no corresponde a la vida cotidiana de nuestro protagonista.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230531T154701Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
