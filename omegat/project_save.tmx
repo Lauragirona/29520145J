@@ -401,8 +401,8 @@
       <tuv lang="fr">
         <seg>&lt;e3&gt;“Légalement, nous devions d’abord nous marier aux États-Unis, donc avant notre départ pour la France, nous nous sommes mariés auprès de nos parents.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T153620Z" creationid="laura" creationdate="20230531T153620Z">
-        <seg>"Legalmente, íbamos a casarnos en los Estados Unidos, así que antes de irnos a Francia, estamos casados con nuestros parenIntercambiamos nuestros votos en ese momento porque era Algo muy íntimo que queríamos compartir con nuestras familias, como parte de nuestra casa."&lt;o3&gt;&lt;/o3&gt;&lt;/s2&gt;</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182837Z" creationid="laura" creationdate="20230531T153620Z">
+        <seg>"Legalmente, teníamos que casarnos primero en los Estados Unidos, así que antes de irnos a Francia, nos casamos con nuestros padres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -505,8 +505,8 @@
       <tuv lang="fr">
         <seg>&lt;e7&gt;“Non seulement ça, mais on a fait la fête avec lui toute la nuit !”&lt;/e7&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T153600Z" creationid="laura" creationdate="20230531T153600Z">
-        <seg>", recuerda Sofía Richie, que estaba en shock.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182715Z" creationid="laura" creationdate="20230531T153600Z">
+        <seg>"¡No sólo eso, sino que estuvimos de fiesta con él toda la noche!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,8 +3062,8 @@
       <tuv lang="fr">
         <seg>Le rabbin &lt;s0&gt;Thomas Solomon&lt;/s0&gt; a célébré un mariage juif traditionnel qui rendait hommage au cadre emblématique de l'Hôtel du Cap.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T153555Z" creationid="laura" creationdate="20230531T153555Z">
-        <seg>"No &lt;/s0&gt;&lt;s1&gt;Sólo eso, pero estuvimos de fiesta con él toda la noche!" &lt;/s1&gt;&lt;s2&gt;Sofía Richie bajó por el pasillo del brazo de su padre El rabino Thomas Solomon celebró una boda judía tradicional que rinde homenaje al marco emblemática del Hotel de Ciudad del Cabo.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182757Z" creationid="laura" creationdate="20230531T153555Z">
+        <seg> &lt;/s0&gt;El rabino Thomas Solomon celebró una boda judía tradicional que rinde homenaje al marco emblemática del Hotel de Ciudad del Cabo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3271,8 +3271,8 @@
       <tuv lang="fr">
         <seg>Mais en me rapprochant, je me suis dit 'mais attends c'est carrément le vrai Stephen Sanchez ?!'&lt;/e4&gt;”, se souvient &lt;s5&gt;Sofia Richie&lt;/s5&gt;, qui était sous le choc.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T153530Z" creationid="laura" creationdate="20230531T153530Z">
-        <seg>Cuando escuché las letras con mi nombre, la atención me ha conmovido mucho.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182622Z" creationid="laura" creationdate="20230531T153530Z">
+        <seg>Pero cuando me acerqué, pensé: '¡Espera, es el verdadero Stephen Sánchez!", recuerda Sofía Richie, que estaba en shock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4087,8 +4087,8 @@
       <tuv lang="fr">
         <seg>Sofia Richie a descendu l'allée au bras de son père</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>"Fue surrealista, este regalo de boda es tan considerado por parte de Elliot", continúa.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182734Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Sofía Richie bajó por el pasillo del brazo de su padre</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,8 +5408,8 @@
       <tuv lang="fr">
         <seg>“&lt;e6&gt;C’était surréaliste, ce cadeau de mariage est tellement attentionné de la part d’Elliot”&lt;/e6&gt;, continue-t-elle.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T153557Z" creationid="laura" creationdate="20230531T153557Z">
-        <seg>Pero cuando me acerqué, pensé, 'pero espera ¡Es el verdadero Stephen Sánchez!</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182650Z" creationid="laura" creationdate="20230531T153557Z">
+        <seg>Era surrealista, este regalo de boda es tan considerado por parte de Elliot", continúa.</seg>
       </tuv>
     </tu>
     <tu>
