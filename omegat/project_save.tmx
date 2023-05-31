@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;e4&gt;“Je leur ai demandé parce qu’ils étaient de la famille, évidemment”&lt;/e4&gt;, dit-elle en faisant référence au mari de &lt;s5&gt;Nicole Richie&lt;/s5&gt;, &lt;s6&gt;Joel Madden&lt;/s6&gt;, le chanteur du groupe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T154001Z" creationid="laura" creationdate="20230531T154001Z">
+        <seg>"Elliot era un gran fan de Good Charlotte cuando era adolescente, y hoy es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;e4&gt;“Le maquillage était très simple pour un effet peau nette tout au long du week-end”,&lt;/e4&gt; explique la jeune mariée.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185713Z" creationid="laura" creationdate="20230525T185713Z">
@@ -427,6 +435,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185406Z" creationid="laura" creationdate="20230525T185406Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e5&gt;“Nous avions tout chronométré.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153933Z" creationid="laura" creationdate="20230531T153933Z">
+        <seg>"Lo habíamos cronometrado todo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1735,6 +1751,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Fue tan conmovedor, tengo tanta suerte de tener mis padres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>C’était un si beau moment, je n’en reviens toujours pas !”&lt;/e3&gt; Après le dîner, &lt;s4&gt;Sofia Richie&lt;/s4&gt; a troqué sa tenue pour un look &lt;s5&gt;Chanel&lt;/s5&gt; inspiré de &lt;s6&gt;&lt;a7&gt;Claudia Schiffer&lt;/a7&gt;&lt;/s6&gt;&lt;a8&gt;,&lt;/a8&gt; à la fois fun et ravissant.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153936Z" creationid="laura" creationdate="20230531T153936Z">
+        <seg>Fue un momento tan hermoso, ¡todavía no puedo creerlo!" Después de la cena, Sofia Richie cambió su atuendo por un look Chanel inspirado en Claudia Schiffer, a la vez divertido y encantador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3145,6 +3169,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120431Z" creationid="USUARIO" creationdate="20230524T120431Z">
         <seg>Feminismo y controversia Allí está toda la paradoja de Barbie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>L’&lt;e0&gt;after-party&lt;/e0&gt;, qui avait des allures de club, a été ponctuée d’un concert du groupe &lt;s1&gt;Good Charlotte&lt;/s1&gt;, que &lt;s2&gt;Sofia Richie&lt;/s2&gt; et &lt;s3&gt;Elliot Grainge&lt;/s3&gt; ont beaucoup écouté dans leur jeunesse.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153955Z" creationid="laura" creationdate="20230531T153955Z">
+        <seg>La fiesta después de la fiesta, que parecía un club, estuvo marcada por un concierto de la banda Good Charlotte, que Sofía Richie y Elliot Grainge escucharon mucho en su juventud. "Les pregunté porque eran de la familia, evidentemente", dice refiriéndose al marido de Nicole Richie, Joel Madden, el cantante de la banda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,9 +5326,33 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>“&lt;e10&gt;J’étais prête à danser jusqu’au petit matin !”&lt;/e10&gt; C’est dans cet esprit que le père de la mariée a entonné deux des chansons préférées de sa fille lors du mariage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153942Z" creationid="laura" creationdate="20230531T153942Z">
+        <seg>"Siempre quise tener mi primer baile sobre Stuck on You.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>“&lt;e10&gt;Nous avons ri toute la nuit”&lt;/e10&gt;, avoue-t-elle.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185704Z" creationid="laura" creationdate="20230525T185704Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;e11&gt;J’ai toujours été fan de Hello et de Stuck on You”&lt;/e11&gt;, admet &lt;s12&gt;Sofia Richie&lt;/s12&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153944Z" creationid="laura" creationdate="20230531T153944Z">
+        <seg>"Siempre he sido fan de Hello y de Stuck on You", admite Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;e13&gt;Je rêvais d’avoir ma première danse sur Stuck on You, je l’ai toujours dit. Hello, c’était une surprise et toute l’assemblée a repris en chœur.”&lt;/e13&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153951Z" creationid="laura" creationdate="20230531T153951Z">
         <seg>es</seg>
       </tuv>
     </tu>
@@ -5350,10 +5406,26 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>“&lt;e7&gt;Elliot était un grand fan de Good Charlotte quand il était ado, et aujourd’hui Joel et Elliot sont comme des frères.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T154054Z" creationid="laura" creationdate="20230531T154054Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>“&lt;e7&gt;J’ai toujours rêvé d’être maquillée par elle pour mon mariage”,&lt;/e7&gt; confie &lt;s8&gt;Sofia Richie&lt;/s8&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185718Z" creationid="laura" creationdate="20230525T185718Z">
         <seg>"Siempre soñé con que me maquillara para mi boda", confiesa Sofía Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;e9&gt;Nous avons recréé la robe corset de Claudia Schiffer du début des années 1990”,&lt;/e9&gt; explique-t-elle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153939Z" creationid="laura" creationdate="20230531T153939Z">
+        <seg>"Siempre he sido fan de Hello y Stuck on You", admite Sofía Richie.</seg>
       </tuv>
     </tu>
     <tu>
