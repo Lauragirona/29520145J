@@ -321,8 +321,8 @@
       <tuv lang="fr">
         <seg>&lt;e11&gt;“Le lendemain matin, je me suis réveillée avec toutes mes demoiselles d'honneur et ma sœur, et nous sommes allées à la répétition de 8 heures.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185706Z" creationid="laura" creationdate="20230525T185706Z">
-        <seg>30</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162449Z" creationid="laura" creationdate="20230525T185706Z">
+        <seg>"A la mañana siguiente, me desperté con todas mis damas de honor y mi hermana, y fuimos al ensayo de las ocho. </seg>
       </tuv>
     </tu>
     <tu>
@@ -521,8 +521,8 @@
       <tuv lang="fr">
         <seg>&lt;e8&gt;“Chaque fille a choisi sa propre robe, de YSL à Rodarte.”&lt;/e8&gt; La veille du mariage, &lt;s9&gt;Sofia Richie&lt;/s9&gt; a dormi dans une villa de la propriété en compagnie de ses demoiselles d’honneur.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185702Z" creationid="laura" creationdate="20230525T185702Z">
-        <seg>Sofia Richie: entre bastidores en la prueba de sus tres vestidos de novia Chanel</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162358Z" creationid="laura" creationdate="20230525T185702Z">
+        <seg>"Cada chica eligió su propio vestido, de YSL a Rodarte." La víspera de la boda, Sofia Richie durmió en una villa de la propiedad con sus damas de honor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,8 +2182,8 @@
       <tuv lang="fr">
         <seg>Elles m'ont surprise avec des ballons et avec mon petit-déjeuner préféré.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162519Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Me sorprendieron con globos y mi desayuno favorito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3583,8 +3583,8 @@
       <tuv lang="fr">
         <seg>Nous étions toutes en pyjama, c’était un super moment.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Fotos</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162504Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Estábamos todas en pijama, fue un gran momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5336,8 +5336,8 @@
       <tuv lang="fr">
         <seg>“&lt;e10&gt;Nous avons ri toute la nuit”&lt;/e10&gt;, avoue-t-elle.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185704Z" creationid="laura" creationdate="20230525T185704Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162429Z" creationid="laura" creationdate="20230525T185704Z">
+        <seg>"Nos reímos toda la noche", cuenta ella.</seg>
       </tuv>
     </tu>
     <tu>
