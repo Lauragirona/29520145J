@@ -447,6 +447,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;e5&gt;“Il m'a demandé en mariage à l'heure dorée, c'était un instant magique”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T155743Z" creationid="laura" creationdate="20230531T155743Z">
+        <seg>"Me pidió matrimonio en la hora dorada, fue un momento mágico"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;e5&gt;“Nous avions tout chronométré.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T153933Z" creationid="laura" creationdate="20230531T153933Z">
@@ -4838,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/joaillerie/article/spotted-nicole-richie-boucles-oreilles-kate-moss-messika</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T155551Z" creationid="laura" creationdate="20230531T155551Z">
+        <seg>"Fue un largo trabajo &lt;/s0&gt;&lt;s1&gt;aliento pero nos divertimos mucho", explica la novia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/joaillerie/galerie/asap-rocky-bijoux-extraordinaires</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T175537Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -5288,8 +5304,8 @@
       <tuv lang="fr">
         <seg>À partir de là ont commencé les préparatifs pour le mariage.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T160218Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Apartir de ahí comenzaron los preparativos para la boda.</seg>
       </tuv>
     </tu>
     <tu>
