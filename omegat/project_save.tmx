@@ -313,8 +313,8 @@
       <tuv lang="fr">
         <seg>&lt;e10&gt;“C’était tellement spécial de porter sa création lors du moment le plus important de ma vie”&lt;/e10&gt;, affirme &lt;s11&gt;Sofia Richie&lt;/s11&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185418Z" creationid="laura" creationdate="20230525T185418Z">
-        <seg>"Quería que mis damas de honor se sintieran a gusto, mi única exigencia era que vistieran de negro", explica Sofia Richie.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162112Z" creationid="laura" creationdate="20230525T185418Z">
+        <seg>"Fue tan especial llevar su creación en el momento más importante de mi vida", dijo Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,8 +361,8 @@
       <tuv lang="fr">
         <seg>&lt;e2&gt;“Lors de la réception, je portais des boucles d'oreilles en diamants de Kwiat, la société mère de Fred Leighton, et pour la fête, mes boucles d'oreilles chandelier Fred Leighton en aigue-marine ont ajouté une touche de bleu bienvenue.”&lt;/e2&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185430Z" creationid="laura" creationdate="20230525T185430Z">
-        <seg>"A la mañana siguiente me desperté con todas mis damas de honor y mi hermana, y fuimos al ensayo de las 8:00.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162204Z" creationid="laura" creationdate="20230525T185430Z">
+        <seg>"En la recepción, llevaba pendientes de diamantes de Kwiat, la empresa matriz de Fred Leighton, y para la fiesta, mis pendientes de vela Fred Leighton en aguamarina agregaron un toque de azul bienvenido."</seg>
       </tuv>
     </tu>
     <tu>
@@ -489,8 +489,8 @@
       <tuv lang="fr">
         <seg>&lt;e6&gt;“Je voulais que mes demoiselles d’honneur se sentent à leur aise, ma seule exigence était qu’elles portent du noir”&lt;/e6&gt;, explique &lt;s7&gt;Sofia Richie&lt;/s7&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185700Z" creationid="laura" creationdate="20230525T185700Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162334Z" creationid="laura" creationdate="20230525T185700Z">
+        <seg>"Quería que mis damas de honor se sintieran a gusto, mi única exigencia era que vistieran de negro", explica Sofia Richie</seg>
       </tuv>
     </tu>
     <tu>
@@ -713,8 +713,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Elliot Grainge&lt;/s0&gt; portait un costume &lt;s1&gt;&lt;a2&gt;Ralph Lauren&lt;/a2&gt;&lt;/s1&gt; lors du dîner de répétition et un smoking &lt;s3&gt;&lt;a4&gt;Tom Ford&lt;/a4&gt;&lt;/s3&gt; le jour du mariage, tandis que les sept &lt;a5&gt;demoiselles d'honneur&lt;/a5&gt; étaient entièrement vêtues de noir.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185658Z" creationid="laura" creationdate="20230525T185658Z">
-        <seg>Ya no estábamos parados, verdaderas niñas!"</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162310Z" creationid="laura" creationdate="20230525T185658Z">
+        <seg>Elliot Grainge vestía un traje &lt;s1&gt;&lt;a2&gt;de Ralph Lauren en la cena de ensayo y un esmoquin Tom Ford el día de la boda, mientras que las siete damas de honor estaban completamente vestidas de negro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4199,8 +4199,8 @@
       <tuv lang="fr">
         <seg>Tous les autres bijoux de la mariée étaient signés &lt;s0&gt;Fred Leighton&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185422Z" creationid="laura" creationdate="20230525T185422Z">
-        <seg>Todas las demás joyas de la novia estaban firmadas Fred Leighton.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162120Z" creationid="laura" creationdate="20230525T185422Z">
+        <seg>Todas las demás joyas de la novia estaban firmadas por Fred Leighton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,14 +4974,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/mariage/inspirations/story/ces-looks-de-stars-demoiselles-d-honneur-celebres-a-copier-rihanna-emily-ratajkowski-beyonce/2087</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es favorito.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/article/chaussures-ete-femmes-francaises-mode-essentiels#intcid=_vogue-fr-right-rail_d0311b1c-2df2-435b-802d-f8c1de865584_popular4-1</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -5030,14 +5022,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/article/ralph-lauren-documentaire-very-ralph</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Estábamos todas en pijama, fue un gran momento.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/article/rihanna-asap-rocky-premieres-images-fils</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -5074,14 +5058,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es 7 zapatos de verano que las mujeres francesas nunca dejan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/en-vogue/diaporama/la-saga-tom-ford-en-10-images/7682</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Me sorprendieron con globos y con mi desayuno</seg>
       </tuv>
     </tu>
     <tu>
@@ -5384,8 +5360,8 @@
       <tuv lang="fr">
         <seg>“&lt;e1&gt;J’ai toujours adoré ses créations atemporelles”&lt;/e1&gt;, confie la jeune femme.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185424Z" creationid="laura" creationdate="20230525T185424Z">
-        <seg>"Nosotros nos reímos toda la noche", confiesa.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T162140Z" creationid="laura" creationdate="20230525T185424Z">
+        <seg>"Siempre me han encantado sus creaciones atemporales", dice la joven.</seg>
       </tuv>
     </tu>
     <tu>
