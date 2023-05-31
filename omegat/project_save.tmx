@@ -799,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;PAR&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;CLAIRE BEGHIN&lt;/s4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230531T160256Z" creationid="USUARIO" creationdate="20230531T160256Z">
+        <seg>&lt;/s4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;PAR&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s4&gt;MARIE LÉGER&lt;/s4&gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T161303Z" creationid="Nerea" creationdate="20230526T161303Z">
@@ -4648,8 +4656,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/saint-laurent-ou-la-rvolution-du-vestiaire-fminin/20646</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Adornaba casi cada dedo con un anillo de Chrome Hearts, y estaba probando las gafas de sol y los collares de Chrome Hearts.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230531T155824Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
