@@ -361,8 +361,8 @@
       <tuv lang="fr">
         <seg>&lt;e2&gt;“Je rêvais de rencontrer Stephen Sanchez et j'avais demandé plusieurs fois à mon fiancé d’assister à l'un de ses concerts”&lt;/e2&gt;, explique &lt;s3&gt;Sofia Richie&lt;/s3&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185746Z" creationid="laura" creationdate="20230525T185746Z">
-        <seg>es es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182504Z" creationid="laura" creationdate="20230525T185746Z">
+        <seg>"Soñaba con conocer a Stephen Sánchez y había pedido varias veces a mi prometido que asistiera a uno de sus conciertos", explica Sofia Richie </seg>
       </tuv>
     </tu>
     <tu>
@@ -425,8 +425,8 @@
       <tuv lang="fr">
         <seg>&lt;e4&gt;“Lorsque les wedding planners de chez Banana Split m'ont demandé sur quelle chanson je voulais descendre l'allée, ce morceau s’est présenté comme une évidence.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185948Z" creationid="laura" creationdate="20230525T185948Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182525Z" creationid="laura" creationdate="20230525T185948Z">
+        <seg>"Cuando los Banana Split me preguntaron en qué canción quería ir por el pasillo, esta canción se presentó como algo obvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -857,8 +857,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Sofia Richie&lt;/s0&gt; avait toujours rêvé de descendre l’allée au bras de son père.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185734Z" creationid="laura" creationdate="20230525T185734Z">
-        <seg>Sofia Richie y sus amigas optaron por un look clásico Sofía Richie siempre había soñado con ir por el pasillo al brazo de su padre.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182352Z" creationid="laura" creationdate="20230525T185734Z">
+        <seg>Sofía Richie siempre había soñado con ir por el pasillo al brazo de su padre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3871,8 +3871,8 @@
       <tuv lang="fr">
         <seg>Quand j’ai entendu les paroles avec mon prénom, l’attention m’a beaucoup touchée.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>&lt;s0&gt;caminando por el pasillo, esta pieza se presentó como una evidencia.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182548Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Cuando escuché la letra con mi nombre, me llamó la atención.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4506,14 +4506,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>y Elliot Grainge: es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.instagram.com/stephensanchezofficial/?hl=en</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>"Soñaba con conocer a Stephen Sánchez y Le pedí varias veces a mi prometido que asistiera a uno de sus conciertos", explica Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
