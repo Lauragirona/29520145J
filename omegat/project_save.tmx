@@ -855,6 +855,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;Retrouvez aussi sur Vogue.fr :&lt;/s0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T183522Z" creationid="laura" creationdate="20230531T183522Z">
+        <seg>&lt;s0&gt;&lt;/s0&gt;Encontrar también en Vogue.fr:&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;Sofia Richie&lt;/s0&gt; avait toujours rêvé de descendre l’allée au bras de son père.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T182352Z" creationid="laura" creationdate="20230525T185734Z">
@@ -4946,14 +4954,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>POR MARIE LÉGER Para su quinta edición, Vogue Experience invita a toda la comunidad Vogue a dos días exclusivos que combinan masterclass y talleres en torno a grandes marcas de moda, belleza y estilo de vida.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mariage/galerie/mariage-julia-haghjoo-angleterre-robes-mariee-kaviar-gauche-chanel</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>En Chanel y vestidos de novia Kaviar Gauche, Julia Haghjoo vivió la boda de sus soñadosen el Somerset</seg>
       </tuv>
     </tu>
     <tu>
