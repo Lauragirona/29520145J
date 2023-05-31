@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -307,6 +307,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185530Z" creationid="laura" creationdate="20230525T185530Z">
         <seg>Fue en este coche en el que trajimos a Jamie a casa desde el hospital". El tranquilo silencio de la escena contrasta con el incidente que está teniendo lugar ante los ojos de quienes la contemplan, es decir, nosotros, los espectadores, pero también los personajes de Dorothea Fields y su hijo, Jamie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e0&gt;“Puis, nous avons pris la route de la cérémonie”&lt;/e0&gt;, explique &lt;s1&gt;Sofia Richie&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T182216Z" creationid="laura" creationdate="20230531T182216Z">
+        <seg>"Luego tomamos la ruta de la ceremonia", explica Sofía Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4095,8 +4103,8 @@
       <tuv lang="fr">
         <seg>Sofia Richie et ses amies ont opté pour un look classique</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T182243Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Sofia Richie y sus amigos optaron por un look clásico.</seg>
       </tuv>
     </tu>
     <tu>
