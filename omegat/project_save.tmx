@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82,6 +82,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185251Z" creationid="laura" creationdate="20230525T185251Z">
         <seg>/galería/boda-Sofia-Richie-Elliott-Grainge-backstage-dress-robe-mariee-Chanel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>/journaliste/alexandra-macon</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T183501Z" creationid="OmegaT Aligner" creationdate="20230525T183501Z">
+        <seg>/periodista/alexandra-Macon</seg>
       </tuv>
     </tu>
     <tu>
@@ -319,6 +327,22 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;e1&gt;“C’était crucial pour la famille d'Elliot et pour moi, maintenant que je me suis convertie, que ce soit une cérémonie juive traditionnelle&lt;/e1&gt;”, explique &lt;s2&gt;Sofia Richie&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153543Z" creationid="laura" creationdate="20230531T153543Z">
+        <seg>"Era crucial para la familia de Elliot y para mí, ahora que me convertí, ya sea una ceremonia judía tradicional", explica Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e1&gt;“C’était incroyable”&lt;/e1&gt;, se souvient &lt;s2&gt;Sofia Richie&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153608Z" creationid="laura" creationdate="20230531T153608Z">
+        <seg>"Nosotros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;e1&gt;“Je regardais les demoiselles d'honneur et les garçons d'honneur descendre l'allée les uns après les autres, et plus notre tour approchait, moins j’arrivais à croire que ce moment était bien réel&lt;/e1&gt;”, explique-t-elle.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185737Z" creationid="laura" creationdate="20230525T185737Z">
@@ -343,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;e3&gt;“C’était digne d’une comédie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153616Z" creationid="laura" creationdate="20230531T153616Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;e3&gt;“Elliot m’avait fait la surprise en invitant tous nos meilleurs amis pour un séjour à Hawaï en avril 2022”&lt;/e3&gt;, se souvient &lt;s4&gt;Sofia Richie&lt;/s4&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185644Z" creationid="laura" creationdate="20230525T185644Z">
@@ -355,6 +387,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185733Z" creationid="laura" creationdate="20230525T185733Z">
         <seg>"Nos tomó a cada uno siete minutos y medio para recorrer el pasillo", &lt;/s1&gt;&lt;s2&gt;precisa Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e3&gt;“Légalement, nous devions d’abord nous marier aux États-Unis, donc avant notre départ pour la France, nous nous sommes mariés auprès de nos parents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153620Z" creationid="laura" creationdate="20230531T153620Z">
+        <seg>"Legalmente, íbamos a casarnos en los Estados Unidos, así que antes de irnos a Francia, estamos casados con nuestros parenIntercambiamos nuestros votos en ese momento porque era Algo muy íntimo que queríamos compartir con nuestras familias, como parte de nuestra casa."&lt;o3&gt;&lt;/o3&gt;&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,6 +459,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185700Z" creationid="laura" creationdate="20230525T185700Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e7&gt;“Non seulement ça, mais on a fait la fête avec lui toute la nuit !”&lt;/e7&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153600Z" creationid="laura" creationdate="20230531T153600Z">
+        <seg>", recuerda Sofía Richie, que estaba en shock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1483,6 +1531,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Causse</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Causse En plus de ses bagues Chrome Hearts, Karl Lagerfeld enfilait des gants Causse, marque fondée dans la ville de Millau, dans le sud-ouest de la France, en 1892.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -1591,6 +1647,14 @@
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T113610Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Chanel, Chrome Hearts, Dior Homme... Tantas marcas que se esconden detás del uniforme bien conocido de Karl Lagerfeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Chrome Hearts</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
       </tuv>
     </tu>
     <tu>
@@ -2916,6 +2980,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Le rabbin &lt;s0&gt;Thomas Solomon&lt;/s0&gt; a célébré un mariage juif traditionnel qui rendait hommage au cadre emblématique de l'Hôtel du Cap.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153555Z" creationid="laura" creationdate="20230531T153555Z">
+        <seg>"No &lt;/s0&gt;&lt;s1&gt;Sólo eso, pero estuvimos de fiesta con él toda la noche!" &lt;/s1&gt;&lt;s2&gt;Sofía Richie bajó por el pasillo del brazo de su padre El rabino Thomas Solomon celebró una boda judía tradicional que rinde homenaje al marco emblemática del Hotel de Ciudad del Cabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Le shampooing sec de &lt;/s2&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Klorane&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T160805Z" creationid="Nerea" creationdate="20230526T160805Z">
@@ -2992,6 +3064,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Los invitados bailaron hasta las 3 de la mañana, antes de que los recién casados, junto con sus damas de honor y sus padrinos, se unen a la villa donde todo había comenzado antes en la día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les invités se sont ensuite retrouvés pour le cocktail, le dîner et les discours, sous la houlette de &lt;s0&gt;Nicole Richie&lt;/s0&gt;, la sœur de la mariée, qui a animé toute la soirée.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153605Z" creationid="laura" creationdate="20230531T153605Z">
+        <seg>Los invitados se reunieron luego para el cóctel, la cena y los discursos, bajo la dirección de Nicole Richie, la hermana de la novia, que animó toda la noche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3097,6 +3177,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T155311Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Pero me permitió hacer una pausa y no apresurarme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Mais en me rapprochant, je me suis dit 'mais attends c'est carrément le vrai Stephen Sanchez ?!'&lt;/e4&gt;”, se souvient &lt;s5&gt;Sofia Richie&lt;/s5&gt;, qui était sous le choc.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153530Z" creationid="laura" creationdate="20230531T153530Z">
+        <seg>Cuando escuché las letras con mi nombre, la atención me ha conmovido mucho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3317,6 +3405,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Nous avons eu l'impression que quelqu'un veillait sur nous là-haut, parce que même si la journée était très couverte, les nuages se sont dissipés à cet instant.”&lt;/e5&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153500Z" creationid="laura" creationdate="20230531T153500Z">
+        <seg>Teníamos la impresión de que alguien velaba sobre nosotros allí arriba, porque aunque el día estaba muy cubierto, las nubes se disiparon a este instante."&lt;o3&gt;&lt;/o3&gt;&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Nous avons fait un véritable essayage à &lt;/s7&gt;&lt;a12&gt;&lt;s13&gt;Milan&lt;/s13&gt;&lt;/a12&gt;&lt;s14&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T154635Z" creationid="halimahamada" creationdate="20230525T154635Z">
@@ -3329,6 +3425,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153316Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Los encontramos más tarde, pero no importa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous avons échangé nos vœux à ce moment-là car c’était quelque chose de très intime que nous voulions partager avec nos familles, dans le cadre de notre maison.”&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153602Z" creationid="laura" creationdate="20230531T153602Z">
+        <seg>es Los invitados se reunieron para el cóctel, la cena y los discursos, bajo la dirección de Nicole Richie, la hermana de la novia, que animó toda la noche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4374,22 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>es-ES</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T183501Z" creationid="OmegaT Aligner" creationdate="20230525T183501Z">
+        <seg>eres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>fr-FR</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T183501Z" creationid="OmegaT Aligner" creationdate="20230525T183501Z">
+        <seg>es-FR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>http://www.moncler.com/link/page/genius.html?utm_source=Vogue&amp;utm_medium=dis&amp;utm_campaign=aliciakeysdropFR&amp;utm_term=&amp;utm_content=</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174926Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4342,10 +4462,34 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/greta-gerwig-films</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/karl-lagerfeld-histoire-queue-de-cheval-emblematique</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Tantas marcas que se esconden detrás del conocido uniforme de Karl Lagerfeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/article/mariage-catalina-quintana-robe-mariee-carolina-herrera-upcycling</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/article/rihanna-bijou-porte-bonheur-cadeau-anniversaire-fevrier-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Dolce &amp; Gabbana también abrió sus archivos para mí, mis hermanas, mi madre y nuestros hijos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,10 +4526,66 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/beaute/article/changement-coiffure-coupes-cheveux-stars</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es &lt;s0&gt;La película 20th Century Women, de Mike Mills, pasó un poco desapercibida cuando se estrenó en Francia en 2017, repleta de enseñanzas y poesías sobre el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/beaute/article/miranda-kerr-produit-cheveux-pharmacies</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Klorane es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/beaute/galerie/claudia-schiffer-90s</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>"Fue increíble", recuerda Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/chanel-haute-couture-et-parfums-de-luxe-la-franaise/20583</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Desde mis primeras pruebas en los salones Chanel en París, tuve una idea muy precisa de lo que quería: un hermoso vestido espalda descubierta bordado de encaje con una larga cola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/dior-gant-du-luxe/20590</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/fendi-une-griffe-romaine-chic-et-glamour/20595</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es Karl Lagerfeld: la historia de su uniforme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/saint-laurent-ou-la-rvolution-du-vestiaire-fminin/20646</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Adornaba casi cada dedo con un anillo de Chrome Hearts, y estaba probando las gafas de sol y los collares de Chrome Hearts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/versace-le-luxe-litalienne/20640</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La historia comienza en 1959, cuando Ruth Handler, una estadounidense de Colorado, convence a su marido, el co-fundador de Mattel, para lanzar un nuevo prototipo de muñeca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4418,6 +4618,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T180552Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/a-voir/diaporama/cannes-2016-10-choses-a-savoir-sur-elle-fanning-the-neon-demon/34064</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Soy una persona muy tranquila la mayor parte del tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4478,6 +4686,22 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/article/ita-obrien-interview-coordinatrice-intimite-cinema-series-sex-education-normal-people</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>• Yo diría que Italia es el matrimonio más conmovedor para mí, porque es el que más se ha preparado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/article/les-5-livres-feministes-quil-faut-avoir-lus-dans-sa-vie</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es • Esto es increíble."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/culture/article/rihanna-documentaire-amazon-prime-video</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4502,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/culture/portrait/diaporama/margot-robbie-dicaprio-jane-tarzan-suicide-squad-harley-quinn/34565</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es Rihanna vuelve a poner al día estas zapatillas firmadas Puma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/dossier/beyonce</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4511,6 +4743,14 @@
     <tu>
       <tuv lang="fr">
         <seg>https://www.vogue.fr/dossier/eyeliner</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/dossier/vogue-experience</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
@@ -4574,6 +4814,38 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/journaliste/marie-leger</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/journaliste/marthe-mabille</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/lifestyle/article/destinations-peu-connues-a-decouvrir-en-italie</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Hacer resonar tu voz de oro en los estadios?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/lifestyle/article/lhotel-splendido-mare-a-portofino-vient-detre-renove-par-festen</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Cita el 12 y 13 de mayo de 2023 con las editoras de la revista Vogue France.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/lifestyle/article/londres-les-nouvelles-adresses-a-connaitre-en-2023</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4602,6 +4874,22 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Vogue Experience 2023: participe en la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mariage/article/kourtney-kardashian-mini-robe-mariee-sexy-mariage-civil-travis-barker</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Aunque la sociedad hetero quisiera hacernos creer que vive sola en ausencia de un marido, pronto nos damos cuenta de que el término no corresponde a la vida cotidiana de nuestro protagonista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mariage/article/mariage-kourtney-kardashian-travis-barker-italie-images-instagram</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>POR MARIE LÉGER Para su quinta edición, Vogue Experience invita a toda la comunidad Vogue a dos días exclusivos que combinan masterclass y talleres en torno a grandes marcas de moda, belleza y estilo de vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4638,10 +4926,42 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/dua-lipa-sac-ferragamo</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Dripping in Chrome Hearts, Lagerfeld as featured in Chrome Hearts Magazine, Series 1 Volumen 6 in 2013. es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/article/fetes-des-peres-cadeaux-les-16-pieces-les-plus-cools-a-offrir-selon-un-specialiste-de-la-mode-homme</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Foto: Courtesy of Hilditch &amp; Key Hilditch &amp; Key es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/kim-kardashian-dolce-gabbana-printemps-ete-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>"Era el Ford Galaxy de mi marido, dijo de repente una voz femenina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/marque-jean-patou-renait-interview-guillaume-henry</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/monica-bellucci-look-new-york-janvier-2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La consigna del número de abril de 2023 de Vogue France.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4986,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T175517Z" creationid="USUARIO" creationdate="20230525T175517Z">
         <seg>l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/article/rihanna-robe-transparente</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>¿Qué tipo de indicaciones les diste sobre lo que querías?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,6 +5046,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/galerie/tendance-mode-gants-opera</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Causse es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/galerie/vogue-rend-hommage-a-la-carriere-exceptionnelle-de-karl-lagerfeld</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4750,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/mode/inspirations/diaporama/style-icone-coco-chanel-gabrielle-vintage-throwback-mode/45300</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Karl Lagerfeld se refiere aquí a su aspecto icónico, reconocible inmediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>https://www.vogue.fr/rihanna-enceinte-baby-bump-paris</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T175544Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4758,10 +5102,34 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>https://www.vogue.fr/vogue-experience</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No había nadie más que dos patos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>https://www.vogue.fr/vogue-hommes/galerie/elvis-presley-photos-vintage-style</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>no-referrer-when-downgrade</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185452Z" creationid="laura" creationdate="20230525T185452Z">
         <seg>no referrer-when-downgrade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>tags</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T183501Z" creationid="OmegaT Aligner" creationdate="20230525T183501Z">
+        <seg>etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,6 +5338,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185715Z" creationid="laura" creationdate="20230525T185715Z">
         <seg>"Quería que fuera atemporal, y me dijo que yo podrá ver las fotos dentro de veinte años." Su belleza ha sido asegurada por la superestrella de los Maquilladoras, Pati Dubroff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;e6&gt;C’était surréaliste, ce cadeau de mariage est tellement attentionné de la part d’Elliot”&lt;/e6&gt;, continue-t-elle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230531T153557Z" creationid="laura" creationdate="20230531T153557Z">
+        <seg>Pero cuando me acerqué, pensé, 'pero espera ¡Es el verdadero Stephen Sánchez!</seg>
       </tuv>
     </tu>
     <tu>
