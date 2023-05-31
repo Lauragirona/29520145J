@@ -473,8 +473,8 @@
       <tuv lang="fr">
         <seg>&lt;e6&gt;“Avoir la chance de créer cette robe et de travailler si étroitement avec Olivia Douchez, première d’atelier Haute Couture, les observer à l’œuvre et voir l’attention accordée aux détails a été une expérience unique au monde.”&lt;/e6&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185342Z" creationid="laura" creationdate="20230525T185342Z">
-        <seg>&lt;s0&gt;único para su vela: trabajó con el equipo Chanel para imaginar una habitación brillante, adornada &lt;/s0&gt;&lt;s1&gt;gotas de resina de agua que brillaban cuando caminaba.&lt;o2&gt;&lt;/o2&gt;&lt;/s1&gt;</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161709Z" creationid="laura" creationdate="20230525T185342Z">
+        <seg>"Tener la oportunidad de crear este vestido y trabajar tan de cerca con Olivia Douchez, primera de taller de Alta Costura, observarlos en el trabajo y ver la atención al detalle fue una experiencia única en el mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3903,8 +3903,8 @@
       <tuv lang="fr">
         <seg>Quelques semaines avant le mariage (et avant de dévoiler son nouveau nom de famille sur TikTok), la mariée s'est rendue dans les salons Haute Couture de &lt;s0&gt;&lt;a1&gt;Chanel&lt;/a1&gt;&lt;/s0&gt; à Paris, accompagnée de sa belle-mère, &lt;s2&gt;Lady Caroline Grainge&lt;/s2&gt;, et de sa meilleure amie, &lt;s3&gt;Ali Meller&lt;/s3&gt;, pour les derniers essayages de sa robe.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230525T185323Z" creationid="laura" creationdate="20230525T185323Z">
-        <seg>El vestido está lleno de detalles sutiles, como un corazón bordado que representa nuestro amor con Elliot, así como las letras S &amp; S E bordadas en azul dentro del vestido, sobre mi corazón." Sofía Richie quería algo</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161641Z" creationid="laura" creationdate="20230525T185323Z">
+        <seg>Unas semanas antes de la boda (y antes de revelar su nuevo apellido en TikTok), la novia visitó los salones de alta costura de París, acompañada de su madrastra, Lady Caroline Grainge, y su mejor amiga, Ali Meller, por las últimas pruebas de su vestido</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,14 +4598,6 @@
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/article/sofia-richie-tendance-riviera-chic</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>"Fue un largo trabajo &lt;/s0&gt;&lt;s1&gt;aliento pero nos divertimos mucho", explica la novia.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/beaute/article/changement-coiffure-coupes-cheveux-stars</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230531T154643Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4632,8 +4624,8 @@
       <tuv lang="fr">
         <seg>https://www.vogue.fr/communaute/wiki-de-la-mode/articles/chanel-haute-couture-et-parfums-de-luxe-la-franaise/20583</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>"Desde mis primeras pruebas en los salones Chanel en París, tuve una idea muy precisa de lo que quería: un hermoso vestido espalda descubierta bordado de encaje con una larga cola.</seg>
+      <tuv lang="es" changeid="laura" changedate="20230531T161553Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
