@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1099,6 +1099,14 @@
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T160924Z" creationid="Nerea" creationdate="20230526T160924Z">
         <seg>POR MARTHE MABILLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Par &lt;/s0&gt;&lt;u1&gt;&lt;s2&gt;Lilah Ramzi&lt;/s2&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="halimahamada" changedate="20230601T092514Z" creationid="halimahamada" creationdate="20230601T092514Z">
+        <seg>Por Lilah Ramzi</seg>
       </tuv>
     </tu>
     <tu>
