@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>"&lt;i4&gt;Pour moi, elle incarne l'élégance classique et la féminité, signe du génie de Karl Lagerfeld."&lt;/i4&gt;&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092026Z" creationid="USUARIO" creationdate="20230601T092026Z">
+        <seg>Para mí, ella encarna la elegancia clásica y la feminidad, signo del genio de Karl Lagerfeld."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>"Cela allonge aussi le bras.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
