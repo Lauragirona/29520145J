@@ -112,8 +112,8 @@
       <tuv lang="fr">
         <seg>25 avril 2023</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>LAURA:</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093630Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,8 +329,8 @@
       <tuv lang="fr">
         <seg>&lt;b15&gt;Kathleen Riley&lt;/b15&gt;, sa coiffeuse attitrée depuis de nombreuses années, était également en poste.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230601T092628Z" creationid="USUARIO" creationdate="20230601T092628Z">
-        <seg>Kathleen Riley, su estilista habitual desde hace muchos años, también estaba post.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093644Z" creationid="USUARIO" creationdate="20230601T092628Z">
+        <seg>Kathleen Riley, su estilista habitual desde hace muchos años, también lo estaba .</seg>
       </tuv>
     </tu>
     <tu>
@@ -663,6 +663,30 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;i0&gt;&lt;s1&gt;"La robe comporte des détails subtils, dont un cœur brodé pour représenter notre amour, à Elliot et à moi"&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt;, ajoute &lt;b3&gt;Sofia Richie&lt;/b3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093454Z" creationid="USUARIO" creationdate="20230601T093454Z">
+        <seg>"El vestido tiene detalles sutiles, incluyendo un corazón bordado para representar nuestro amor, a Elliot y a mí", añade Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i0&gt;&lt;s1&gt;"Le maquillage était très simple et presque nude"&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt;, explique &lt;b3&gt;Sofia Richie&lt;/b3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093515Z" creationid="USUARIO" creationdate="20230601T093506Z">
+        <seg>"El maquillaje era muy simple y casi desnudo", explica Sofia Richie.a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i0&gt;&lt;s1&gt;"Lors de mon premier essayage dans les salons Chanel à Paris, j'ai immédiatement imaginé la robe dans laquelle je voulais me marier : une belle robe dos nu brodée de dentelle avec une longue traîne"&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt;, explique &lt;b3&gt;Sofia Richie&lt;/b3&gt;.&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093438Z" creationid="USUARIO" creationdate="20230601T093438Z">
+        <seg>"En mi primera prueba en los salones Chanel de París, inmediatamente imaginé el vestido en el que quería casarme: un hermoso vestido espalda descubierta bordado de encaje con una larga cola", explica Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;i0&gt;&lt;s1&gt;20th Century Women&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt; &lt;/s2&gt;&lt;s3&gt;s’ouvre sur le plan d’une voiture en train de brûler depuis le parking d’un supermarché où elle est garée.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T160942Z" creationid="Nerea" creationdate="20230526T160942Z">
@@ -843,6 +867,22 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230601T092817Z" creationid="USUARIO" creationdate="20230601T092817Z">
         <seg>"Legalmente, teníamos que casarnos primero en los Estados Unidos, así que antes de irnos a Francia, nos casamos con nuestros padres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i4&gt;"Ainsi qu'un S&amp;E bleu brodé à l'intérieur de la robe au-dessus de mon cœur."&lt;/i4&gt;&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093459Z" creationid="USUARIO" creationdate="20230601T093459Z">
+        <seg>"Así como un S&amp;E azul bordado dentro del vestido por encima de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i4&gt;"Je le voulais intemporel pour ne pas me regarder en arrière dans 20 ans et voir l'image d'une glamazon."&lt;/i4&gt; Son makeup est signé de la maquilleuse des stars &lt;b5&gt;Pati Dubroff.&lt;/b5&gt; &lt;i6&gt;"J'ai toujours rêvé qu'elle me maquillerait le jour de mon mariage",&lt;/i6&gt; confie &lt;b7&gt;Sofia Richie&lt;/b7&gt;.&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093510Z" creationid="USUARIO" creationdate="20230601T093510Z">
+        <seg>"Lo quería atemporal para no mirar atrás en 20 años y ver la imagen de una Glamazon." Su maquillaje está firmado por la maquilladora de las estrellas Pati Dubroff."Siempre soñé que me maquillaría el día de mi boda", confiesa Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,6 +1227,14 @@
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T161007Z" creationid="Nerea" creationdate="20230526T161007Z">
         <seg>Algo desapercibida cuando se estrenó en Francia en 2017, la película tiene mucho a su favor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Mode &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;Exit les dad shoes, voici la tendance sandales qu'on va voir partout ce printemps&lt;/s2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093444Z" creationid="USUARIO" creationdate="20230601T093444Z">
+        <seg>Fuera los zapatos dad, aquí está la tendencia de sandalias que vamos a ver por todas partes esta primavera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1727,6 +1775,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153413Z" creationid="halimahamada" creationdate="20230525T153413Z">
         <seg>Para ser honesto, nunca pensé en eso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;•&lt;s1&gt;    &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;a3&gt;&lt;s4&gt;Vogue Paris | News Mode, Beauté, Culture...Découvrez les dernières tendances&lt;/s4&gt;&lt;/a3&gt;&lt;a5&gt;&lt;s6&gt; &lt;/s6&gt;&lt;/a5&gt;&lt;s7&gt;•&lt;/s7&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093448Z" creationid="USUARIO" creationdate="20230601T093448Z">
+        <seg>• Vogue Paris | News Moda, Belleza, Cultura... Descubre las últimas tendencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -3677,6 +3733,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Le smoking d'&lt;b0&gt;Elliot Grainge&lt;/b0&gt; est signé &lt;b1&gt;Tom Ford.&lt;/b1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093504Z" creationid="USUARIO" creationdate="20230601T093504Z">
+        <seg>es El esmoquin de Elliot Grainge es de Tom Ford.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Le smoking d'&lt;s0&gt;Elliot Grainge&lt;/s0&gt; est signé &lt;s1&gt;Tom Ford.&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230601T073907Z" creationid="laura" creationdate="20230601T073907Z">
@@ -3802,6 +3866,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>Las palabras trazadas en la parte posterior de las piezas en jersey - "Where Dreams are made of" - evocan por su parte "Empire State of Mind", el himno de la diva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les pendants d'oreilles en diamant de &lt;b0&gt;Sofia Richie&lt;/b0&gt; viennent de &lt;b1&gt;Kwiat&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093452Z" creationid="USUARIO" creationdate="20230601T093452Z">
+        <seg>Los pendientes de diamantes de Sofía Richie son de Kwiat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4096,8 +4168,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Non seulement c’est une bonne amie mais aussi une coiffeuse hors pair.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>No solo es una buena amiga, sino también una peluquera fuera par.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093703Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>No solo es una buena amiga, sino también una peluquera fuera de lugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5033,8 +5105,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Une fois toutes coiffées et maquillées, les festivités pouvaient commencer.</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230504T150631Z" creationid="halimahamada" creationdate="20230504T150631Z">
-        <seg>nUne fois toutes coiffées et maquillées, les festivités pouvaient commencer.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T093751Z" creationid="halimahamada" creationdate="20230504T150631Z">
+        <seg>Una vez que estabamos todas maquilladas y listas, podian empezar las festividades.</seg>
       </tuv>
     </tu>
     <tu>
