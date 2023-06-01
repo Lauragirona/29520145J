@@ -112,8 +112,8 @@
       <tuv lang="fr">
         <seg>27 avril 2023</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230601T074015Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>27 de abril de 2023</seg>
       </tuv>
     </tu>
     <tu>
@@ -327,6 +327,30 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;e0&gt;"La robe comporte des détails subtils, dont un cœur brodé pour représenter notre amour, à Elliot et à moi"&lt;/e0&gt;, ajoute &lt;s1&gt;Sofia Richie&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073858Z" creationid="laura" creationdate="20230601T073858Z">
+        <seg>"El vestido tiene detalles sutiles, incluyendo un corazón bordado para representar nuestro amor, a Elliot y a mí", añade Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e0&gt;"Le maquillage était très simple et presque nude"&lt;/e0&gt;, explique &lt;s1&gt;Sofia Richie&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073923Z" creationid="laura" creationdate="20230601T073923Z">
+        <seg>"El maquillaje era muy simple y casi desnudo", explica Sofia Richie. "Lo quería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e0&gt;"Lors de mon premier essayage dans les salons Chanel à Paris, j'ai immédiatement imaginé la robe dans laquelle je voulais me marier : une belle robe dos nu brodée de dentelle avec une longue traîne"&lt;/e0&gt;, explique &lt;s1&gt;Sofia Richie&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073743Z" creationid="laura" creationdate="20230601T073743Z">
+        <seg>"En mi primera prueba en los salones Chanel de París, inmediatamente imaginé el vestido en el que quería casarme: un hermoso vestido espalda descubierta bordado de encaje con una larga cola", explica Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;e0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;20th Century Women&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/e0&gt;&lt;s6&gt;&lt;f7&gt;&lt;s8&gt; &lt;/s8&gt;&lt;/f7&gt;&lt;/s6&gt;&lt;s9&gt;&lt;f10&gt;&lt;f11&gt;&lt;f12&gt;&lt;s13&gt;&lt;s14&gt;&lt;s15&gt;s’ouvre sur le plan d’une voiture en train de brûler depuis le parking d’un supermarché où elle est garée. &lt;/s15&gt;&lt;/s14&gt;&lt;/s13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/s9&gt;&lt;e16&gt;&lt;f17&gt;&lt;s18&gt;“&lt;/s18&gt;&lt;/f17&gt;&lt;/e16&gt;&lt;e19&gt;&lt;f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;s23&gt;&lt;s24&gt;C’était la Ford Galaxy de mon mari&lt;/s24&gt;&lt;/s23&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;/e19&gt;&lt;s25&gt;&lt;f26&gt;&lt;f27&gt;&lt;f28&gt;&lt;s29&gt;&lt;s30&gt;&lt;s31&gt;, dit soudain une voix féminine. &lt;/s31&gt;&lt;/s30&gt;&lt;/s29&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;/s25&gt;&lt;e32&gt;&lt;f33&gt;&lt;f34&gt;&lt;f35&gt;&lt;s36&gt;&lt;s37&gt;C’était dans cette voiture qu’on avait ramené Jamie de l'hôpital.”&lt;/s37&gt;&lt;/s36&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;/f33&gt;&lt;/e32&gt;&lt;s38&gt;&lt;f39&gt;&lt;s40&gt; &lt;/s40&gt;&lt;/f39&gt;&lt;/s38&gt;&lt;s41&gt;&lt;f42&gt;&lt;f43&gt;&lt;f44&gt;&lt;s45&gt;&lt;s46&gt;&lt;s47&gt;Le silence tranquille de la scène détonne avec l’incident qui se produit sous les yeux de ceux qui le regardent, c’est-à-dire nous, spectateurs, mais aussi les personnages de &lt;/s47&gt;&lt;/s46&gt;&lt;/s45&gt;&lt;/f44&gt;&lt;/f43&gt;&lt;/f42&gt;&lt;/s41&gt;&lt;s48&gt;&lt;s49&gt;&lt;f50&gt;&lt;f51&gt;&lt;f52&gt;&lt;s53&gt;&lt;s54&gt;&lt;s55&gt;Dorothea Fields&lt;/s55&gt;&lt;/s54&gt;&lt;/s53&gt;&lt;/f52&gt;&lt;/f51&gt;&lt;/f50&gt;&lt;/s49&gt;&lt;/s48&gt;&lt;s56&gt;&lt;f57&gt;&lt;s58&gt; &lt;/s58&gt;&lt;/f57&gt;&lt;/s56&gt;&lt;s59&gt;&lt;f60&gt;&lt;f61&gt;&lt;f62&gt;&lt;s63&gt;&lt;s64&gt;&lt;s65&gt;et de son fils, &lt;/s65&gt;&lt;/s64&gt;&lt;/s63&gt;&lt;/f62&gt;&lt;/f61&gt;&lt;/f60&gt;&lt;/s59&gt;&lt;s66&gt;&lt;s67&gt;&lt;f68&gt;&lt;f69&gt;&lt;f70&gt;&lt;s71&gt;&lt;s72&gt;&lt;s73&gt;Jamie&lt;/s73&gt;&lt;/s72&gt;&lt;/s71&gt;&lt;/f70&gt;&lt;/f69&gt;&lt;/f68&gt;&lt;/s67&gt;&lt;/s66&gt;&lt;s74&gt;&lt;f75&gt;&lt;f76&gt;&lt;f77&gt;&lt;s78&gt;&lt;s79&gt;&lt;s80&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185530Z" creationid="laura" creationdate="20230525T185530Z">
@@ -379,6 +403,22 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185737Z" creationid="laura" creationdate="20230525T185737Z">
         <seg>"Miraba a las señoritas de honor y los padrinos de loscaminar por el pasillo uno tras otro, y más nuestro turno se acercaba, cuanto menos creía que ese momento era real", explica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e2&gt;"Ainsi qu'un S&amp;E bleu brodé à l'intérieur de la robe au-dessus de mon cœur."&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073900Z" creationid="laura" creationdate="20230601T073900Z">
+        <seg>"Así como un S&amp;E azul bordado dentro del vestido por encima de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e2&gt;"Je le voulais intemporel pour ne pas me regarder en arrière dans 20 ans et voir l'image d'une glamazon."&lt;/e2&gt; Son makeup est signé de la maquilleuse des stars &lt;s3&gt;Pati Dubroff.&lt;/s3&gt; &lt;e4&gt;"J'ai toujours rêvé qu'elle me maquillerait le jour de mon mariage",&lt;/e4&gt; confie &lt;s5&gt;Sofia Richie&lt;/s5&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T074003Z" creationid="laura" creationdate="20230601T074003Z">
+        <seg>"Lo quería atemporal para no mirar atrás en 20 años y ver la imagen de una Glamazon." Su maquillaje está firmado por la maquilladora de las estrellas Pati Dubroff."Siempre soñé que me maquillaría el día de mi boda", confiesa Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2429,6 +2469,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Exit les dad shoes, voici la tendance sandales qu'on va voir partout ce printemps</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073818Z" creationid="laura" creationdate="20230601T073818Z">
+        <seg>Fuera los zapatos dad, aquí está la tendencia de sandalias que vamos a ver por todas partes esta primavera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Exit les vêtements de maternité trop larges, la chanteuse originaire de la Barbade, assume pleinement son ventre rond et ose les looks sexy.&lt;/s11&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T180218Z" creationid="USUARIO" creationdate="20230525T152408Z">
@@ -3165,6 +3213,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Le smoking d'&lt;s0&gt;Elliot Grainge&lt;/s0&gt; est signé &lt;s1&gt;Tom Ford.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073907Z" creationid="laura" creationdate="20230601T073907Z">
+        <seg>es El esmoquin de Elliot Grainge es de Tom Ford.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Le tailleur en tweed du “Kaiser de la mode” (d'après celui de &lt;/s11&gt;&lt;a12&gt;&lt;b13&gt;&lt;s14&gt;Gabrielle Chanel&lt;/s14&gt;&lt;/b13&gt;&lt;/a12&gt;&lt;s15&gt;) est devenu un symbole de statut social et de style.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T105326Z" creationid="Nerea" creationdate="20230526T105326Z">
@@ -3274,6 +3330,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>Las palabras trazadas en la parte posterior de las piezas en jersey - "Where Dreams are made of" - evocan por su parte "Empire State of Mind", el himno de la diva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les pendants d'oreilles en diamant de &lt;s0&gt;Sofia Richie&lt;/s0&gt; viennent de &lt;s1&gt;Kwiat&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073848Z" creationid="laura" creationdate="20230601T073848Z">
+        <seg>Los pendientes de diamantes de Sofía Richie son de Kwiat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3526,14 +3590,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>Nadine Rupp/Getty Images</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>Non seulement c’est une bonne amie mais aussi une coiffeuse hors pair.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -3744,8 +3800,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Par Héloïse Salessy</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es Moda</seg>
+      <tuv lang="es" changeid="laura" changedate="20230601T073831Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Por Héloise Salessy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4471,6 +4527,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Vogue Paris | News Mode, Beauté, Culture...Découvrez les dernières tendances</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073846Z" creationid="laura" creationdate="20230601T073846Z">
+        <seg>• Vogue Paris | News Moda, Belleza, Cultura... Descubre las últimas tendencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Vogue revient sur l’histoire de la poupée la plus célèbre au monde, qui a révolutionné l’histoire du jouet et suscité l’admiration autant que la controverse.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115942Z" creationid="USUARIO" creationdate="20230524T115942Z">
@@ -4567,14 +4631,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.instagram.com/germanlarkin/?hl=en</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es • Foto: German Larkin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.instagram.com/liatbaruch_/?hl=en</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4587,14 +4643,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T160845Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>e</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/#intcid=_vogue-fr-right-rail_d0311b1c-2df2-435b-802d-f8c1de865584_popular4-1</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Fuera los zapatos Dad, aquí está la tendencia sandalias que vamos a ver por todas partes esta primavera es</seg>
       </tuv>
     </tu>
     <tu>
