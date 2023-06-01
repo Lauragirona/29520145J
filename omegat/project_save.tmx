@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="fr">
+        <seg>"&lt;e2&gt;Pour moi, elle incarne l'élégance classique et la féminité, signe du génie de Karl Lagerfeld."&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073731Z" creationid="laura" creationdate="20230601T073731Z">
+        <seg>Para mí, ella encarna la elegancia clásica y la feminidad, signo del genio de Karl Lagerfeld."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>"Cela allonge aussi le bras.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -307,6 +315,14 @@
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T153147Z" creationid="halimahamada" creationdate="20230525T153147Z">
         <seg>Travis y yo, cansados por el jet lag, bajamos a la ciudad a las dos de la mañana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;e0&gt;"Elle est entièrement perlée à la main&lt;/e0&gt;", explique &lt;s1&gt;Sofia Richie&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073702Z" creationid="laura" creationdate="20230601T073702Z">
+        <seg>"Está totalmente hecha a mano&lt;/E0&gt;", explica &lt;s1&gt;Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -867,6 +883,15 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T183522Z" creationid="laura" creationdate="20230531T183522Z">
         <seg>&lt;s0&gt;&lt;/s0&gt;Encontrar también en Vogue.fr:&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Sofia Richie&lt;/s0&gt; a collaboré étroitement avec sa styliste, &lt;a1&gt;Liat Baruch&lt;/a1&gt;, et &lt;s2&gt;Olivia Douchez&lt;/s2&gt;, première d'atelier Haute Couture chez &lt;s3&gt;Chanel&lt;/s3&gt;, pour écumer les archives des défilés couture et choisir les références qu'elle aimait.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073534Z" creationid="laura" creationdate="20230601T073534Z">
+        <seg>2/96
+Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia Douchez, primer taller de Alta Costura en Chanel, para abrir los archivos de los desfiles y elegir las referencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1707,6 +1732,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Cette Américaine a trouvé sa &lt;a5&gt;robe de mariée Vivienne Westwood seulement deux semaines avant son mariage dans le Sud de la France&lt;/a5&gt;… et elle lui allait à merveille !&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073427Z" creationid="laura" creationdate="20230601T073427Z">
+        <seg>Esta americana encontró su vestido de novia Vivienne Westwood solo dos semanas antes de su boda en el sur de Francia... y le iba de maravilla!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Cette transformation a d'ailleurs fait l’objet d’un documentaire paru au mois d’avril dernier : &lt;i2&gt;Tiny shoulders : rethinking Barbie.&lt;/i2&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T173459Z" creationid="USUARIO" creationdate="20230525T173459Z">
@@ -1759,6 +1792,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115936Z" creationid="USUARIO" creationdate="20230524T115936Z">
         <seg>Como barbie  se ha vuelto un icono pop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Concernant la tenue du dîner de répétition, l'équipe a recréé une robe portée par &lt;s4&gt;Stella Tennant&lt;/s4&gt; lors du défilé d'automne &lt;s5&gt;Chanel&lt;/s5&gt; couture 1997.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073539Z" creationid="laura" creationdate="20230601T073539Z">
+        <seg>En cuanto a la celebración de la cena de ensayo, el equipo recreó un vestido usado por Stella Tennant durante el desfile de otoño Chanel costura 1997.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,6 +2273,14 @@
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T161755Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Elliot Grainge pidió a Sofía Richie que se comprometiera en Hawaii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>En Chanel et robes de mariée Kaviar Gauche, &lt;a7&gt;Julia Haghjoo a vécu le mariage de ses rêves&lt;/a7&gt;dans le Somerset</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T073503Z" creationid="laura" creationdate="20230601T073503Z">
+        <seg>En Chanel y vestidos de novia Kaviar Gauche, Julia Haghjoo vivió la boda de sus sueños en Somerset</seg>
       </tuv>
     </tu>
     <tu>
@@ -3783,8 +3832,8 @@
       <tuv lang="fr">
         <seg>Plus de Vogue France en vidéo :</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
+      <tuv lang="es" changeid="laura" changedate="20230601T073513Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Más en Vogue Francia en video:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,14 +4579,6 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.instagram.com/normanandblake/?hl=en</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>y Elliot Grainge: es</seg>
       </tuv>
     </tu>
     <tu>
