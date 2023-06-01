@@ -112,8 +112,8 @@
       <tuv lang="fr">
         <seg>25 avril 2023</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230601T093630Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>.:</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T094136Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>25 abril 2023:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1267,6 +1267,14 @@
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T160924Z" creationid="Nerea" creationdate="20230526T160924Z">
         <seg>POR MARTHE MABILLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Par &lt;/s0&gt;&lt;u1&gt;&lt;s2&gt;Alexandra Macon&lt;/s2&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T094123Z" creationid="USUARIO" creationdate="20230601T094123Z">
+        <seg>Por Lilah Ramzi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5527,14 +5535,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/culture/galerie/cameron-diaz-jeune-photos-1990</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/culture/galerie/les-images-de-lexposition-frida-kahlo-au-brooklyn-museum-de-new-york</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -5671,14 +5671,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/lifestyle/article/pourquoi-lhotel-du-cap-eden-roc-dantibes-nous-fascine-toujours-autant</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>están casados en el hotel mítico de CapEden-Roc en el sur de Francia... y</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/lifestyle/voyages/story/nos-nouvelles-adresses-preferees-a-new-york/3677</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230531T154343Z" creationid="USUARIO" creationdate="20230531T154343Z">
@@ -5787,14 +5779,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es 7 zapatos de verano que las mujeres francesas nunca dejan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/galerie/paris-hilton-style-y2k-tendance</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>25 de abril de 2023</seg>
       </tuv>
     </tu>
     <tu>
