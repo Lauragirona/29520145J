@@ -1087,6 +1087,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;Le mot d’ordre du numéro d’avril 2023 de Vogue France.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094253Z" creationid="laura" creationdate="20230601T094253Z">
+        <seg>&lt;S0&gt;El lema del número de abril de 2023 de Vogue France.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;Là est tout le paradoxe de &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;s7&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;b14&gt;Barbie&lt;/b14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;/s7&gt;&lt;s15&gt;&lt;f16&gt;&lt;f17&gt;&lt;f18&gt;&lt;s19&gt;&lt;s20&gt;&lt;s21&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230601T094154Z" creationid="laura" creationdate="20230601T094154Z">
@@ -1103,10 +1111,34 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;Pendant la Fashion Week de Londres en février dernier, &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;s7&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;b14&gt;Moncler&lt;/b14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;/s7&gt;&lt;s15&gt;&lt;f16&gt;&lt;f17&gt;&lt;f18&gt;&lt;s19&gt;&lt;s20&gt;&lt;s21&gt; a célébré l’exceptionnel &lt;/s21&gt;&lt;/s20&gt;&lt;/s19&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;/s15&gt;&lt;e22&gt;&lt;s23&gt;&lt;f24&gt;&lt;f25&gt;&lt;f26&gt;&lt;s27&gt;&lt;s28&gt;&lt;s29&gt;line-up&lt;/s29&gt;&lt;/s28&gt;&lt;/s27&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;/s23&gt;&lt;/e22&gt;&lt;s30&gt;&lt;f31&gt;&lt;f32&gt;&lt;f33&gt;&lt;s34&gt;&lt;s35&gt;&lt;s36&gt; de &lt;/s36&gt;&lt;/s35&gt;&lt;/s34&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;/f31&gt;&lt;/s30&gt;&lt;s37&gt;&lt;s38&gt;&lt;f39&gt;&lt;f40&gt;&lt;f41&gt;&lt;s42&gt;&lt;s43&gt;&lt;b44&gt;Genius 2023&lt;/b44&gt;&lt;/s43&gt;&lt;/s42&gt;&lt;/f41&gt;&lt;/f40&gt;&lt;/f39&gt;&lt;/s38&gt;&lt;/s37&gt;&lt;s45&gt;&lt;f46&gt;&lt;f47&gt;&lt;f48&gt;&lt;s49&gt;&lt;s50&gt;&lt;s51&gt; en organisant un événement live immersif.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094338Z" creationid="laura" creationdate="20230601T094338Z">
+        <seg>Durante la Semana de la Moda de Londres en febrero pasado, &lt;B0&gt;Moncler&lt;/B0&gt; celebró el excepcional line-up de &lt;b1&gt;Genius 2023&lt;/b1&gt; organizando un evento en vivo inmersivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;Pour les 60 ans de sa poupée, &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;s7&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;s14&gt;Mattel&lt;/s14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;/s7&gt;&lt;s15&gt;&lt;f16&gt;&lt;s17&gt; &lt;/s17&gt;&lt;/f16&gt;&lt;/s15&gt;&lt;s18&gt;&lt;f19&gt;&lt;f20&gt;&lt;f21&gt;&lt;s22&gt;&lt;s23&gt;&lt;s24&gt;s’est lancé dans une grande campagne d’inclusivité intitulée &lt;/s24&gt;&lt;/s23&gt;&lt;/s22&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;/f19&gt;&lt;/s18&gt;&lt;e25&gt;&lt;f26&gt;&lt;f27&gt;&lt;f28&gt;&lt;s29&gt;&lt;s30&gt;Close The Dream Gap&lt;/s30&gt;&lt;/s29&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;/e25&gt;&lt;s31&gt;&lt;f32&gt;&lt;f33&gt;&lt;f34&gt;&lt;s35&gt;&lt;s36&gt;&lt;s37&gt;, avec le hashtag &lt;/s37&gt;&lt;/s36&gt;&lt;/s35&gt;&lt;/f34&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;/s31&gt;&lt;e38&gt;&lt;f39&gt;&lt;f40&gt;&lt;f41&gt;&lt;s42&gt;&lt;s43&gt;#MoreRoleModels&lt;/s43&gt;&lt;/s42&gt;&lt;/f41&gt;&lt;/f40&gt;&lt;/f39&gt;&lt;/e38&gt;&lt;s44&gt;&lt;f45&gt;&lt;f46&gt;&lt;f47&gt;&lt;s48&gt;&lt;s49&gt;&lt;s50&gt;. &lt;/s50&gt;&lt;/s49&gt;&lt;/s48&gt;&lt;/f47&gt;&lt;/f46&gt;&lt;/f45&gt;&lt;/s44&gt;&lt;s51&gt;&lt;s52&gt;&lt;f53&gt;&lt;f54&gt;&lt;f55&gt;&lt;s56&gt;&lt;s57&gt;&lt;s58&gt;Barbie&lt;/s58&gt;&lt;/s57&gt;&lt;/s56&gt;&lt;/f55&gt;&lt;/f54&gt;&lt;/f53&gt;&lt;/s52&gt;&lt;/s51&gt;&lt;s59&gt;&lt;f60&gt;&lt;s61&gt; &lt;/s61&gt;&lt;/f60&gt;&lt;/s59&gt;&lt;s62&gt;&lt;f63&gt;&lt;f64&gt;&lt;f65&gt;&lt;s66&gt;&lt;s67&gt;&lt;s68&gt;peut donc être noire, métisse, petite ou ronde, avoir les cheveux rouges ou bleus, être en fauteuil roulant, bref ressembler à n’importe qui, et plus seulement à un stéréotype galvaudé. &lt;/s68&gt;&lt;/s67&gt;&lt;/s66&gt;&lt;/f65&gt;&lt;/f64&gt;&lt;/f63&gt;&lt;/s62&gt;&lt;s69&gt;&lt;a70&gt;&lt;b71&gt;&lt;s72&gt;Frida Khalo&lt;/s72&gt;&lt;/b71&gt;&lt;/a70&gt;&lt;/s69&gt;&lt;s73&gt;&lt;f74&gt;&lt;f75&gt;&lt;f76&gt;&lt;s77&gt;&lt;s78&gt;&lt;s79&gt;, le mannequin &lt;/s79&gt;&lt;/s78&gt;&lt;/s77&gt;&lt;/f76&gt;&lt;/f75&gt;&lt;/f74&gt;&lt;/s73&gt;&lt;s80&gt;&lt;s81&gt;&lt;f82&gt;&lt;f83&gt;&lt;f84&gt;&lt;s85&gt;&lt;s86&gt;&lt;s87&gt;Adwoa Aboah&lt;/s87&gt;&lt;/s86&gt;&lt;/s85&gt;&lt;/f84&gt;&lt;/f83&gt;&lt;/f82&gt;&lt;/s81&gt;&lt;/s80&gt;&lt;s88&gt;&lt;f89&gt;&lt;f90&gt;&lt;f91&gt;&lt;s92&gt;&lt;s93&gt;&lt;s94&gt;, l’escrimeuse &lt;/s94&gt;&lt;/s93&gt;&lt;/s92&gt;&lt;/f91&gt;&lt;/f90&gt;&lt;/f89&gt;&lt;/s88&gt;&lt;s95&gt;&lt;s96&gt;&lt;f97&gt;&lt;f98&gt;&lt;f99&gt;&lt;s100&gt;&lt;s101&gt;&lt;s102&gt;Ibtihaj Muhammad&lt;/s102&gt;&lt;/s101&gt;&lt;/s100&gt;&lt;/f99&gt;&lt;/f98&gt;&lt;/f97&gt;&lt;/s96&gt;&lt;/s95&gt;&lt;s103&gt;&lt;f104&gt;&lt;s105&gt; &lt;/s105&gt;&lt;/f104&gt;&lt;/s103&gt;&lt;s106&gt;&lt;f107&gt;&lt;f108&gt;&lt;f109&gt;&lt;s110&gt;&lt;s111&gt;&lt;s112&gt;et la boxeuse &lt;/s112&gt;&lt;/s111&gt;&lt;/s110&gt;&lt;/f109&gt;&lt;/f108&gt;&lt;/f107&gt;&lt;/s106&gt;&lt;s113&gt;&lt;s114&gt;&lt;f115&gt;&lt;f116&gt;&lt;f117&gt;&lt;s118&gt;&lt;s119&gt;&lt;s120&gt;Nicola Adams&lt;/s120&gt;&lt;/s119&gt;&lt;/s118&gt;&lt;/f117&gt;&lt;/f116&gt;&lt;/f115&gt;&lt;/s114&gt;&lt;/s113&gt;&lt;s121&gt;&lt;f122&gt;&lt;s123&gt; &lt;/s123&gt;&lt;/f122&gt;&lt;/s121&gt;&lt;s124&gt;&lt;f125&gt;&lt;f126&gt;&lt;f127&gt;&lt;s128&gt;&lt;s129&gt;&lt;s130&gt;ont toutes une poupée à leur effigie.&lt;/s130&gt;&lt;/s129&gt;&lt;/s128&gt;&lt;/f127&gt;&lt;/f126&gt;&lt;/f125&gt;&lt;/s124&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230601T094242Z" creationid="laura" creationdate="20230601T094242Z">
         <seg> Barbie&lt;/s2&gt;&lt;s5&gt; &lt;/s5&gt;, por lo tanto, puede ser negra, mestiza, pequeña o redonda, tener el pelo rojo o azul, estar en silla de ruedas, en pocas palabras parecerse a cualquier persona, y no solo a un estereotipo abultado. &lt;/a7&gt;Frida Khalo, el maniquí Adwoa Boxeah, el Gran profesional, Barbie sabe hablar con su comunidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;s4&gt;&lt;s5&gt;&lt;s6&gt;Également au premier rang du Hall of Fame Vogue, les nouvelles super modèles &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;s7&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;b14&gt;Precious Lee, Jill Kortleve&lt;/b14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;/s7&gt;&lt;s15&gt;&lt;f16&gt;&lt;f17&gt;&lt;f18&gt;&lt;s19&gt;&lt;s20&gt;&lt;s21&gt; et &lt;/s21&gt;&lt;/s20&gt;&lt;/s19&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;/s15&gt;&lt;s22&gt;&lt;s23&gt;&lt;f24&gt;&lt;f25&gt;&lt;f26&gt;&lt;s27&gt;&lt;s28&gt;&lt;b29&gt;Paloma Elsesser&lt;/b29&gt;&lt;/s28&gt;&lt;/s27&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;/s23&gt;&lt;/s22&gt;&lt;s30&gt;&lt;f31&gt;&lt;f32&gt;&lt;f33&gt;&lt;s34&gt;&lt;s35&gt;&lt;s36&gt; posent tout en courbes sous l’objectif iconique d’Inez &amp; Vinoodh qu’il fait bon retrouver dans nos pages...</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094259Z" creationid="laura" creationdate="20230601T094259Z">
+        <seg>&lt;s1&gt;Kortleve&lt;/s1&gt;&lt;s2&gt; y &lt;b3&gt;Paloma Elsesser&lt;/b3&gt; posan todo en curvas bajo el icónico objetivo de Inez &amp; Vinoodh que hace bien encontrar en nuestras páginas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5&gt;&lt;s6&gt;&lt;b7&gt;Alicia Keys&lt;/b7&gt;&lt;/s6&gt;&lt;/s5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/s1&gt;&lt;/s0&gt;&lt;s8&gt;&lt;f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;s12&gt;&lt;s13&gt;&lt;s14&gt; décrit les silhouettes de sa collection – &lt;/s14&gt;&lt;/s13&gt;&lt;/s12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/s8&gt;&lt;e15&gt;&lt;s16&gt;&lt;f17&gt;&lt;f18&gt;&lt;f19&gt;&lt;s20&gt;&lt;s21&gt;&lt;s22&gt;oversize&lt;/s22&gt;&lt;/s21&gt;&lt;/s20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;/s16&gt;&lt;/e15&gt;&lt;s23&gt;&lt;f24&gt;&lt;f25&gt;&lt;f26&gt;&lt;s27&gt;&lt;s28&gt;&lt;s29&gt;, &lt;/s29&gt;&lt;/s28&gt;&lt;/s27&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;/f24&gt;&lt;/s23&gt;&lt;e30&gt;&lt;s31&gt;&lt;f32&gt;&lt;f33&gt;&lt;f34&gt;&lt;s35&gt;&lt;s36&gt;&lt;s37&gt;gender-fluid&lt;/s37&gt;&lt;/s36&gt;&lt;/s35&gt;&lt;/f34&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;/s31&gt;&lt;/e30&gt;&lt;s38&gt;&lt;f39&gt;&lt;f40&gt;&lt;f41&gt;&lt;s42&gt;&lt;s43&gt;&lt;s44&gt; et sportives – comme étant avant tout “&lt;/s44&gt;&lt;/s43&gt;&lt;/s42&gt;&lt;/f41&gt;&lt;/f40&gt;&lt;/f39&gt;&lt;/s38&gt;&lt;e45&gt;&lt;s46&gt;&lt;f47&gt;&lt;f48&gt;&lt;f49&gt;&lt;s50&gt;&lt;s51&gt;&lt;s52&gt;cool, confortables et 100 % New York&lt;/s52&gt;&lt;/s51&gt;&lt;/s50&gt;&lt;/f49&gt;&lt;/f48&gt;&lt;/f47&gt;&lt;/s46&gt;&lt;/e45&gt;&lt;s53&gt;&lt;f54&gt;&lt;f55&gt;&lt;f56&gt;&lt;s57&gt;&lt;s58&gt;&lt;s59&gt;”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094318Z" creationid="laura" creationdate="20230601T094318Z">
+        <seg>&lt;s1&gt;Alicia Keys&lt;/s1&gt;&lt;s2&gt; describe las siluetas de su colección - oversize, gender-Fluid y deportivas - como siendo ante todo "cool, cómodas y 100 % neoyorquinas".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1127,10 +1159,26 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5&gt;&lt;s6&gt;&lt;s7&gt;Le line-up de &lt;/s7&gt;&lt;/s6&gt;&lt;/s5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/s1&gt;&lt;/s0&gt;&lt;s8&gt;&lt;s9&gt;&lt;f10&gt;&lt;f11&gt;&lt;f12&gt;&lt;s13&gt;&lt;s14&gt;&lt;b15&gt;Moncler Genius 2023&lt;/b15&gt;&lt;/s14&gt;&lt;/s13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/s9&gt;&lt;/s8&gt;&lt;s16&gt;&lt;s17&gt;&lt;f18&gt;&lt;f19&gt;&lt;f20&gt;&lt;s21&gt;&lt;s22&gt;&lt;s23&gt; réunit des co-créateurs prestigieux issus de l’art, de la mode, du spectacle, de la musique, du sport et de la culture.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094335Z" creationid="laura" creationdate="20230601T094335Z">
+        <seg>El catálogo de Moncler Genius 2023 reúne a prestigiosos co-creadores procedentes del arte, la moda, el espectáculo, la música, el deporte y la cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;&lt;s1&gt;&lt;f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5&gt;&lt;s6&gt;&lt;s7&gt;Sûre d’elle et malgré tout déstabilisée par le monde, à commencer par les jeux insensés de son fils, Dorothea fait ainsi appel à Julie, sa voisine de 17 ans incarnée par la captivante &lt;/s7&gt;&lt;/s6&gt;&lt;/s5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/s1&gt;&lt;/s0&gt;&lt;s8&gt;&lt;a9&gt;&lt;s10&gt;&lt;f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;s14&gt;&lt;s15&gt;&lt;b16&gt;&lt;s17&gt;Elle Fanning&lt;/s17&gt;&lt;/b16&gt;&lt;/s15&gt;&lt;/s14&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;/s10&gt;&lt;/a9&gt;&lt;/s8&gt;&lt;s18&gt;&lt;s19&gt;&lt;f20&gt;&lt;f21&gt;&lt;f22&gt;&lt;s23&gt;&lt;s24&gt;&lt;s25&gt;, et &lt;/s25&gt;&lt;/s24&gt;&lt;/s23&gt;&lt;/f22&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;/s19&gt;&lt;/s18&gt;&lt;s26&gt;&lt;a27&gt;&lt;s28&gt;&lt;f29&gt;&lt;f30&gt;&lt;f31&gt;&lt;s32&gt;&lt;s33&gt;&lt;b34&gt;&lt;s35&gt;Greta Gerwig&lt;/s35&gt;&lt;/b34&gt;&lt;/s33&gt;&lt;/s32&gt;&lt;/f31&gt;&lt;/f30&gt;&lt;/f29&gt;&lt;/s28&gt;&lt;/a27&gt;&lt;/s26&gt;&lt;s36&gt;&lt;s37&gt;&lt;f38&gt;&lt;f39&gt;&lt;f40&gt;&lt;s41&gt;&lt;s42&gt;&lt;s43&gt; dans le rôle d'Abbie, une trentenaire à fleur de peau qui vit avec eux, pour influencer Jamie de manière positive et l'aider à s'ouvrir à d’autres regards sur le monde.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185507Z" creationid="laura" creationdate="20230525T185507Z">
         <seg>Dorothea, segura de sí misma pero desconcertada por el mundo, empezando por los alocados juegos de su hijo, consigue la ayuda de Julie, su vecina de 17 años interpretada por la cautivadora Elle Fanning, y de Greta Gerwig como Abbie, una treintañera nerviosa que vive con ellos, para influir positivamente en Jamie y ayudarle a abrirse a otras formas de ver el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;&lt;s1&gt;&lt;f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5&gt;&lt;s6&gt;&lt;s7&gt;Vous rêvez de voir scintiller les lumières de la ville qui ne dort jamais ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094308Z" creationid="laura" creationdate="20230601T094308Z">
+        <seg>¿Sueñas con ver brillar las luces de la ciudad que nunca duerme?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1931,6 +1979,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Alors la prochaine fois que votre imagination vous emmènera flâner à Tribeca, Brooklyn, Wall Street ou Chelsea, vous saurez comment vous habiller pour être à la hauteur de ce rêve éveillé. &lt;b0&gt;&lt;s1&gt;Alicia Keys&lt;/b0&gt;&lt;/s1&gt; ne l’a-t-elle pas dit mieux que personne ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094345Z" creationid="laura" creationdate="20230601T094345Z">
+        <seg>Así que la próxima vez que tu imaginación te lleve a Tribeca, Brooklyn, Wall Street o Chelsea, sabrás cómo vestirte para estar a la altura de ese sueño despierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Alors qu'elle était habillée d'un crop top gris et d'un pantalon cargo associé à un manteau patchwork vintage signé &lt;b23&gt;Fendi&lt;/b23&gt; par &lt;b24&gt;Karl Lagerfeld&lt;/b24&gt; datant de 1999 lors d'un dîner au César, elle arborait&lt;/s22&gt;&lt;a25&gt;&lt;s26&gt; &lt;/s26&gt;&lt;/a25&gt;&lt;a27&gt;&lt;s28&gt;une tenue&lt;/s28&gt;&lt;/a27&gt;&lt;a29&gt;&lt;s30&gt; &lt;/s30&gt;&lt;/a29&gt;&lt;a31&gt;&lt;b32&gt;&lt;s33&gt;JW Anderson&lt;/s33&gt;&lt;/b32&gt;&lt;/a31&gt;&lt;s34&gt; rehaussée de pièces vintage : un manteau &lt;b35&gt;John Galliano&lt;/b35&gt; et d'un sac à main &lt;b36&gt;Louis Vuitton&lt;/b36&gt; à la sortie de l'hôtel &lt;b37&gt;Bulgari&lt;/b37&gt; dès le lendemain.&lt;/s34&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T152909Z" creationid="USUARIO" creationdate="20230525T152909Z">
@@ -2247,6 +2303,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>Ce Vogue d’avril est un véritable red carpet à feuilleter !&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T153517Z" creationid="USUARIO" creationdate="20230525T153517Z">
+        <seg>Este Vogue de abril es un verdadero red carpet para hojear !&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Ce Vogue d’avril est un véritable red carpet à feuilleter !&lt;/s81&gt;&lt;/s80&gt;&lt;/s79&gt;&lt;/f78&gt;&lt;/f77&gt;&lt;/f76&gt;&lt;/s75&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094305Z" creationid="laura" creationdate="20230601T094305Z">
         <seg>Este Vogue de abril es un verdadero red carpet para hojear !&lt;/s2&gt;</seg>
       </tuv>
     </tu>
@@ -2605,6 +2669,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>De quoi se nourrir d’innovations et d’inspiration…</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094424Z" creationid="laura" creationdate="20230601T094424Z">
+        <seg>Descubra el programa de experiencias y compre sus entradas para Vogue Experience 2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>De quoi se nourrir d’innovations et d’inspiration… &lt;/s0&gt;&lt;a2&gt;&lt;i3&gt;&lt;s4&gt;Découvrez le programme des expériences et achetez vos billets pour Vogue Experience 2023&lt;/s4&gt;&lt;/i3&gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T161444Z" creationid="USUARIO" creationdate="20230525T151451Z">
@@ -2661,6 +2733,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Des mille chemins à emprunter parmi l’infini réseau des rues de Manhattan ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094313Z" creationid="laura" creationdate="20230601T094313Z">
+        <seg>¿Mil caminos para recorrer entre la infinita red de calles de Manhattan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Des pièces fidèles à l’esprit d’aventure et d’évasion de la ville &lt;i0&gt;where dreams are made of&lt;/i0&gt;, tiré de son hit “Empire State of Mind”.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174238Z" creationid="USUARIO" creationdate="20230525T153911Z">
@@ -2669,9 +2749,25 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Des pièces fidèles à l’esprit d’aventure et d’évasion de la ville &lt;e0&gt;where dreams are made of&lt;/e0&gt;, tiré de son hit “Empire State of Mind”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094307Z" creationid="laura" creationdate="20230601T094307Z">
+        <seg>Piezas fieles al espíritu de aventura y evasión de la ciudad "where Dreams are made of", tomadas de su éxito "Empire State of Mind".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Devant une foule survoltée de 10 000 personnes, &lt;b2&gt;Alicia Keys&lt;/b2&gt; a enchaîné ses hits dans un ensemble métallisé futuriste issu de sa collection Genius, avant d’être rejointe sur scène par les artistes &lt;b3&gt;Little Simz&lt;/b3&gt; et &lt;b4&gt;Cleo Sol&lt;/b4&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T180310Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>Ante una muchedumbre de 10.000 personas, &lt;b2&gt;Alicia Keys&lt;/b2&gt; encadenó sus éxitos en un conjunto metalizado futurista procedente de su colección Genius, antes de unirse en el escenario por los artistas &lt;b3&gt;Little Simz&lt;/b3&gt; y Cleo Sol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Devant une foule survoltée de 10 000 personnes, &lt;/s51&gt;&lt;/s50&gt;&lt;/s49&gt;&lt;/f48&gt;&lt;/f47&gt;&lt;/f46&gt;&lt;/s45&gt;&lt;s52&gt;&lt;s53&gt;&lt;f54&gt;&lt;f55&gt;&lt;f56&gt;&lt;s57&gt;&lt;s58&gt;&lt;b59&gt;Alicia Keys&lt;/b59&gt;&lt;/s58&gt;&lt;/s57&gt;&lt;/f56&gt;&lt;/f55&gt;&lt;/f54&gt;&lt;/s53&gt;&lt;/s52&gt;&lt;s60&gt;&lt;f61&gt;&lt;f62&gt;&lt;f63&gt;&lt;s64&gt;&lt;s65&gt;&lt;s66&gt; a enchaîné ses hits dans un ensemble métallisé futuriste issu de sa collection &lt;/s66&gt;&lt;/s65&gt;&lt;/s64&gt;&lt;/f63&gt;&lt;/f62&gt;&lt;/f61&gt;&lt;/s60&gt;&lt;e67&gt;&lt;s68&gt;&lt;f69&gt;&lt;f70&gt;&lt;f71&gt;&lt;s72&gt;&lt;s73&gt;&lt;s74&gt;Genius&lt;/s74&gt;&lt;/s73&gt;&lt;/s72&gt;&lt;/f71&gt;&lt;/f70&gt;&lt;/f69&gt;&lt;/s68&gt;&lt;/e67&gt;&lt;s75&gt;&lt;f76&gt;&lt;f77&gt;&lt;f78&gt;&lt;s79&gt;&lt;s80&gt;&lt;s81&gt;, avant d’être rejointe sur scène par les artistes &lt;/s81&gt;&lt;/s80&gt;&lt;/s79&gt;&lt;/f78&gt;&lt;/f77&gt;&lt;/f76&gt;&lt;/s75&gt;&lt;s82&gt;&lt;s83&gt;&lt;f84&gt;&lt;f85&gt;&lt;f86&gt;&lt;s87&gt;&lt;s88&gt;&lt;b89&gt;Little Simz&lt;/b89&gt;&lt;/s88&gt;&lt;/s87&gt;&lt;/f86&gt;&lt;/f85&gt;&lt;/f84&gt;&lt;/s83&gt;&lt;/s82&gt;&lt;s90&gt;&lt;f91&gt;&lt;f92&gt;&lt;f93&gt;&lt;s94&gt;&lt;s95&gt;&lt;s96&gt; et &lt;/s96&gt;&lt;/s95&gt;&lt;/s94&gt;&lt;/f93&gt;&lt;/f92&gt;&lt;/f91&gt;&lt;/s90&gt;&lt;s97&gt;&lt;s98&gt;&lt;f99&gt;&lt;f100&gt;&lt;f101&gt;&lt;s102&gt;&lt;s103&gt;&lt;b104&gt;Cleo Sol&lt;/b104&gt;&lt;/s103&gt;&lt;/s102&gt;&lt;/f101&gt;&lt;/f100&gt;&lt;/f99&gt;&lt;/s98&gt;&lt;/s97&gt;&lt;s105&gt;&lt;f106&gt;&lt;f107&gt;&lt;f108&gt;&lt;s109&gt;&lt;s110&gt;&lt;s111&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094340Z" creationid="laura" creationdate="20230601T094340Z">
         <seg>Ante una muchedumbre de 10.000 personas, &lt;b2&gt;Alicia Keys&lt;/b2&gt; encadenó sus éxitos en un conjunto metalizado futurista procedente de su colección Genius, antes de unirse en el escenario por los artistas &lt;b3&gt;Little Simz&lt;/b3&gt; y Cleo Sol.</seg>
       </tuv>
     </tu>
@@ -2765,6 +2861,22 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Découvrez ainsi &lt;/s23&gt;&lt;/s22&gt;&lt;/s21&gt;&lt;/f20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/s17&gt;&lt;/s16&gt;&lt;s24&gt;&lt;e25&gt;&lt;s26&gt;&lt;f27&gt;&lt;f28&gt;&lt;f29&gt;&lt;s30&gt;&lt;s31&gt;&lt;s32&gt;The Art of Terrain&lt;/s32&gt;&lt;/s31&gt;&lt;/s30&gt;&lt;/f29&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;/s26&gt;&lt;/e25&gt;&lt;/s24&gt;&lt;s33&gt;&lt;s34&gt;&lt;f35&gt;&lt;f36&gt;&lt;f37&gt;&lt;s38&gt;&lt;s39&gt;&lt;s40&gt; by &lt;/s40&gt;&lt;/s39&gt;&lt;/s38&gt;&lt;/f37&gt;&lt;/f36&gt;&lt;/f35&gt;&lt;/s34&gt;&lt;/s33&gt;&lt;s41&gt;&lt;s42&gt;&lt;f43&gt;&lt;f44&gt;&lt;f45&gt;&lt;s46&gt;&lt;s47&gt;&lt;b48&gt;Pharrell Williams&lt;/b48&gt;&lt;/s47&gt;&lt;/s46&gt;&lt;/f45&gt;&lt;/f44&gt;&lt;/f43&gt;&lt;/s42&gt;&lt;/s41&gt;&lt;s49&gt;&lt;s50&gt;&lt;f51&gt;&lt;f52&gt;&lt;f53&gt;&lt;s54&gt;&lt;s55&gt;&lt;s56&gt;, &lt;/s56&gt;&lt;/s55&gt;&lt;/s54&gt;&lt;/f53&gt;&lt;/f52&gt;&lt;/f51&gt;&lt;/s50&gt;&lt;/s49&gt;&lt;s57&gt;&lt;e58&gt;&lt;s59&gt;&lt;f60&gt;&lt;f61&gt;&lt;f62&gt;&lt;s63&gt;&lt;s64&gt;&lt;s65&gt;The Art of Imagination&lt;/s65&gt;&lt;/s64&gt;&lt;/s63&gt;&lt;/f62&gt;&lt;/f61&gt;&lt;/f60&gt;&lt;/s59&gt;&lt;/e58&gt;&lt;/s57&gt;&lt;s66&gt;&lt;s67&gt;&lt;f68&gt;&lt;f69&gt;&lt;f70&gt;&lt;s71&gt;&lt;s72&gt;&lt;s73&gt; by &lt;/s73&gt;&lt;/s72&gt;&lt;/s71&gt;&lt;/f70&gt;&lt;/f69&gt;&lt;/f68&gt;&lt;/s67&gt;&lt;/s66&gt;&lt;s74&gt;&lt;s75&gt;&lt;f76&gt;&lt;f77&gt;&lt;f78&gt;&lt;s79&gt;&lt;s80&gt;&lt;b81&gt;Mercedes-Benz&lt;/b81&gt;&lt;/s80&gt;&lt;/s79&gt;&lt;/f78&gt;&lt;/f77&gt;&lt;/f76&gt;&lt;/s75&gt;&lt;/s74&gt;&lt;s82&gt;&lt;s83&gt;&lt;f84&gt;&lt;f85&gt;&lt;f86&gt;&lt;s87&gt;&lt;s88&gt;&lt;s89&gt;, &lt;/s89&gt;&lt;/s88&gt;&lt;/s87&gt;&lt;/f86&gt;&lt;/f85&gt;&lt;/f84&gt;&lt;/s83&gt;&lt;/s82&gt;&lt;s90&gt;&lt;e91&gt;&lt;s92&gt;&lt;f93&gt;&lt;f94&gt;&lt;f95&gt;&lt;s96&gt;&lt;s97&gt;&lt;s98&gt;The Art of Lightness&lt;/s98&gt;&lt;/s97&gt;&lt;/s96&gt;&lt;/f95&gt;&lt;/f94&gt;&lt;/f93&gt;&lt;/s92&gt;&lt;/e91&gt;&lt;/s90&gt;&lt;s99&gt;&lt;s100&gt;&lt;f101&gt;&lt;f102&gt;&lt;f103&gt;&lt;s104&gt;&lt;s105&gt;&lt;s106&gt; by &lt;/s106&gt;&lt;/s105&gt;&lt;/s104&gt;&lt;/f103&gt;&lt;/f102&gt;&lt;/f101&gt;&lt;/s100&gt;&lt;/s99&gt;&lt;s107&gt;&lt;s108&gt;&lt;f109&gt;&lt;f110&gt;&lt;f111&gt;&lt;s112&gt;&lt;s113&gt;&lt;b114&gt;Palm Angels&lt;/b114&gt;&lt;/s113&gt;&lt;/s112&gt;&lt;/f111&gt;&lt;/f110&gt;&lt;/f109&gt;&lt;/s108&gt;&lt;/s107&gt;&lt;s115&gt;&lt;s116&gt;&lt;f117&gt;&lt;f118&gt;&lt;f119&gt;&lt;s120&gt;&lt;s121&gt;&lt;s122&gt;, &lt;/s122&gt;&lt;/s121&gt;&lt;/s120&gt;&lt;/f119&gt;&lt;/f118&gt;&lt;/f117&gt;&lt;/s116&gt;&lt;/s115&gt;&lt;s123&gt;&lt;e124&gt;&lt;s125&gt;&lt;f126&gt;&lt;f127&gt;&lt;f128&gt;&lt;s129&gt;&lt;s130&gt;&lt;s131&gt;The Art of Love&lt;/s131&gt;&lt;/s130&gt;&lt;/s129&gt;&lt;/f128&gt;&lt;/f127&gt;&lt;/f126&gt;&lt;/s125&gt;&lt;/e124&gt;&lt;/s123&gt;&lt;s132&gt;&lt;s133&gt;&lt;f134&gt;&lt;f135&gt;&lt;f136&gt;&lt;s137&gt;&lt;s138&gt;&lt;s139&gt; by &lt;/s139&gt;&lt;/s138&gt;&lt;/s137&gt;&lt;/f136&gt;&lt;/f135&gt;&lt;/f134&gt;&lt;/s133&gt;&lt;/s132&gt;&lt;s140&gt;&lt;s141&gt;&lt;f142&gt;&lt;f143&gt;&lt;f144&gt;&lt;s145&gt;&lt;s146&gt;&lt;b147&gt;FRGMT&lt;/b147&gt;&lt;/s146&gt;&lt;/s145&gt;&lt;/f144&gt;&lt;/f143&gt;&lt;/f142&gt;&lt;/s141&gt;&lt;/s140&gt;&lt;s148&gt;&lt;s149&gt;&lt;f150&gt;&lt;f151&gt;&lt;f152&gt;&lt;s153&gt;&lt;s154&gt;&lt;s155&gt;, &lt;/s155&gt;&lt;/s154&gt;&lt;/s153&gt;&lt;/f152&gt;&lt;/f151&gt;&lt;/f150&gt;&lt;/s149&gt;&lt;/s148&gt;&lt;s156&gt;&lt;e157&gt;&lt;s158&gt;&lt;f159&gt;&lt;f160&gt;&lt;f161&gt;&lt;s162&gt;&lt;s163&gt;&lt;s164&gt;The Art of Exploration&lt;/s164&gt;&lt;/s163&gt;&lt;/s162&gt;&lt;/f161&gt;&lt;/f160&gt;&lt;/f159&gt;&lt;/s158&gt;&lt;/e157&gt;&lt;/s156&gt;&lt;s165&gt;&lt;s166&gt;&lt;f167&gt;&lt;f168&gt;&lt;f169&gt;&lt;s170&gt;&lt;s171&gt;&lt;s172&gt; by &lt;/s172&gt;&lt;/s171&gt;&lt;/s170&gt;&lt;/f169&gt;&lt;/f168&gt;&lt;/f167&gt;&lt;/s166&gt;&lt;/s165&gt;&lt;s173&gt;&lt;s174&gt;&lt;f175&gt;&lt;f176&gt;&lt;f177&gt;&lt;s178&gt;&lt;s179&gt;&lt;b180&gt;adidas Originals&lt;/b180&gt;&lt;/s179&gt;&lt;/s178&gt;&lt;/f177&gt;&lt;/f176&gt;&lt;/f175&gt;&lt;/s174&gt;&lt;/s173&gt;&lt;s181&gt;&lt;s182&gt;&lt;f183&gt;&lt;f184&gt;&lt;f185&gt;&lt;s186&gt;&lt;s187&gt;&lt;s188&gt;, &lt;/s188&gt;&lt;/s187&gt;&lt;/s186&gt;&lt;/f185&gt;&lt;/f184&gt;&lt;/f183&gt;&lt;/s182&gt;&lt;/s181&gt;&lt;s189&gt;&lt;e190&gt;&lt;s191&gt;&lt;f192&gt;&lt;f193&gt;&lt;f194&gt;&lt;s195&gt;&lt;s196&gt;&lt;s197&gt;The Art of Elements&lt;/s197&gt;&lt;/s196&gt;&lt;/s195&gt;&lt;/f194&gt;&lt;/f193&gt;&lt;/f192&gt;&lt;/s191&gt;&lt;/e190&gt;&lt;/s189&gt;&lt;s198&gt;&lt;s199&gt;&lt;f200&gt;&lt;f201&gt;&lt;f202&gt;&lt;s203&gt;&lt;s204&gt;&lt;s205&gt; by &lt;/s205&gt;&lt;/s204&gt;&lt;/s203&gt;&lt;/f202&gt;&lt;/f201&gt;&lt;/f200&gt;&lt;/s199&gt;&lt;/s198&gt;&lt;s206&gt;&lt;s207&gt;&lt;f208&gt;&lt;f209&gt;&lt;f210&gt;&lt;s211&gt;&lt;s212&gt;&lt;b213&gt;Salehe Bembury&lt;/b213&gt;&lt;/s212&gt;&lt;/s211&gt;&lt;/f210&gt;&lt;/f209&gt;&lt;/f208&gt;&lt;/s207&gt;&lt;/s206&gt;&lt;s214&gt;&lt;s215&gt;&lt;f216&gt;&lt;f217&gt;&lt;f218&gt;&lt;s219&gt;&lt;s220&gt;&lt;s221&gt;, &lt;/s221&gt;&lt;/s220&gt;&lt;/s219&gt;&lt;/f218&gt;&lt;/f217&gt;&lt;/f216&gt;&lt;/s215&gt;&lt;/s214&gt;&lt;s222&gt;&lt;e223&gt;&lt;s224&gt;&lt;f225&gt;&lt;f226&gt;&lt;f227&gt;&lt;s228&gt;&lt;s229&gt;&lt;s230&gt;The Art of All by Roc Nation&lt;/s230&gt;&lt;/s229&gt;&lt;/s228&gt;&lt;/f227&gt;&lt;/f226&gt;&lt;/f225&gt;&lt;/s224&gt;&lt;/e223&gt;&lt;/s222&gt;&lt;s231&gt;&lt;s232&gt;&lt;f233&gt;&lt;f234&gt;&lt;f235&gt;&lt;s236&gt;&lt;s237&gt;&lt;s238&gt; by &lt;/s238&gt;&lt;/s237&gt;&lt;/s236&gt;&lt;/f235&gt;&lt;/f234&gt;&lt;/f233&gt;&lt;/s232&gt;&lt;/s231&gt;&lt;s239&gt;&lt;s240&gt;&lt;f241&gt;&lt;f242&gt;&lt;f243&gt;&lt;s244&gt;&lt;s245&gt;&lt;b246&gt;Jay-Z&lt;/b246&gt;&lt;/s245&gt;&lt;/s244&gt;&lt;/f243&gt;&lt;/f242&gt;&lt;/f241&gt;&lt;/s240&gt;&lt;/s239&gt;&lt;s247&gt;&lt;s248&gt;&lt;f249&gt;&lt;f250&gt;&lt;f251&gt;&lt;s252&gt;&lt;s253&gt;&lt;s254&gt; et &lt;/s254&gt;&lt;/s253&gt;&lt;/s252&gt;&lt;/f251&gt;&lt;/f250&gt;&lt;/f249&gt;&lt;/s248&gt;&lt;/s247&gt;&lt;s255&gt;&lt;e256&gt;&lt;s257&gt;&lt;f258&gt;&lt;f259&gt;&lt;f260&gt;&lt;s261&gt;&lt;s262&gt;&lt;s263&gt;The Art of Design&lt;/s263&gt;&lt;/s262&gt;&lt;/s261&gt;&lt;/f260&gt;&lt;/f259&gt;&lt;/f258&gt;&lt;/s257&gt;&lt;/e256&gt;&lt;/s255&gt;&lt;s264&gt;&lt;s265&gt;&lt;f266&gt;&lt;f267&gt;&lt;f268&gt;&lt;s269&gt;&lt;s270&gt;&lt;s271&gt; by &lt;/s271&gt;&lt;/s270&gt;&lt;/s269&gt;&lt;/f268&gt;&lt;/f267&gt;&lt;/f266&gt;&lt;/s265&gt;&lt;/s264&gt;&lt;s272&gt;&lt;s273&gt;&lt;f274&gt;&lt;f275&gt;&lt;f276&gt;&lt;s277&gt;&lt;s278&gt;&lt;b279&gt;Rick Owens&lt;/b279&gt;&lt;/s278&gt;&lt;/s277&gt;&lt;/f276&gt;&lt;/f275&gt;&lt;/f274&gt;&lt;/s273&gt;&lt;/s272&gt;&lt;s280&gt;&lt;s281&gt;&lt;f282&gt;&lt;f283&gt;&lt;f284&gt;&lt;s285&gt;&lt;s286&gt;&lt;s287&gt;.&lt;/s287&gt;&lt;/s286&gt;&lt;/s285&gt;&lt;/f284&gt;&lt;/f283&gt;&lt;/f282&gt;&lt;/s281&gt;&lt;/s280&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094337Z" creationid="laura" creationdate="20230601T094337Z">
+        <seg>Descubra así The Art of Terrain by &lt;b1&gt;Pharrell Williams&lt;/b1&gt;, The Art of Imagination by &lt;b2&gt;Mercedes-Benz&lt;/b2&gt;, The Art of Lightness by &lt;b3&gt;Palm &lt;/b3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Découvrez le programme des expériences et achetez vos billets pour Vogue Experience 2023</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094428Z" creationid="laura" creationdate="20230601T094428Z">
+        <seg>Descubra el programa de experiencias y compre sus entradas para Vogue Experience 2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Découvrez un aperçu exclusif du mariage de la fille de Lionel Richie, Sofia Richie en robes de mariée Chanel et Elliot Grainge, des moments intimes avant la cérémonie à la danse lors de l'afterparty.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T160517Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2781,6 +2893,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>D’&lt;s0&gt;&lt;b1&gt;Armani Beauty&lt;/b1&gt;&lt;/s0&gt; à &lt;s2&gt;&lt;b3&gt;MyBlend&lt;/b3&gt;&lt;/s2&gt;, en passant par &lt;s4&gt;&lt;b5&gt;ghd&lt;/b5&gt;&lt;/s4&gt; ou &lt;s6&gt;&lt;b7&gt;La Vallée Village&lt;/b7&gt;&lt;/s6&gt;, une dizaine de grands noms de la mode, de la beauté et du lifestyle ont répondu présents pour imaginer des happenings originaux spécialement destinés aux lectrices de &lt;e8&gt;Vogue France.&lt;/e8&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094421Z" creationid="laura" creationdate="20230601T094421Z">
+        <seg> De Armani Beauty a MyBlend, pasando por ghd o La Vallée Village, una docena de grandes nombres de la moda, la belleza y el estilo de vida han ideado originales happenings especialmente para los lectores de Vogue Francia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>D’ailleurs, elle sent déjà le décalage avec la nouvelle génération qui grandit sous ses yeux.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T165253Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2792,6 +2912,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>D’une vue panoramique sur la &lt;i0&gt;skyline&lt;/i0&gt; ?</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T153545Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>¿Una vista panorámica de la skyline?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>D’une vue panoramique sur la &lt;/s7&gt;&lt;/s6&gt;&lt;/s5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/s1&gt;&lt;/s0&gt;&lt;s8&gt;&lt;e9&gt;&lt;s10&gt;&lt;f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;s14&gt;&lt;s15&gt;skyline&lt;/s15&gt;&lt;/s14&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;/s10&gt;&lt;/e9&gt;&lt;/s8&gt;&lt;s16&gt;&lt;s17&gt;&lt;f18&gt;&lt;f19&gt;&lt;f20&gt;&lt;s21&gt;&lt;s22&gt;&lt;s23&gt; ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094310Z" creationid="laura" creationdate="20230601T094310Z">
         <seg>¿Una vista panorámica de la skyline?</seg>
       </tuv>
     </tu>
@@ -2973,6 +3101,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Elles évoquent “&lt;/s59&gt;&lt;/s58&gt;&lt;/s57&gt;&lt;/f56&gt;&lt;/f55&gt;&lt;/f54&gt;&lt;/s53&gt;&lt;e60&gt;&lt;s61&gt;&lt;f62&gt;&lt;f63&gt;&lt;f64&gt;&lt;s65&gt;&lt;s66&gt;&lt;s67&gt;le streetwear de la fin des années 1990, avec un twist en plus”&lt;/s67&gt;&lt;/s66&gt;&lt;/s65&gt;&lt;/f64&gt;&lt;/f63&gt;&lt;/f62&gt;&lt;/s61&gt;&lt;/e60&gt;&lt;s68&gt;&lt;f69&gt;&lt;f70&gt;&lt;f71&gt;&lt;s72&gt;&lt;s73&gt;&lt;s74&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094320Z" creationid="laura" creationdate="20230601T094320Z">
+        <seg>Evocan "el streetwear de finales de los años 90, con un giro adicional". La paleta cromática elaborada por Alicia Keys revela tonos potentes y luminosos: gris metalizado futurista, rosa coral, color blocks jamaiquinos verde, negro y amarillo, sin olvidar su violeta firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Elles évoquent “le streetwear de la fin des années 1990, avec un twist en plus”.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174249Z" creationid="USUARIO" creationdate="20230525T151005Z">
@@ -3000,6 +3136,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>En couverture, la reine, l’icône, la glamourissime&lt;/s0&gt;&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Beyoncé&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt; pour qui tous les charts du monde sont unanimes: elle est la voix qui justifie l’existence de la musique.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T181846Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>En la portada, la reina, el icono, el glamourissime&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s5&gt;Beyoncé&lt;/s5&gt;&lt;/a3&gt; justifica unánimemente la existencia de la música.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>En couverture, la reine, l’icône, la glamourissime &lt;/s6&gt;&lt;/s5&gt;&lt;/s4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;/s0&gt;&lt;s7&gt;&lt;a8&gt;&lt;s9&gt;&lt;f10&gt;&lt;f11&gt;&lt;f12&gt;&lt;s13&gt;&lt;s14&gt;&lt;b15&gt;&lt;s16&gt;Beyoncé&lt;/s16&gt;&lt;/b15&gt;&lt;/s14&gt;&lt;/s13&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;/s9&gt;&lt;/a8&gt;&lt;/s7&gt;&lt;s17&gt;&lt;f18&gt;&lt;f19&gt;&lt;f20&gt;&lt;s21&gt;&lt;s22&gt;&lt;s23&gt; pour qui tous les charts du monde sont unanimes: elle est la voix qui justifie l’existence de la musique.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094254Z" creationid="laura" creationdate="20230601T094254Z">
         <seg>En la portada, la reina, el icono, el glamourissime&lt;a1&gt;&lt;s2&gt; &lt;/s2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;s5&gt;Beyoncé&lt;/s5&gt;&lt;/a3&gt; justifica unánimemente la existencia de la música.</seg>
       </tuv>
     </tu>
@@ -3368,6 +3512,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>Imbattable en imagination et numéro 1 en dimension épique, le designer, bouleversé par “&lt;/s27&gt;&lt;a28&gt;&lt;s29&gt;Renaissance&lt;/s29&gt;&lt;/a28&gt;&lt;s30&gt;”, le dernier album de &lt;b31&gt;Beyoncé&lt;/b31&gt;, a réalisé avec la star 16 tenues couture dédiées aux 16 titres qui le compose, créant un concept unique, &lt;b32&gt;Renaissance Couture&lt;/b32&gt;, le premier album à porter !&lt;/s30&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T181951Z" creationid="USUARIO" creationdate="20230525T153926Z">
+        <seg>Imbatible en imaginación y número 1 en dimensión épica, el diseñador, conmovido por "Renaissance", el último álbum de Beyoncé, realizó con la estrella 16 trajes de costura dedicados a los títulos que componen el concepto único, Renaissance Couture&lt;/B32&gt;, el primer álbum a llevar! También en la primera fila del Salón de la Fama Vogue, los nuevos súper modelos Precious Lee, Jill </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Imbattable en imagination et numéro 1 en dimension épique, le designer, bouleversé par “&lt;/s89&gt;&lt;/s88&gt;&lt;/s87&gt;&lt;/f86&gt;&lt;/f85&gt;&lt;/f84&gt;&lt;/s83&gt;&lt;a90&gt;&lt;s91&gt;&lt;f92&gt;&lt;f93&gt;&lt;f94&gt;&lt;s95&gt;&lt;s96&gt;&lt;s97&gt;&lt;s98&gt;Renaissance&lt;/s98&gt;&lt;/s97&gt;&lt;/s96&gt;&lt;/s95&gt;&lt;/f94&gt;&lt;/f93&gt;&lt;/f92&gt;&lt;/s91&gt;&lt;/a90&gt;&lt;s99&gt;&lt;f100&gt;&lt;f101&gt;&lt;f102&gt;&lt;s103&gt;&lt;s104&gt;&lt;s105&gt;”, le dernier album de &lt;/s105&gt;&lt;/s104&gt;&lt;/s103&gt;&lt;/f102&gt;&lt;/f101&gt;&lt;/f100&gt;&lt;/s99&gt;&lt;s106&gt;&lt;s107&gt;&lt;f108&gt;&lt;f109&gt;&lt;f110&gt;&lt;s111&gt;&lt;s112&gt;&lt;b113&gt;Beyoncé&lt;/b113&gt;&lt;/s112&gt;&lt;/s111&gt;&lt;/f110&gt;&lt;/f109&gt;&lt;/f108&gt;&lt;/s107&gt;&lt;/s106&gt;&lt;s114&gt;&lt;f115&gt;&lt;f116&gt;&lt;f117&gt;&lt;s118&gt;&lt;s119&gt;&lt;s120&gt;, a réalisé avec la star 16 tenues couture dédiées aux 16 titres qui le compose, créant un concept unique, &lt;/s120&gt;&lt;/s119&gt;&lt;/s118&gt;&lt;/f117&gt;&lt;/f116&gt;&lt;/f115&gt;&lt;/s114&gt;&lt;s121&gt;&lt;s122&gt;&lt;f123&gt;&lt;f124&gt;&lt;f125&gt;&lt;s126&gt;&lt;s127&gt;&lt;b128&gt;Renaissance Couture&lt;/b128&gt;&lt;/s127&gt;&lt;/s126&gt;&lt;/f125&gt;&lt;/f124&gt;&lt;/f123&gt;&lt;/s122&gt;&lt;/s121&gt;&lt;s129&gt;&lt;f130&gt;&lt;f131&gt;&lt;f132&gt;&lt;s133&gt;&lt;s134&gt;&lt;s135&gt;, le premier album à porter !&lt;/s135&gt;&lt;/s134&gt;&lt;/s133&gt;&lt;/f132&gt;&lt;/f131&gt;&lt;/f130&gt;&lt;/s129&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094257Z" creationid="laura" creationdate="20230601T094257Z">
         <seg>Imbatible en imaginación y número 1 en dimensión épica, el diseñador, conmovido por "Renaissance", el último álbum de Beyoncé, realizó con la estrella 16 trajes de costura dedicados a los títulos que componen el concepto único, Renaissance Couture&lt;/B32&gt;, el primer álbum a llevar! También en la primera fila del Salón de la Fama Vogue, los nuevos súper modelos Precious Lee, Jill </seg>
       </tuv>
     </tu>
@@ -3765,9 +3917,25 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>La collection s’accompagne d’accessoires qui marient l’utile à l’incroyable : bobs en nylon, casquettes, sacoches multipoches… ainsi qu’un porte-gobelet à porter en bandoulière, indispensable aux accros à la caféine qui aiment sillonner la ville.&lt;/s89&gt;&lt;/s88&gt;&lt;/s87&gt;&lt;/f86&gt;&lt;/f85&gt;&lt;/f84&gt;&lt;/s83&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094323Z" creationid="laura" creationdate="20230601T094323Z">
+        <seg>La colección se acompaña de accesorios que combinan lo útil con lo increíble: Bobs de nylon, gorras, alforjas... así como un portavasos para llevar en bandolera, indispensable para los adictos a la cafeína que les gusta pasear por la ciudad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>La concrete jungle est au cœur de sa collaboration avec la maison Moncler, et son concept révolutionnaire lancé en 2018, &lt;i1&gt;Genius&lt;/i1&gt;, qui invite des créatifs issus de tous horizons à réinventer les codes de la Maison, en s’affranchissant du calendrier saisonnier de la mode pour lui préférer des drops mensuels.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>La Concrete jungle está en el corazón de su colaboración con la casa Moncler, y su revolucionario concepto lanzado en 2018, &lt;i1&gt;Genius&lt;/i1&gt;, que invita a creativos de todos los horizontes a reinventar los códigos de la Maison, dejando de lado el calendario estacional de la moda y prefiriendo Drops mensuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>La concrete jungle est au cœur de sa collaboration avec la maison Moncler, et son concept révolutionnaire lancé en 2018, &lt;/s23&gt;&lt;/s22&gt;&lt;/s21&gt;&lt;/f20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/s17&gt;&lt;/s16&gt;&lt;s24&gt;&lt;e25&gt;&lt;s26&gt;&lt;f27&gt;&lt;f28&gt;&lt;f29&gt;&lt;s30&gt;&lt;s31&gt;Genius&lt;/s31&gt;&lt;/s30&gt;&lt;/f29&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;/s26&gt;&lt;/e25&gt;&lt;/s24&gt;&lt;s32&gt;&lt;s33&gt;&lt;f34&gt;&lt;f35&gt;&lt;f36&gt;&lt;s37&gt;&lt;s38&gt;&lt;s39&gt;, qui invite des créatifs issus de tous horizons à réinventer les codes de la Maison, en s’affranchissant du calendrier saisonnier de la mode pour lui préférer des drops mensuels.&lt;/s39&gt;&lt;/s38&gt;&lt;/s37&gt;&lt;/f36&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;/s33&gt;&lt;/s32&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094316Z" creationid="laura" creationdate="20230601T094316Z">
         <seg>La Concrete jungle está en el corazón de su colaboración con la casa Moncler, y su revolucionario concepto lanzado en 2018, &lt;i1&gt;Genius&lt;/i1&gt;, que invita a creativos de todos los horizontes a reinventar los códigos de la Maison, dejando de lado el calendario estacional de la moda y prefiriendo Drops mensuales.</seg>
       </tuv>
     </tu>
@@ -3837,6 +4005,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>La palette chromatique travaillée par &lt;/s74&gt;&lt;/s73&gt;&lt;/s72&gt;&lt;/f71&gt;&lt;/f70&gt;&lt;/f69&gt;&lt;/s68&gt;&lt;s75&gt;&lt;s76&gt;&lt;f77&gt;&lt;f78&gt;&lt;f79&gt;&lt;s80&gt;&lt;s81&gt;&lt;b82&gt;Alicia Keys&lt;/b82&gt;&lt;/s81&gt;&lt;/s80&gt;&lt;/f79&gt;&lt;/f78&gt;&lt;/f77&gt;&lt;/s76&gt;&lt;/s75&gt;&lt;s83&gt;&lt;f84&gt;&lt;f85&gt;&lt;f86&gt;&lt;s87&gt;&lt;s88&gt;&lt;s89&gt;dévoile des tons puissants et lumineux : gris métallisé futuriste, rose corail, color blocks jamaïcains vert, noir et jaune, sans oublier son violet signature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094322Z" creationid="laura" creationdate="20230601T094322Z">
+        <seg>Evocan "el streetwear de finales de los años 90, con un giro adicional". La paleta cromática elaborada por &lt;b3&gt;Alicia Keys&lt;/b3&gt;revela tonos potentes y luminosos: gris metalizado futurista, rosa coral, color blocks jamaiquinos verde, negro y amarillo, sin olvidar su violeta firma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>La perspective adulte prend trop de place dans tout ça. »&lt;/i14&gt;&lt;/s13&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T180505Z" creationid="USUARIO" creationdate="20230525T180505Z">
@@ -3877,6 +4053,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>La puissante et charismatique diva est aussi la co-créatrice d’une &lt;/s23&gt;&lt;/s22&gt;&lt;/s21&gt;&lt;/f20&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;/s17&gt;&lt;a24&gt;&lt;s25&gt;&lt;f26&gt;&lt;f27&gt;&lt;f28&gt;&lt;s29&gt;&lt;s30&gt;&lt;s31&gt;&lt;s32&gt;unique collection&lt;/s32&gt;&lt;/s31&gt;&lt;/s30&gt;&lt;/s29&gt;&lt;/f28&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;/s25&gt;&lt;/a24&gt;&lt;s33&gt;&lt;f34&gt;&lt;f35&gt;&lt;f36&gt;&lt;s37&gt;&lt;s38&gt;&lt;s39&gt; &lt;/s39&gt;&lt;/s38&gt;&lt;/s37&gt;&lt;/f36&gt;&lt;/f35&gt;&lt;/f34&gt;&lt;/s33&gt;&lt;s40&gt;&lt;a41&gt;&lt;s42&gt;&lt;f43&gt;&lt;f44&gt;&lt;f45&gt;&lt;s46&gt;&lt;s47&gt;&lt;b48&gt;&lt;s49&gt;Balmain&lt;/s49&gt;&lt;/b48&gt;&lt;/s47&gt;&lt;/s46&gt;&lt;/f45&gt;&lt;/f44&gt;&lt;/f43&gt;&lt;/s42&gt;&lt;/a41&gt;&lt;/s40&gt;&lt;s50&gt;&lt;f51&gt;&lt;f52&gt;&lt;f53&gt;&lt;s54&gt;&lt;s55&gt;&lt;s56&gt; &lt;/s56&gt;&lt;/s55&gt;&lt;/s54&gt;&lt;/f53&gt;&lt;/f52&gt;&lt;/f51&gt;&lt;/s50&gt;&lt;a57&gt;&lt;s58&gt;&lt;f59&gt;&lt;f60&gt;&lt;f61&gt;&lt;s62&gt;&lt;s63&gt;&lt;s64&gt;&lt;s65&gt;haute couture avec&lt;/s65&gt;&lt;/s64&gt;&lt;/s63&gt;&lt;/s62&gt;&lt;/f61&gt;&lt;/f60&gt;&lt;/f59&gt;&lt;/s58&gt;&lt;/a57&gt;&lt;s66&gt;&lt;f67&gt;&lt;f68&gt;&lt;f69&gt;&lt;s70&gt;&lt;s71&gt;&lt;s72&gt; &lt;/s72&gt;&lt;/s71&gt;&lt;/s70&gt;&lt;/f69&gt;&lt;/f68&gt;&lt;/f67&gt;&lt;/s66&gt;&lt;s73&gt;&lt;a74&gt;&lt;s75&gt;&lt;f76&gt;&lt;f77&gt;&lt;f78&gt;&lt;s79&gt;&lt;s80&gt;&lt;b81&gt;&lt;s82&gt;Olivier Rousteing&lt;/s82&gt;&lt;/b81&gt;&lt;/s80&gt;&lt;/s79&gt;&lt;/f78&gt;&lt;/f77&gt;&lt;/f76&gt;&lt;/s75&gt;&lt;/a74&gt;&lt;/s73&gt;&lt;s83&gt;&lt;f84&gt;&lt;f85&gt;&lt;f86&gt;&lt;s87&gt;&lt;s88&gt;&lt;s89&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094256Z" creationid="laura" creationdate="20230601T094256Z">
+        <seg>La poderosa y carismática diva es también laRepresentante Permanente de la Federación de Rusia ante las Naciones Unidas para los Derechos Humanos, Organización de la Unidad Africana, Organización para la Prohibición de las Armas Químicas, Organización de las Naciones Unidas para la Prohibición de las Armas Químicas y Programa de las Naciones Unidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>La puissante et charismatique diva est la co-créatrice d’une unique collection Balmain haute couture avec Olivier Rousteing.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T180419Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -3912,6 +4096,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>Le célèbre logo &lt;b5&gt;Moncler&lt;/b5&gt;, lui, s’affiche en version maxi sur les doudounes courtes et les hoodies oversize, rehaussé d’une couronne inspirée de la statue de la Liberté.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174427Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>El famoso logo Moncler, se muestra en versión maxi en las chaquetas cortas y las Hoodies oversize, realzado con una corona inspirada en la Estatua de la Libertad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Le célèbre logo &lt;/s141&gt;&lt;/s140&gt;&lt;/s139&gt;&lt;/f138&gt;&lt;/f137&gt;&lt;/f136&gt;&lt;/s135&gt;&lt;s142&gt;&lt;s143&gt;&lt;f144&gt;&lt;f145&gt;&lt;f146&gt;&lt;s147&gt;&lt;s148&gt;&lt;b149&gt;Moncler&lt;/b149&gt;&lt;/s148&gt;&lt;/s147&gt;&lt;/f146&gt;&lt;/f145&gt;&lt;/f144&gt;&lt;/s143&gt;&lt;/s142&gt;&lt;s150&gt;&lt;f151&gt;&lt;f152&gt;&lt;f153&gt;&lt;s154&gt;&lt;s155&gt;&lt;s156&gt;, lui, s’affiche en version maxi sur les doudounes courtes et les hoodies oversize, rehaussé d’une couronne inspirée de la statue de la Liberté.&lt;/s156&gt;&lt;/s155&gt;&lt;/s154&gt;&lt;/f153&gt;&lt;/f152&gt;&lt;/f151&gt;&lt;/s150&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094343Z" creationid="laura" creationdate="20230601T094343Z">
         <seg>El famoso logo Moncler, se muestra en versión maxi en las chaquetas cortas y las Hoodies oversize, realzado con una corona inspirada en la Estatua de la Libertad.</seg>
       </tuv>
     </tu>
@@ -4122,6 +4314,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T113304Z" creationid="OmegaT Aligner" creationdate="20230525T113304Z">
         <seg>Las casas de moda a las que Karl Lagerfeld ha recurrido para crear su aspecto legendario Dripping in Chrome Hearts, Lagerfeld as featured in Chrome Hearts Magazine, Series 1 Volumen 6 in 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les mots tracés au dos des pièces en jersey – “&lt;/s111&gt;&lt;/s110&gt;&lt;/s109&gt;&lt;/f108&gt;&lt;/f107&gt;&lt;/f106&gt;&lt;/s105&gt;&lt;e112&gt;&lt;s113&gt;&lt;f114&gt;&lt;f115&gt;&lt;f116&gt;&lt;s117&gt;&lt;s118&gt;&lt;s119&gt;Where dreams are made of”&lt;/s119&gt;&lt;/s118&gt;&lt;/s117&gt;&lt;/f116&gt;&lt;/f115&gt;&lt;/f114&gt;&lt;/s113&gt;&lt;/e112&gt;&lt;s120&gt;&lt;f121&gt;&lt;f122&gt;&lt;f123&gt;&lt;s124&gt;&lt;s125&gt;&lt;s126&gt; – évoquent quant à eux “&lt;/s126&gt;&lt;/s125&gt;&lt;/s124&gt;&lt;/f123&gt;&lt;/f122&gt;&lt;/f121&gt;&lt;/s120&gt;&lt;e127&gt;&lt;s128&gt;&lt;f129&gt;&lt;f130&gt;&lt;f131&gt;&lt;s132&gt;&lt;s133&gt;&lt;s134&gt;Empire State of Mind&lt;/s134&gt;&lt;/s133&gt;&lt;/s132&gt;&lt;/f131&gt;&lt;/f130&gt;&lt;/f129&gt;&lt;/s128&gt;&lt;/e127&gt;&lt;s135&gt;&lt;f136&gt;&lt;f137&gt;&lt;f138&gt;&lt;s139&gt;&lt;s140&gt;&lt;s141&gt;”, l’hymne de la diva.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094342Z" creationid="laura" creationdate="20230601T094342Z">
+        <seg>Las palabras trazadas en la parte posterior de las piezas en jersey - "Where Dreams are made of" - evocan por su parte "Empire State of Mind", el himno de la diva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4686,6 +4886,22 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>PAR &lt;a0&gt;&lt;s1&gt;JESSICA SCEMAMA&lt;/s1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094524Z" creationid="laura" creationdate="20230601T094524Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>PAR &lt;a0&gt;&lt;s1&gt;MARIE LÉGER&lt;/s1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094416Z" creationid="laura" creationdate="20230601T094416Z">
+        <seg>POR MARIE LÉGER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>PAR &lt;a0&gt;&lt;s1&gt;MARTHE MABILLE&lt;/s1&gt;&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185532Z" creationid="laura" creationdate="20230525T185532Z">
@@ -4814,6 +5030,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Plus loin, la bombesque &lt;/s36&gt;&lt;/s35&gt;&lt;/s34&gt;&lt;/f33&gt;&lt;/f32&gt;&lt;/f31&gt;&lt;/s30&gt;&lt;s37&gt;&lt;s38&gt;&lt;f39&gt;&lt;f40&gt;&lt;f41&gt;&lt;s42&gt;&lt;s43&gt;&lt;b44&gt;Irina Shayk&lt;/b44&gt;&lt;/s43&gt;&lt;/s42&gt;&lt;/f41&gt;&lt;/f40&gt;&lt;/f39&gt;&lt;/s38&gt;&lt;/s37&gt;&lt;s45&gt;&lt;f46&gt;&lt;f47&gt;&lt;f48&gt;&lt;s49&gt;&lt;s50&gt;&lt;s51&gt; joue les exercices de style monomaniaques à New York, les tapis rouges british font leurs shows et &lt;/s51&gt;&lt;/s50&gt;&lt;/s49&gt;&lt;/f48&gt;&lt;/f47&gt;&lt;/f46&gt;&lt;/s45&gt;&lt;s52&gt;&lt;s53&gt;&lt;f54&gt;&lt;f55&gt;&lt;f56&gt;&lt;s57&gt;&lt;s58&gt;&lt;b59&gt;Emrata&lt;/b59&gt;&lt;/s58&gt;&lt;/s57&gt;&lt;/f56&gt;&lt;/f55&gt;&lt;/f54&gt;&lt;/s53&gt;&lt;/s52&gt;&lt;s60&gt;&lt;f61&gt;&lt;f62&gt;&lt;f63&gt;&lt;s64&gt;&lt;s65&gt;&lt;s66&gt;, quant à elle, sévit sur tous les fronts en incarnant l’allure pratique qu’on retrouve sur les podiums qui comptent.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094300Z" creationid="laura" creationdate="20230601T094300Z">
+        <seg>Más adelante, la bombesca Irina Shayk juega los ejercicios de estilo monomaníacos en Nueva York, las alfombras rojas británicas hacen sus shows y Emrata, En cuanto a ella, hace estragos en todos los frentes encarnando el aspecto práctico que encontramos en los podios que cuentan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Pour le look du dîner de répétition, l'équipe s'est efforcée de recréer une robe portée par &lt;b4&gt;Stella Tennant&lt;/b4&gt; lors du défilé Chanel automne 1997.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230601T092518Z" creationid="USUARIO" creationdate="20230601T092518Z">
@@ -4850,6 +5074,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T155422Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Para mí, era realmente nuestra boda principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Pour sa cinquième édition, &lt;a0&gt;&lt;s1&gt;Vogue Experience&lt;/s1&gt;&lt;/a0&gt; convie toute la communauté Vogue à deux journées exclusives mêlant masterclass et ateliers autour de grandes marques de mode, beauté et lifestyle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094418Z" creationid="laura" creationdate="20230601T094418Z">
+        <seg>Para su quinta edición, Vogue Experience invita a toda la comunidad Vogue a dos días exclusivos de masterclasses y talleres sobre grandes marcas de moda, belleza y estilo de vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4986,6 +5218,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T183317Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>De todos modos, no habían dado un concierto en cinco &lt;/s1&gt;&lt;s2&gt;años, y trajeron a su grupo desde Nashville y Los Ángeles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Rendez-vous les 12 et 13 mai 2023 en compagnie des rédactrices du magazine Vogue France.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094419Z" creationid="laura" creationdate="20230601T094419Z">
+        <seg>Conoce a los editores de la revista Vogue Francia los días 12 y 13 de mayo de 2023.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5206,6 +5446,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Soin de la peau, make-up, stylisme mode, masterclass, coaching sportif, animations photo, le tout sous l'œil des rédactrices du magazine… La communauté &lt;e0&gt;Vogue&lt;/e0&gt; est invitée à vivre cette expérience unique, dans le sublime lieu de la Galerie Joseph, Paris 4e.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094422Z" creationid="laura" creationdate="20230601T094422Z">
+        <seg>Cuidados de la piel, maquillaje, estilismo de moda, clases magistrales, coaching deportivo, animaciones fotográficas, todo bajo la mirada de los editores de la revista... La comunidad Vogue está invitada a vivir esta experiencia única, en la sublime Galerie Joseph, París 4ª.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Soit une énième bonne raison de découvrir son œuvre 20th Century Women</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T180504Z" creationid="OmegaT Aligner" creationdate="20230525T180504Z">
@@ -5326,9 +5574,25 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Toute les informations de la collection sur &lt;s0&gt;&lt;a1&gt;Moncler.com&lt;/a1&gt;&lt;/s0&gt;&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094413Z" creationid="laura" creationdate="20230601T094413Z">
+        <seg>toda la información de la colección resort 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Toutes les grandes influences stylistiques emportées par les super tops &lt;b6&gt;Małgosia Bela, Karen Elson, Lara Stone, Mona Tougaard, Anok Yai&lt;/b6&gt;...</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174139Z" creationid="USUARIO" creationdate="20230525T150940Z">
+        <seg>Todas las grandes influencias estilísticas llevadas por los supertops. Małgosia Bela, Karen Elson, Lara Stone, Mona Tougaard, Anok Yai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Toutes les grandes influences stylistiques emportées par les super tops &lt;/s66&gt;&lt;/s65&gt;&lt;/s64&gt;&lt;/f63&gt;&lt;/f62&gt;&lt;/f61&gt;&lt;/s60&gt;&lt;s67&gt;&lt;s68&gt;&lt;f69&gt;&lt;f70&gt;&lt;f71&gt;&lt;s72&gt;&lt;s73&gt;&lt;b74&gt;Małgosia Bela, Karen Elson, Lara Stone, Mona Tougaard, Anok Yai&lt;/b74&gt;&lt;/s73&gt;&lt;/s72&gt;&lt;/f71&gt;&lt;/f70&gt;&lt;/f69&gt;&lt;/s68&gt;&lt;/s67&gt;&lt;s75&gt;&lt;f76&gt;&lt;f77&gt;&lt;f78&gt;&lt;s79&gt;&lt;s80&gt;&lt;s81&gt;...</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094303Z" creationid="laura" creationdate="20230601T094303Z">
         <seg>Todas las grandes influencias estilísticas llevadas por los supertops. Małgosia Bela, Karen Elson, Lara Stone, Mona Tougaard, Anok Yai.</seg>
       </tuv>
     </tu>
@@ -5455,6 +5719,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Vivre des expériences de marques inédites à travers le regard de &lt;e0&gt;Vogue France…&lt;/e0&gt; Voilà l’idée de l’événement Vogue Expérience, dont la cinquième édition aura lieu à Paris les vendredi 12 et samedi 13 mai 2023.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094414Z" creationid="laura" creationdate="20230601T094414Z">
+        <seg> Vivir experiencias de marcas inéditas a través de la mirada de Vogue France... Esta es la idea del evento Vogue Experience, cuya quinta edición tendrá lugar en París el viernes 12 y el sábado 13 de mayo de 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Vogue Experience 2023 : participez à la cinquième édition dans une sublime galerie parisienne</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -5514,6 +5786,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>Vous avez déjà imaginé vous envoler au-dessus de Central Park et profiter d’un point de vue unique sur toute la Grosse Pomme, du Brooklyn Bridge à la statue de la Liberté ?</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
+        <seg>¿Alguna vez has pensado en volar sobre Central Park y disfrutar de una vista única de toda la Gran Manzana, desde el puente de Brooklyn hasta la Estatua de la Libertad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Vous avez déjà imaginé vous envoler au-dessus de Central Park et profiter d’un point de vue unique sur toute la Grosse Pomme, du Brooklyn Bridge à la statue de la Liberté ? Alicia Keys a beau être new-yorkaise de naissance, elle n’a pas encore épuisé tous les possibles qu’offre sa ville.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094315Z" creationid="laura" creationdate="20230601T094315Z">
         <seg>¿Alguna vez has pensado en volar sobre Central Park y disfrutar de una vista única de toda la Gran Manzana, desde el puente de Brooklyn hasta la Estatua de la Libertad?</seg>
       </tuv>
     </tu>
@@ -6387,6 +6667,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185712Z" creationid="laura" creationdate="20230525T185712Z">
         <seg>"Había cuatro maquilladores y cuatro peluqueros, todos de Londres y todos fantásticos!" La novia y sus amigas prefieren un look clásico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;e2&gt;Let’s hear it for New York&lt;/e2&gt;”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="laura" changedate="20230601T094347Z" creationid="laura" creationdate="20230601T094347Z">
+        <seg>"&lt;i1&gt;Let’s Hear it for New York&lt;/i1&gt;".</seg>
       </tuv>
     </tu>
     <tu>
