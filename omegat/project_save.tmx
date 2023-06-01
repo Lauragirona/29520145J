@@ -238,6 +238,22 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;b0&gt;&lt;s1&gt;Elliot Grainge&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; a demandé la main de &lt;/s2&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Sofia Richie&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt; à Hawaï après un an de relation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092244Z" creationid="USUARIO" creationdate="20230601T092244Z">
+        <seg>Elliot Grainge ha pedido la mano de Sofia Richie en Hawái después de un año de relación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;b0&gt;&lt;s1&gt;Elliot Grainge&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; portait un costume &lt;/s2&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Ralph Lauren&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;s6&gt; lors du dîner de répétition et un smoking &lt;/s6&gt;&lt;a7&gt;&lt;b8&gt;&lt;s9&gt;Tom Ford&lt;/s9&gt;&lt;/b8&gt;&lt;/a7&gt;&lt;s10&gt; le jour du mariage, tandis que les sept &lt;/s10&gt;&lt;a11&gt;&lt;s12&gt;demoiselles d'honneur&lt;/s12&gt;&lt;/a11&gt;&lt;s13&gt; étaient entièrement vêtues de noir.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092553Z" creationid="USUARIO" creationdate="20230601T092553Z">
+        <seg>Elliot Grainge vestía un traje &lt;s1&gt;de Ralph Lauren en la cena de ensayo y un esmoquin Tom Ford el día de la boda, mientras que las siete damas de honor estaban completamente vestidas de negro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;b0&gt;&lt;s1&gt;Kardashian&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; leur ont donné beaucoup à faire : &lt;/s2&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Kourtney&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Kardashian&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt;, ses sœurs et leurs enfants portaient tous des vêtements d'archives ou sur-mesure &lt;/s11&gt;&lt;a12&gt;&lt;b13&gt;&lt;s14&gt;Dolce &amp; Gabbana&lt;/s14&gt;&lt;/b13&gt;&lt;/a12&gt;&lt;s15&gt;, ce qui a soulevé des questions sur l'implication exacte de la maison de couture italienne dans cette affaire.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T151322Z" creationid="halimahamada" creationdate="20230525T151322Z">
@@ -279,10 +295,26 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;b0&gt;&lt;s1&gt;Sofia Richie&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; avait toujours rêvé de descendre l’allée au bras de son père.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092655Z" creationid="USUARIO" creationdate="20230601T092655Z">
+        <seg>Sofía Richie siempre había soñado con ir por el pasillo al brazo de su padre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;b0&gt;Alicia Keys&lt;/b0&gt; ne l’at-elle pas dit mieux que personne ?</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174438Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>Alicia Keys¿no lo ha dicho mejor que nadie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;b15&gt;Kathleen Riley&lt;/b15&gt;, sa coiffeuse attitrée depuis de nombreuses années, était également en poste.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092628Z" creationid="USUARIO" creationdate="20230601T092628Z">
+        <seg>Kathleen Riley, su estilista habitual desde hace muchos años, también estaba post.</seg>
       </tuv>
     </tu>
     <tu>
@@ -639,10 +671,66 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;i0&gt;&lt;s1&gt;“Pour moi, c’est l’incarnation de l'élégance classique et de la féminité qui ont fait le génie de &lt;/s1&gt;&lt;/i0&gt;&lt;a2&gt;&lt;i3&gt;&lt;s4&gt;Karl &lt;/s4&gt;&lt;/i3&gt;&lt;/a2&gt;&lt;a5&gt;&lt;i6&gt;&lt;s7&gt;Lagerfeld.&lt;/s7&gt;&lt;/i6&gt;&lt;/a5&gt;&lt;i8&gt;&lt;s9&gt;”&lt;/s9&gt;&lt;/i8&gt;&lt;s10&gt; &lt;b11&gt;Nicole Richie&lt;/b11&gt;, la sœur de la mariée, a conçu une paire de boucles d'oreilles en diamant pour compléter la tenue.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092530Z" creationid="USUARIO" creationdate="20230601T092530Z">
+        <seg>"Para mí, fue la encarnación de la elegancia clásica y la feminidad lo que hizo el genio de Karl Lagerfeld."Nicole Richie, la hermana de la novia, diseñó un par de pendientes de diamante para completar el atuendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i0&gt;&lt;s1&gt;“Travailler avec Chanel n'était pas seulement un honneur, mais aussi un rêve devenu réalité”&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt;, confie &lt;b3&gt;Sofia Richie&lt;/b3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092305Z" creationid="USUARIO" creationdate="20230601T092305Z">
+        <seg>"Trabajar con Chanel no fue solo un honor, sino también un sueño hecho realidad", confiesa Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i0&gt;“Puis, nous avons pris la route de la cérémonie”&lt;/i0&gt;, explique &lt;b1&gt;Sofia Richie&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092635Z" creationid="USUARIO" creationdate="20230601T092635Z">
+        <seg>"Luego tomamos la ruta de la ceremonia", explica Sofía Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;i10&gt;« Barbie était une rebelle.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T120104Z" creationid="USUARIO" creationdate="20230524T120104Z">
         <seg>« Barbie era una rebella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i10&gt;“C’était un travail de longue haleine mais nous nous sommes bien amusés”&lt;/i10&gt;, explique la jeune mariée.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092256Z" creationid="USUARIO" creationdate="20230601T092256Z">
+        <seg>"Fue un largo trabajo, pero nos divertimos mucho", explica la joven casada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i10&gt;“Le maquillage était très simple pour un effet peau nette tout au long du week-end”,&lt;/i10&gt; explique la jeune mariée.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092621Z" creationid="USUARIO" creationdate="20230601T092621Z">
+        <seg>"El maquillaje era muy simple para un efecto piel nítida mientras que largo del fin de semana", explica la novia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i11&gt;“Nous avons travaillé pendant près d’un an avec les planificateurs de Banana Split, qui ont été fantastiques.”&lt;/i11&gt;&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092258Z" creationid="USUARIO" creationdate="20230601T092258Z">
+        <seg>"Hemos trabajado durante casi un año con los planificadores de Banana Split, que han sido fantásticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i12&gt;“C’était tellement spécial de porter sa création lors du moment le plus important de ma vie”&lt;/i12&gt;, affirme &lt;b13&gt;Sofia Richie&lt;/b13&gt;.&lt;/s10&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092536Z" creationid="USUARIO" creationdate="20230601T092536Z">
+        <seg>"Fue tan especial llevar su creación en el momento más importante de mi vida", dijo Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -655,10 +743,98 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;i14&gt;“Je voulais que mes demoiselles d’honneur se sentent à leur aise, ma seule exigence était qu’elles portent du noir”&lt;/i14&gt;, explique &lt;b15&gt;Sofia Richie&lt;/b15&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092557Z" creationid="USUARIO" creationdate="20230601T092557Z">
+        <seg>"Quería que mis damas de honor se sintieran a gusto, mi única exigencia era que vistieran de negro", explica Sofia Richie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i16&gt;“Chaque fille a choisi sa propre robe, de YSL à Rodarte.”&lt;/i16&gt; La veille du mariage, &lt;b17&gt;Sofia Richie&lt;/b17&gt; a dormi dans une villa de la propriété en compagnie de ses demoiselles d’honneur.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092601Z" creationid="USUARIO" creationdate="20230601T092601Z">
+        <seg>"Cada chica eligió su propio vestido, de YSL a Rodarte." La víspera de la boda, Sofia Richie durmió en una villa de la propiedad con sus damas de honor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i19&gt;“Le lendemain matin, je me suis réveillée avec toutes mes demoiselles d'honneur et ma sœur, et nous sommes allées à la répétition de 8 heures.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092607Z" creationid="USUARIO" creationdate="20230601T092607Z">
+        <seg>"A la mañana siguiente, me desperté con todas mis damas de honor y mi hermana, y fuimos al ensayo de las ocho. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i2&gt;“Lors de la réception, je portais des boucles d'oreilles en diamants de Kwiat, la société mère de Fred Leighton, et pour la fête, mes boucles d'oreilles chandelier Fred Leighton en aigue-marine ont ajouté une touche de bleu bienvenue.”&lt;/i2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092543Z" creationid="USUARIO" creationdate="20230601T092543Z">
+        <seg>"En la recepción, llevaba pendientes de diamantes de Kwiat, la empresa matriz de Fred Leighton, y para la fiesta, mis pendientes de vela Fred Leighton en aguamarina agregaron un toque de azul bienvenido."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i3&gt;“Il nous a fallu à chacun sept minutes et demie pour parcourir l’allée”,&lt;/i3&gt; précise &lt;b4&gt;Sofia Richie&lt;/b4&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092645Z" creationid="USUARIO" creationdate="20230601T092645Z">
+        <seg>"Nos tomó a cada uno siete minutos y medio para recorrer el pasillo", &lt;/s1&gt;&lt;s2&gt;precisa Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i3&gt;“Je regardais les demoiselles d'honneur et les garçons d'honneur descendre l'allée les uns après les autres, et plus notre tour approchait, moins j’arrivais à croire que ce moment était bien réel&lt;/i3&gt;”, explique-t-elle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092658Z" creationid="USUARIO" creationdate="20230601T092658Z">
+        <seg>"Miraba a las señoritas de honor y los padrinos de loscaminar por el pasillo uno tras otro, y más nuestro turno se acercaba, cuanto menos creía que ese momento era real", explica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i4&gt;“Avoir la chance de créer cette robe et de travailler si étroitement avec Olivia Douchez, première d’atelier Haute Couture, les observer à l’œuvre et voir l’attention accordée aux détails a été une expérience unique au monde.”&lt;/i4&gt;&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092308Z" creationid="USUARIO" creationdate="20230601T092308Z">
+        <seg>"Tener la oportunidad de crear este vestido y trabajar tan de cerca con Olivia Douchez, primera de taller de Alta Costura, observarlos en el trabajo y ver la atención al detalle fue una experiencia única en el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i5&gt;“Nous avions tout chronométré.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092647Z" creationid="USUARIO" creationdate="20230601T092647Z">
+        <seg>"Lo habíamos cronometrado todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i5&gt;“Toutes les perles ont été ajoutées à la main”&lt;/i5&gt;, explique &lt;b6&gt;Sofia Richie&lt;/b6&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092527Z" creationid="USUARIO" creationdate="20230601T092527Z">
+        <seg>"Todas las joyas fueron añadidas a mano", explica Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i7&gt;“Elliot m’avait fait la surprise en invitant tous nos meilleurs amis pour un séjour à Hawaï en avril 2022”&lt;/i7&gt;, se souvient &lt;b8&gt;Sofia Richie&lt;/b8&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092248Z" creationid="USUARIO" creationdate="20230601T092248Z">
+        <seg>"Elliot me sorprendió al invitar a todos nuestros mejores amigos a una estancia en Hawai en abril de 2022", recuerda Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;i8&gt;« Barbie et moi sommes très similaires. »&lt;/i8&gt;&lt;/s7&gt;&lt;s9&gt; &lt;/s9&gt;&lt;s10&gt;confiait-il au &lt;i11&gt;Guardian&lt;/i11&gt;&lt;/s10&gt;&lt;s12&gt; &lt;/s12&gt;&lt;s13&gt;en mars 2015.</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T173534Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>&lt;i8&gt;«Barbie y yo somos muy similares. » &lt;/i8&gt;confiaba al Guardian en marzo de 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i8&gt;“Dès mes premiers essayages dans les salons Chanel à Paris, j’ai eu une idée très précise de ce que je voulais : une magnifique robe dos nu brodée de dentelle avec une longue traîne.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092505Z" creationid="USUARIO" creationdate="20230601T092505Z">
+        <seg>"Desde mis primeras pruebas en los salones Chanel de París, tuve una idea muy precisa de lo que quería: un magnífico vestido espalda descubierta bordado de encaje con una larga</seg>
       </tuv>
     </tu>
     <tu>
@@ -675,6 +851,14 @@
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230524T115321Z" creationid="USUARIO" creationdate="20230524T115321Z">
         <seg>Nunca soñé con cambiar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;i9&gt;“Il m'a demandé en mariage à l'heure dorée, c'était un instant magique”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092250Z" creationid="USUARIO" creationdate="20230601T092250Z">
+        <seg>"Me pidió matrimonio en la hora dorada, fue un momento mágico"</seg>
       </tuv>
     </tu>
     <tu>
@@ -871,6 +1055,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;Le petit-déjeuner a pris fin vers 11 heures et le groupe est immédiatement passé à l’étape coiffure et maquillage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092614Z" creationid="USUARIO" creationdate="20230601T092614Z">
+        <seg>El desayuno terminó alrededor de las 11.00 horas y el grupo pasó inmediatamente a la etapa de peinado y maquillaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;Mills&lt;i1&gt;.&lt;/i1&gt;&lt;/s0&gt;&lt;s2&gt; &lt;/s2&gt;&lt;s3&gt;Passée quelque peu inaperçu à sa sortie en France, en 2017, le film a pourtant de quoi plaire.</seg>
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230526T161007Z" creationid="Nerea" creationdate="20230526T161007Z">
@@ -935,6 +1127,14 @@
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>&lt;s0&gt;Quelques semaines avant le mariage (et avant de dévoiler son nouveau nom de famille sur TikTok), la mariée s'est rendue dans les salons Haute Couture de &lt;/s0&gt;&lt;a1&gt;&lt;b2&gt;&lt;s3&gt;Chanel&lt;/s3&gt;&lt;/b2&gt;&lt;/a1&gt;&lt;s4&gt; à Paris, accompagnée de sa belle-mère, &lt;b5&gt;Lady Caroline Grainge&lt;/b5&gt;, et de sa meilleure amie, &lt;b6&gt;Ali Meller&lt;/b6&gt;, pour les derniers essayages de sa robe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092302Z" creationid="USUARIO" creationdate="20230601T092302Z">
+        <seg>Unas semanas antes de la boda (y antes de revelar su nuevo apellido en TikTok), la novia visitó los salones de alta costura de París, acompañada de su madrastra, Lady Caroline Grainge, y su mejor amiga, Ali Meller, por las últimas pruebas de su vestido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>&lt;s0&gt;Retrouvez aussi sur Vogue.fr :&lt;/s0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T183522Z" creationid="laura" creationdate="20230531T183522Z">
@@ -988,6 +1188,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T174920Z" creationid="USUARIO" creationdate="20230525T151044Z">
         <seg>toda la información de la colección resort 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>&lt;s0&gt;Un &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;trio de robes&lt;/s2&gt;&lt;/a1&gt;&lt;s3&gt; de mariée a été confectionné par &lt;b4&gt;Chanel&lt;/b4&gt; pour les trois temps forts du week-end de mariage :  le dîner de répétition, qui a eu lieu le vendredi soir dans un domaine privé, la cérémonie et &lt;i5&gt;l’after-party&lt;/i5&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092457Z" creationid="USUARIO" creationdate="20230601T092457Z">
+        <seg>Un trio de vestidos de boda fueron confeccionados por Chanel, por los tres tiempos fuertes del fin de semana de la boda: La cena de recepción, que tuvo lugar viernes a la noche en un sitio privado, la ceremonia y el after..</seg>
       </tuv>
     </tu>
     <tu>
@@ -2453,6 +2661,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Et c’était très important pour moi de l’avoir à mes côtés”&lt;/i16&gt;, poursuit &lt;b17&gt;Sofia Richie&lt;/b17&gt;.&lt;/s9&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092633Z" creationid="USUARIO" creationdate="20230601T092633Z">
+        <seg>Y era muy importante para mí tenerlo a mi lado", continúa Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Et puisque les super stars de ce magazine ce sont aussi les tendances (qu’on aime décrypter toutes les saisons), l’équipe de Vogue dévoile, en avant-première, ce qui fera le sel du printemps, entre allure intemporelle, beauté high-tech et pop attitude.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -2552,6 +2768,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>Il a ajouté la légende “Forever isn’t long enough”&lt;/e5&gt; ("L’éternité ne sera pas assez longue") au post Instagram qui célébrait la journée.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T161445Z" creationid="laura" creationdate="20230525T185646Z">
+        <seg>"Añadió la leyenda "Forever isn't long enough" (La eternidad no será suficiente") en una foto de Instagram que celebraba el día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Il a ajouté la légende “Forever isn’t long enough”&lt;/i9&gt; ("L’éternité ne sera pas assez longue") au post Instagram qui célébrait la journée.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092254Z" creationid="USUARIO" creationdate="20230601T092254Z">
         <seg>"Añadió la leyenda "Forever isn't long enough" (La eternidad no será suficiente") en una foto de Instagram que celebraba el día.</seg>
       </tuv>
     </tu>
@@ -3101,6 +3325,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>La mariée a été escortée par son père pour descendre l'allée, qui était bordée d'un chapiteau en verre transparent et ornée d’une multitude de fleurs blanches et crème par &lt;b2&gt;Roni Floral Design&lt;/b2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092643Z" creationid="USUARIO" creationdate="20230601T092643Z">
+        <seg>La novia fue escoltada por su padre para bajar el pasillo, que estaba bordeado por un capitel de cristal transparente y adornado con una multitud de flores blancas y crema por Roni Floral Design.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>La mariée a été escortée par son père pour descendre l'allée, qui était bordée d'un chapiteau en verre transparent et ornée d’une multitude de fleurs blanches et crème par &lt;s2&gt;Roni Floral Design&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185727Z" creationid="laura" creationdate="20230525T185727Z">
@@ -3153,6 +3385,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T180419Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>La poderosa y carismatica diva es la co-creadora de una unica colección de Balmain alta costura con Olivier Rousting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>La robe est pleine de détails subtils, comme un cœur brodé représentant notre amour avec Elliot, ainsi que les lettres S &amp; E brodées en bleu à l'intérieur de la robe, au-dessus de mon cœur.”&lt;/i8&gt; &lt;b9&gt;Sofia Richie&lt;/b9&gt; voulait quelque chose d'unique pour son voile : elle a travaillé avec l'équipe Chanel pour imaginer une pièce scintillante, ornée de gouttes d'eau en résine qui scintillaient lorsqu'elle marchait.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092511Z" creationid="USUARIO" creationdate="20230601T092511Z">
+        <seg>El vestido está lleno de detalles sutiles, como un corazón bordado que representa nuestro amor con Elliot, así como las letras S &amp; E bordadas en azul dentro del vestido, por encima de mi corazón." Sofia Richie quería algo único para su vela: trabajó con el equipo Chanel para imaginar una pieza brillante, adornada con gotas de agua de resina que brillaban cuando caminaba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3305,6 +3545,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Las damas de honor de Sofía Richie eran enteramente vestidas de negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Les familles Richie et Grainge sont amies depuis plus de 20 ans, car &lt;b10&gt;Lionel Richie&lt;/b10&gt; collabore fréquemment avec le père d'&lt;b11&gt;Elliot Grainge&lt;/b11&gt;, président-directeur général d'Universal Music Group, &lt;b12&gt;Sir Lucian Grainge&lt;/b12&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092240Z" creationid="USUARIO" creationdate="20230601T092106Z">
+        <seg>Las familias richie y Grainge son amigos desde hace 20 años, ya que Lionel Richie colabora frecuentemente con el padre de Eliot Grainge, presidente y director general de Universal Music Group, el Señor Lucian Grainge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3694,6 +3942,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Nous avons eu l'impression que quelqu'un veillait sur nous là-haut, parce que même si la journée était très couverte, les nuages se sont dissipés à cet instant.”&lt;/i5&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092653Z" creationid="USUARIO" creationdate="20230601T092653Z">
+        <seg>Teníamos la impresión de que alguien velaba sobre nosotros allí arriba, porque aunque el día estaba muy cubierto, las nubes se disiparon a este instante."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Nous avons fait un véritable essayage à &lt;/s7&gt;&lt;a12&gt;&lt;s13&gt;Milan&lt;/s13&gt;&lt;/a12&gt;&lt;s14&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230525T154635Z" creationid="halimahamada" creationdate="20230525T154635Z">
@@ -3721,6 +3977,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>Nous ne tenions plus en place, de vraies petites filles !”&lt;/e11&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230525T185315Z" creationid="laura" creationdate="20230525T185315Z">
+        <seg>Ya no nos sentábamos, ¡niñas de verdad!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Nous ne tenions plus en place, de vraies petites filles !”&lt;/i19&gt;&lt;/s13&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092610Z" creationid="USUARIO" creationdate="20230601T092610Z">
         <seg>Ya no nos sentábamos, ¡niñas de verdad!"</seg>
       </tuv>
     </tu>
@@ -3966,10 +4230,26 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Pour le look du dîner de répétition, l'équipe s'est efforcée de recréer une robe portée par &lt;b4&gt;Stella Tennant&lt;/b4&gt; lors du défilé Chanel automne 1997.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092518Z" creationid="USUARIO" creationdate="20230601T092518Z">
+        <seg>Para el aspecto de la cena de ensayo, el equipo se esforzó por recrear un vestido usado por Stella Tennant durante el desfile Chanel otoño 1997.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Pour le look du dîner de répétition, l'équipe s'est efforcée de recréer une robe portée par &lt;s4&gt;Stella Tennant&lt;/s4&gt; lors du défilé Chanel automne 1997.</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T162012Z" creationid="laura" creationdate="20230525T185413Z">
         <seg>Para el aspecto de la cena de ensayo, el equipo se esforzó por recrear un vestido usado por Stella Tennant durante el desfile Chanel otoño 1997.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Pour les deux autres looks, &lt;b0&gt;Sofia Richie&lt;/b0&gt; a collaboré étroitement avec sa styliste, &lt;b1&gt;Liat Baruch&lt;/b1&gt;, et &lt;b2&gt;Olivia Douchez&lt;/b2&gt; pour parcourir les défilés haute couture &lt;b3&gt;Chanel&lt;/b3&gt; du passé et sélectionner des références.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092516Z" creationid="USUARIO" creationdate="20230601T092516Z">
+        <seg>Para los otros dos looks, Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia Douchez para recorrer los desfiles de alta costura Chanel del pasado y seleccionar referencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,6 +4558,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>Sofia Richie : dans les coulisses de l'essayage de ses trois robes de mariée Chanel 30 Photos</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092612Z" creationid="USUARIO" creationdate="20230601T092612Z">
+        <seg>Sofia Richie: entre bastidores en la prueba de sus tres vestidos de novia Chanel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>Sofia Richie a descendu l'allée au bras de son père</seg>
       </tuv>
       <tuv lang="es" changeid="laura" changedate="20230531T182734Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -4394,6 +4682,14 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="Nerea" changedate="20230525T165522Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Los dos observan el fuego que envuelve el coche desde detrás del escaparate, aparentemente despreocupados y, sobre todo, imperturbables..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>Tous les autres bijoux de la mariée étaient signés &lt;b0&gt;Fred Leighton&lt;/b0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092538Z" creationid="USUARIO" creationdate="20230601T092538Z">
+        <seg>Todas las demás joyas de la novia estaban firmadas por Fred Leighton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5576,10 +5872,74 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
+        <seg>“&lt;i11&gt;Je voulais que ce soit intemporel, et me dire que je pourrai regarder les photos dans vingt ans.”&lt;/i11&gt; Sa mise en beauté a été assurée par la superstar des maquilleuses, &lt;b12&gt;Pati Dubroff&lt;/b12&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092625Z" creationid="USUARIO" creationdate="20230601T092625Z">
+        <seg>"Quería que fuera atemporal, y me dijo que yo podrá ver las fotos dentro de veinte años." Su belleza ha sido asegurada por la superestrella de los Maquilladoras, Pati Dubroff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;i13&gt;J’ai toujours rêvé d’être maquillée par elle pour mon mariage”,&lt;/i13&gt; confie &lt;b14&gt;Sofia Richie&lt;/b14&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092627Z" creationid="USUARIO" creationdate="20230601T092627Z">
+        <seg>"Siempre soñé con que me maquillara para mi boda", confiesa Sofía Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;i16&gt;Elle était invitée au mariage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092631Z" creationid="USUARIO" creationdate="20230601T092631Z">
+        <seg>"Ella fue invitada a la boda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;i18&gt;Nous avons ri toute la nuit”&lt;/i18&gt;, avoue-t-elle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092603Z" creationid="USUARIO" creationdate="20230601T092603Z">
+        <seg>"Nos reímos toda la noche", cuenta ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;i1&gt;J’ai toujours adoré ses créations atemporelles”&lt;/i1&gt;, confie la jeune femme.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092540Z" creationid="USUARIO" creationdate="20230601T092540Z">
+        <seg>"Siempre me han encantado sus creaciones atemporales", dice la joven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
         <seg>“&lt;i1&gt;Let’s hear it for New York&lt;/i1&gt;”.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T191127Z" creationid="OmegaT Aligner" creationdate="20230524T191127Z">
         <seg>"&lt;i1&gt;Let’s Hear it for New York&lt;/i1&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;i1&gt;Nous sommes entrées au paradis du glamour”&lt;/i1&gt;, raconte &lt;b2&gt;Sofia Richie&lt;/b2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092616Z" creationid="USUARIO" creationdate="20230601T092616Z">
+        <seg>"Entramos en el paraíso del glamour", cuenta Sofia Richie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;i3&gt;Il y avait quatre maquilleurs et quatre coiffeurs, tous venus de &lt;/i3&gt;&lt;/s0&gt;&lt;a4&gt;&lt;i5&gt;&lt;s6&gt;Londres&lt;/s6&gt;&lt;/i5&gt;&lt;/a4&gt;&lt;i7&gt;&lt;s8&gt; et tous fantastiques !”&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt; La mariée et ses amies ont préféré opter pour un look classique.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092619Z" creationid="USUARIO" creationdate="20230601T092619Z">
+        <seg>"Había cuatro maquilladores y cuatro peluqueros, todos de Londres y todos fantásticos!" La novia y sus amigas prefieren un look clásico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="fr">
+        <seg>“&lt;i6&gt;J’ai toujours rêvé d’avoir une robe de mariée dessinée par Chanel”&lt;/i6&gt;, affirme &lt;b7&gt;Sofia Richie&lt;/b7&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="USUARIO" changedate="20230601T092500Z" creationid="USUARIO" creationdate="20230601T092500Z">
+        <seg>"Siempre he querido tener un vestido de novia diseñado por Chanel", afirma Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
