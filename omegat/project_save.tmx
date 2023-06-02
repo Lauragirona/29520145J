@@ -80,8 +80,8 @@
       <tuv lang="fr">
         <seg>(Nous avions bu trop de tequila et nous étions dans l'instant présent, ce qui était très amusant.</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T223901Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>(Habíamos bebido demasiado tequila y estábamos en el momento, que era muy divertido.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230602T152924Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Habíamos bebido demasiado tequila y estábamos en el momento, que era muy divertido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1587,8 +1587,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;b3&gt;&lt;s4&gt;J'ai ri en regardant votre mariage à Vegas quand l'officiant Elvis demande accidentellement à Travis de prendre "Khloé", votre sœur comme épouse plutôt que vous, Kourtney.</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T223931Z" creationid="halimahamada" creationdate="20230525T152237Z">
-        <seg>Me reí viendo tu boda en Las Vegas cuando el padre Elvis pide accidentalmente a Travis que tome "Khloé", tu hermana como esposa, en lugar como tú, Kourtney.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230602T153104Z" creationid="halimahamada" creationdate="20230525T152237Z">
+        <seg>Me reí viendo tu boda en Las Vegas cuando el padre Elvis pide accidentalmente a Travis que tome a "Khloé", tu hermana como esposa, en lugar de a ti, Kourtney.</seg>
       </tuv>
     </tu>
     <tu>
