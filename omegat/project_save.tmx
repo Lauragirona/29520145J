@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1369,8 +1369,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Mode &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;Exit les dad shoes, voici la tendance sandales qu'on va voir partout ce printemps&lt;/s2&gt;&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230601T093444Z" creationid="USUARIO" creationdate="20230601T093444Z">
-        <seg>Fuera los zapatos dad, aquí está la tendencia de sandalias que vamos a ver por todas partes esta primavera.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102903Z" creationid="USUARIO" creationdate="20230601T093444Z">
+        <seg>aquí está la tendencia de sandalias que vamos a ver por todas partes esta primavera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3879,8 +3879,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>LTR</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230525T145001Z" creationid="OmegaT Aligner" creationdate="20230525T145001Z">
-        <seg>Pero realmente había muchos.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102910Z" creationid="OmegaT Aligner" creationdate="20230525T145001Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3959,8 +3959,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>La famille et les amis du couple ont séjourné à l'emblématique hôtel du Cap-Éden-Roc à Antibes pour le week-end de ce mariage éclair, qui a commencé par un dîner de répétition le vendredi soir.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>1/96 La familia y los amigos de la pareja se alojaron en el emblemático hotel de Cap-Éden-Roc en Antibes para el fin de semana de esta boda relámpago, que comenzó con una cena de ensayo el viernes por la noche.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102818Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>La familia y los amigos de la pareja se alojaron en el emblemático hotel de Cap-Éden-Roc en Antibes para el fin de semana de esta boda relámpago, que comenzó con una cena de ensayo el viernes por la noche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6291,14 +6291,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>• Su boda fue organizada por Stefano Gabbana y Domenico Dolce.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/article/tendance-sandales-fisherman-printemps-ete#intcid=_vogue-fr-right-rail_d0311b1c-2df2-435b-802d-f8c1de865584_popular4-1</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es 7 zapatos de verano que las mujeres francesas nunca dejan</seg>
       </tuv>
     </tu>
     <tu>
