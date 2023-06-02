@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3263,8 +3263,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Et surtout, on avait vraiment l'impression d'être en famille, ce qui est exactement ce que nous voulions pour notre mariage.”&lt;/i7&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230601T092954Z" creationid="USUARIO" creationdate="20230601T092954Z">
-        <seg>Y lo más importante, nos sentimos como en familia, que es exactamente lo que queríamos para nuestro matrimonio."&lt;/e7&gt;</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102713Z" creationid="USUARIO" creationdate="20230601T092954Z">
+        <seg>Y lo más importante, nos sentimos como en familia, que es exactamente lo que queríamos para nuestro matrimonio."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4271,8 +4271,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Les invités ont dansé jusqu'à 3 heures du matin, avant que les jeunes mariés, ainsi que leurs demoiselles d'honneur et leurs garçons d'honneur, ne rejoignent la villa où tout avait commencé plus tôt dans la journée.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Los invitados bailaron hasta las 3 de la mañana, antes de que los recién casados, junto con sus damas de honor y sus padrinos, se unen a la villa donde todo había comenzado antes en la día.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102804Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Los invitados bailaron hasta las 3 de la mañana, antes de que los recién casados, junto con sus damas de honor y sus padrinos, se unen a la villa donde todo había comenzado el dia de antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5216,8 +5216,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Quoi qu'il en soit, ils n'avaient pas donné de concert depuis cinq ans, et ils ont fait venir leur groupe de Nashville et de Los Angeles.</seg>
       </tuv>
-      <tuv lang="es" changeid="laura" changedate="20230531T183317Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>De todos modos, no habían dado un concierto en cinco &lt;/s1&gt;&lt;s2&gt;años, y trajeron a su grupo desde Nashville y Los Ángeles.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102656Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>De todos modos, no habían dado un concierto en cinco años, y trajeron a su grupo desde Nashville y Los Ángeles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6795,8 +6795,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>“&lt;i23&gt;Je rêvais d’avoir ma première danse sur Stuck on You, je l’ai toujours dit.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230601T092851Z" creationid="USUARIO" creationdate="20230601T092851Z">
-        <seg>"Siempre he querido tener mi primer baile sobre Stuck on You.  Hola, fue una sorpresa y toda la asamblea ha vuelto al coro."</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102610Z" creationid="USUARIO" creationdate="20230601T092851Z">
+        <seg>"Siempre he querido tener mi primer baile sobre Stuck on You."</seg>
       </tuv>
     </tu>
     <tu>
