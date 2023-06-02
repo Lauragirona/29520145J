@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1313,8 +1313,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;La carrière de &lt;b1&gt;Karl Lagerfeld&lt;/b1&gt; s'est étendue sur plus d'un demi-siècle, et pendant la majeure partie de cette période, il a porté exactement la même chose : des chemises blanches à col montant, des gants noirs, une multitude de bijoux, une &lt;/s0&gt;&lt;a2&gt;&lt;s3&gt;queue de cheval&lt;/s3&gt;&lt;/a2&gt;&lt;s4&gt; à la &lt;b5&gt;Mozart&lt;/b5&gt; et des lunettes noires de jais (la plupart du temps &lt;b6&gt;Chanel&lt;/b6&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Nerea" changedate="20230526T105258Z" creationid="Nerea" creationdate="20230526T105258Z">
-        <seg>La carrera de Karl Lagerfeld se ha extendido en más de medio siglo, y durante la mayor parte de este periodo, el ha llevado exactamente la misma cosa: camisas blancas a montones, guantes negros, gran cantidad de joyas, una cola de caballo a lo Mozart y gafas negro azabache (la mayor parte del tiempo de Chanel).</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230602T102907Z" creationid="Nerea" creationdate="20230526T105258Z">
+        <seg>La carrera de Karl Lagerfeld se ha extendido durante más de medio siglo, y en la mayor parte de este periodo, el ha llevado exactamente la misma cosa: camisas blancas a montones, guantes negros, gran cantidad de joyas, una cola de caballo a lo Mozart y gafas negro azabache (la mayor parte del tiempo de Chanel).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,8 +2430,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Chanel, Chrome Hearts, Dior Homme… Tant de marques qui se cachent derrière l'uniforme bien connu de Karl Lagerfeld.</seg>
       </tuv>
-      <tuv lang="es" changeid="Nerea" changedate="20230525T113610Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Chanel, Chrome Hearts, Dior Homme... Tantas marcas que se esconden detás del uniforme bien conocido de Karl Lagerfeld.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230602T102738Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Chanel, Chrome Hearts, Dior Homme... Tantas marcas que se esconden detrás del uniforme bien conocido de Karl Lagerfeld.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3463,8 +3463,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Il savait ce que beaucoup de personnes au sommet de cette industrie savent qu'il est préférable d'avoir une signature inébranlable.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Él sabía lo que muchas personas en la parte superior de esta industria saben que es mejor tener una firma inquebrantable.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230602T103006Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Él sabía, lo que muchas personas en la parte superior de esta industria saben, que es mejor tener una firma inquebrantable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5895,14 +5895,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/article/karl-lagerfeld-histoire-queue-de-cheval-emblematique</seg>
-      </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230601T100209Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>e</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/article/rihanna-bijou-porte-bonheur-cadeau-anniversaire-fevrier-2023</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -6263,14 +6255,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
     </tu>
     <tu>
       <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/article/marque-jean-patou-renait-interview-guillaume-henry</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
         <seg>https://www.vogue.fr/mode/article/monica-bellucci-look-new-york-janvier-2023</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
@@ -6338,14 +6322,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
         <seg>https://www.vogue.fr/mode/inspirations/diaporama/le-look-hippie-gypset-la-plage/21849</seg>
       </tuv>
       <tuv lang="es" changeid="USUARIO" changedate="20230525T181636Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/inspirations/diaporama/style-icone-coco-chanel-gabrielle-vintage-throwback-mode/45300</seg>
-      </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230601T100217Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>.</seg>
       </tuv>
     </tu>
