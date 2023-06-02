@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="fr"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="fr"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1305,8 +1305,8 @@
       <tuv lang="fr">
         <seg>&lt;s0&gt;Fondée à Hollywood en 1988, &lt;/s0&gt;&lt;a1&gt;&lt;b2&gt;&lt;s3&gt;Chrome Hearts&lt;/s3&gt;&lt;/b2&gt;&lt;/a1&gt;&lt;s4&gt; est une bijouterie dirigée par le duo mari et femme &lt;b5&gt;Richard&lt;/b5&gt; et &lt;b6&gt;Laurie Lynn Stark&lt;/b6&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Nerea" changedate="20230526T111036Z" creationid="Nerea" creationdate="20230526T111036Z">
-        <seg>Fundada en Hollywood en 1988, Chrome Hearts es una joyería dirigida por el dúo marido y mujer Richard y Laurie Lynn Stark.</seg>
+      <tuv lang="es" changeid="halimahamada" changedate="20230602T103103Z" creationid="Nerea" creationdate="20230526T111036Z">
+        <seg>Fundada en Hollywood en 1988, Chrome Hearts es una joyería dirigida por el matrimonio de Richard y Laurie Lynn Stark.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,14 +2432,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="halimahamada" changedate="20230602T102738Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>Chanel, Chrome Hearts, Dior Homme... Tantas marcas que se esconden detrás del uniforme bien conocido de Karl Lagerfeld.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>Chrome Hearts</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>es es</seg>
       </tuv>
     </tu>
     <tu>
