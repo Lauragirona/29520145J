@@ -264,8 +264,8 @@
       <tuv lang="fr">
         <seg>&lt;b0&gt;&lt;s1&gt;Kardashian&lt;/s1&gt;&lt;/b0&gt;&lt;s2&gt; leur ont donné beaucoup à faire : &lt;/s2&gt;&lt;a3&gt;&lt;b4&gt;&lt;s5&gt;Kourtney&lt;/s5&gt;&lt;/b4&gt;&lt;/a3&gt;&lt;a6&gt;&lt;s7&gt; &lt;/s7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;b9&gt;&lt;s10&gt;Kardashian&lt;/s10&gt;&lt;/b9&gt;&lt;/a8&gt;&lt;s11&gt;, ses sœurs et leurs enfants portaient tous des vêtements d'archives ou sur-mesure &lt;/s11&gt;&lt;a12&gt;&lt;b13&gt;&lt;s14&gt;Dolce &amp; Gabbana&lt;/s14&gt;&lt;/b13&gt;&lt;/a12&gt;&lt;s15&gt;, ce qui a soulevé des questions sur l'implication exacte de la maison de couture italienne dans cette affaire.</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T151322Z" creationid="halimahamada" creationdate="20230525T151322Z">
-        <seg>Kourtney Kardashian, sus hermanas e hijos han llevado toda ropa de archivos de Dolce &amp; Gabbana, cosa que ha suscitado preguntas sobre la implicación de esta casa de cultura italiana en este asunto.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230602T150309Z" creationid="halimahamada" creationdate="20230525T151322Z">
+        <seg>Kourtney Kardashian, sus hermanas e hijos han llevado toda ropa de archivos o hecha a medida de Dolce &amp; Gabbana, cosa que ha suscitado preguntas sobre la implicación de esta casa de cultura italiana en este asunto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1853,8 +1853,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>&lt;s0&gt;•&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;&lt;s2&gt;&lt;/s2&gt;&lt;s3&gt;Les jours suivants ont été marqués par une véritable frénésie médiatique : magazines, journaux, blogs et utilisateurs de Twitter ont couvert les moindres faits et gestes de la famille, qu'il s'agisse de leurs sorties &lt;i4&gt;gelato&lt;/i4&gt;, de leurs déjeuners sur le yacht ou de leurs dîners au square.</seg>
       </tuv>
-      <tuv lang="es" changeid="halimahamada" changedate="20230525T223206Z" creationid="halimahamada" creationdate="20230525T151122Z">
-        <seg> Los siguientes días fueron marcados por un real frenesí mediático: revistas, periódicos, blogs y usuarios de Twitter han cubierto los hechos y los gestos de la familia, que son sus salidoas, sus desayunos en el yate, o sus comidas en el centro.</seg>
+      <tuv lang="es" changeid="Nerea" changedate="20230602T150127Z" creationid="halimahamada" creationdate="20230525T151122Z">
+        <seg> Los siguientes días fueron marcados por un real frenesí mediático: revistas, periódicos, blogs y usuarios de Twitter han cubierto los hechos y los gestos de la familia, que son sus salidas, sus desayunos en el yate, o sus comidas en el centro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6203,14 +6203,6 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
         <seg>es vestido en el que quería casarme: un hermoso vestido espalda descubierta bordada de encaje con un larga cola", explica Sofía Richie.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="fr">
-        <seg>https://www.vogue.fr/mode/article/kim-kardashian-dolce-gabbana-printemps-ete-2023</seg>
-      </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>"Era el Ford Galaxy de mi marido, dijo de repente una voz femenina.</seg>
       </tuv>
     </tu>
     <tu>
