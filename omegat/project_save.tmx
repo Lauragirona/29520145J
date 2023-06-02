@@ -865,16 +865,16 @@
       <tuv lang="fr">
         <seg>&lt;i3&gt;“Il nous a fallu à chacun sept minutes et demie pour parcourir l’allée”,&lt;/i3&gt; précise &lt;b4&gt;Sofia Richie&lt;/b4&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230601T092645Z" creationid="USUARIO" creationdate="20230601T092645Z">
-        <seg>"Nos tomó a cada uno siete minutos y medio para recorrer el pasillo", &lt;/s1&gt;&lt;s2&gt;precisa Sofia Richie.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T101938Z" creationid="USUARIO" creationdate="20230601T092645Z">
+        <seg>"Nos tomó a cada uno siete minutos y medio para recorrer el pasillo", precisa Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="fr">
         <seg>&lt;i3&gt;“Je regardais les demoiselles d'honneur et les garçons d'honneur descendre l'allée les uns après les autres, et plus notre tour approchait, moins j’arrivais à croire que ce moment était bien réel&lt;/i3&gt;”, explique-t-elle.</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230601T092658Z" creationid="USUARIO" creationdate="20230601T092658Z">
-        <seg>"Miraba a las señoritas de honor y los padrinos de loscaminar por el pasillo uno tras otro, y más nuestro turno se acercaba, cuanto menos creía que ese momento era real", explica.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102037Z" creationid="USUARIO" creationdate="20230601T092658Z">
+        <seg>"Miraba a las damas de honor y los padrinos caminar por el pasillo uno tras otro, y cuando nuestro turno se acercaba, cuanto menos creía que ese momento era real", explica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3231,8 +3231,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Et c’était très important pour moi de l’avoir à mes côtés”&lt;/i16&gt;, poursuit &lt;b17&gt;Sofia Richie&lt;/b17&gt;.&lt;/s9&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="USUARIO" changedate="20230601T092633Z" creationid="USUARIO" creationdate="20230601T092633Z">
-        <seg>Y era muy importante para mí tenerlo a mi lado", continúa Sofia Richie.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T101838Z" creationid="USUARIO" creationdate="20230601T092633Z">
+        <seg>Y era muy importante para mí tenerla a mi lado", continúa Sofia Richie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3631,8 +3631,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>J'étais très nerveuse avant de descendre l'allée, c’était comme si j’avais le trac tellement mon taux d'adrénaline avait grimpé.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Yo era muy nerviosa antes de bajar por el callejón, fue como si estuviera tan nerviosa por mi nivel de adrenalina había subido.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102107Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Yo estaba muy nerviosa antes de bajar por el callejón, fue como si estuviera tan nerviosa por mi nivel de adrenalina que me había subido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4360,8 +4360,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Les tourtereaux se sont retrouvés dans la chambre d'hôtel de la mère de la mariée pour signer la ketouba, un moment pour lequel les deux familles ont joué les témoins.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Los tortolitos se encontrados en la habitación de hotel de la madre de la novia para firmar la ketouba, un momento para el cual las dos familias actuaron como testigos.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T101918Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Los tortolitos se encontradon en la habitación de hotel de la madre de la novia para firmar la ketouba, un momento para el cual las dos familias actuaron como testigos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4488,8 +4488,8 @@ Sofia Richie ha colaborado estrechamente con su estilista, Liat Baruch, y Olivia
       <tuv lang="fr">
         <seg>Mais nous avons pu profiter de ces sept minutes pour discuter, et il m’a confié : ‘Tu es l’amour de ma vie et je suis si heureux pour toi’.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230504T162324Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
-        <seg>Pero aprovechamos los siete minutos para hablar, y me dijo: el amor de mi vida y estoy tan feliz por ti'.</seg>
+      <tuv lang="es" changeid="USUARIO" changedate="20230602T102123Z" creationid="OmegaT Aligner" creationdate="20230504T162324Z">
+        <seg>Pero aprovechamos los siete minutos para hablar, y me dijo: eres el amor de mi vida y estoy tan feliz por ti'.</seg>
       </tuv>
     </tu>
     <tu>
